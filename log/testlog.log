@@ -1,0 +1,2672 @@
+2020-09-23 12:23:51,487 - cosac -INFO - User Clicked on Merchandising
+2020-09-23 12:23:51,762 - cosac -INFO - User Clicked on Create
+2020-09-23 12:23:57,453 - cosac -INFO - User Clicked on Location
+2020-09-23 12:23:59,372 - cosac -INFO - User verified Create Location PageLabel Successfully
+2020-09-23 12:23:59,372 - cosac -INFO - User is in Create Location Page
+2020-09-23 12:24:00,539 - cosac -INFO - User entered Location ID successfully 
+2020-09-23 12:24:00,668 - cosac -INFO - User is able to enter text to 'Sales System ID'
+2020-09-23 12:24:01,088 - cosac -INFO - User selected 'Facia' 
+2020-09-23 12:24:01,368 - cosac -INFO - User is able to select 'Store Type'
+2020-09-23 12:24:01,464 - cosac -INFO - User selected 'Store Type' successfully
+2020-09-23 12:24:01,551 - cosac -INFO - User Clicked on 'Virtual checkBox' successfully
+2020-09-23 12:24:01,636 - cosac -INFO - User Clicked on 'Active checkBox' successfully
+2020-09-23 12:24:01,769 - cosac -INFO - User Entered the Address in addressLine1 successfully
+2020-09-23 12:24:01,895 - cosac -INFO - User Entered the Address in addressLine2 successfully
+2020-09-23 12:24:02,013 - cosac -INFO - User Entered the City successfully
+2020-09-23 12:24:02,120 - cosac -INFO - User Entered the Postal code successfully
+2020-09-23 12:24:04,514 - cosac -INFO - User Selected the Contact Type successfully
+2020-09-23 12:24:04,607 - cosac -INFO - User Entered the Contact Type successfully
+2020-09-23 12:24:04,697 - cosac -INFO - User has clicked on addBTN successfully
+2020-09-23 12:24:04,778 - cosac -INFO - User has clicked on SaveBTN successfully
+2020-09-23 12:24:05,883 - cosac -INFO - Toast Message is --->Location saved successfully
+2020-09-23 12:24:05,884 - cosac -INFO - Location Creation Message-->Location saved successfully
+2020-09-23 12:24:05,999 - cosac -INFO - LocationValue--->131021
+2020-09-23 12:24:06,002 - cosac -INFO - User validated Locationvalue successfully-->131021
+2020-09-23 12:24:06,002 - cosac -INFO - User is able to Create Location successfully
+2020-09-23 12:24:07,164 - cosac -INFO - User Clicked on Merchandising
+2020-09-23 12:24:07,428 - cosac -INFO - User Clicked on SearchMenu
+2020-09-23 12:24:07,532 - cosac -INFO - User Clicked on Locations
+2020-09-23 12:24:07,570 - cosac -INFO - Location_Pageheading-->131021
+2020-09-23 12:24:07,571 - cosac -INFO - User is in Location Search Page
+2020-09-23 12:24:09,403 - cosac -INFO - User entered text in search field successfully
+2020-09-23 12:24:10,966 - cosac -INFO - Location_ID-->131021
+2020-09-23 12:24:10,966 - cosac -INFO - User Validated LocationID successfully
+2020-09-23 12:24:11,012 - cosac -INFO - User Validated LocationName successfully-->SATELITETOWN
+2020-09-23 12:24:11,015 - cosac -INFO - Test Failed
+2020-09-23 12:28:26,755 - cosac -INFO - User Clicked on Merchandising
+2020-09-23 12:28:27,028 - cosac -INFO - User Clicked on Create
+2020-09-23 12:28:38,307 - cosac -INFO - User Clicked on Location
+2020-09-23 12:28:40,364 - cosac -INFO - User verified Create Location PageLabel Successfully
+2020-09-23 12:28:40,365 - cosac -INFO - User is in Create Location Page
+2020-09-23 12:28:41,533 - cosac -INFO - User entered Location ID successfully 
+2020-09-23 12:28:41,651 - cosac -INFO - User is able to enter text to 'Sales System ID'
+2020-09-23 12:28:42,049 - cosac -INFO - User selected 'Facia' 
+2020-09-23 12:28:42,344 - cosac -INFO - User is able to select 'Store Type'
+2020-09-23 12:28:42,435 - cosac -INFO - User selected 'Store Type' successfully
+2020-09-23 12:28:42,523 - cosac -INFO - User Clicked on 'Virtual checkBox' successfully
+2020-09-23 12:28:42,610 - cosac -INFO - User Clicked on 'Active checkBox' successfully
+2020-09-23 12:28:42,737 - cosac -INFO - User Entered the Address in addressLine1 successfully
+2020-09-23 12:28:42,833 - cosac -INFO - User Entered the Address in addressLine2 successfully
+2020-09-23 12:28:42,978 - cosac -INFO - User Entered the City successfully
+2020-09-23 12:28:43,105 - cosac -INFO - User Entered the Postal code successfully
+2020-09-23 12:28:45,518 - cosac -INFO - User Selected the Contact Type successfully
+2020-09-23 12:28:45,638 - cosac -INFO - User Entered the Contact Type successfully
+2020-09-23 12:28:45,740 - cosac -INFO - User has clicked on addBTN successfully
+2020-09-23 12:28:45,815 - cosac -INFO - User has clicked on SaveBTN successfully
+2020-09-23 12:28:46,921 - cosac -INFO - Toast Message is --->Cannot save location  Location Id must be unique
+2020-09-23 12:28:46,922 - cosac -INFO - Location Creation Message-->Cannot save location  Location Id must be unique
+2020-09-23 12:29:02,387 - cosac -INFO - User verified Logo successfully
+2020-09-23 12:29:02,392 - cosac -INFO - User verified HomePage Title successfully
+2020-09-23 12:29:03,949 - cosac -INFO - User Clicked on Merchandising
+2020-09-23 12:29:05,259 - cosac -INFO - User Clicked on Create
+2020-09-23 12:29:09,913 - cosac -INFO - User Clicked on Vendor
+2020-09-23 12:29:11,550 - cosac -INFO - User verified Create Location PageLabel Successfully
+2020-09-23 12:29:11,680 - cosac -INFO - User enetered the vendorcode 
+2020-09-23 12:29:11,781 - cosac -INFO - User enetered the vendorName
+2020-09-23 12:29:11,931 - cosac -INFO - User selected Local vendor
+2020-09-23 12:29:12,026 - cosac -INFO - User enetered the  addressline1
+2020-09-23 12:29:12,096 - cosac -INFO - User enetered the  City
+2020-09-23 12:29:12,201 - cosac -INFO - User enetered the State
+2020-09-23 12:29:12,267 - cosac -INFO - User enetered the Pincode
+2020-09-23 12:29:12,368 - cosac -INFO - User enetered the IsoCode
+2020-09-23 12:29:12,566 - cosac -INFO - User selected the Currency
+2020-09-23 12:29:12,774 - cosac -INFO - User  selected the  Status successfully
+2020-09-23 12:29:12,891 - cosac -INFO - User entered the  Payment Terms successfully
+2020-09-23 12:29:12,979 - cosac -INFO - User entered the order Email successfully
+2020-09-23 12:29:15,298 - cosac -INFO - User  selected the  Contact Email successfully
+2020-09-23 12:29:15,463 - cosac -INFO - User Entered the Email in contact field successfully
+2020-09-23 12:29:17,890 - cosac -INFO - User Filled the Local vendor creation form successfully 
+2020-09-23 12:29:18,046 - cosac -INFO - User Clicked on Save successfully
+2020-09-23 12:29:19,890 - cosac -INFO - Caught the Success Message successfully--->Vendor saved successfully
+2020-09-23 12:29:23,302 - cosac -INFO - User selected suggestions tag successfully
+2020-09-23 12:29:23,375 - cosac -INFO - User  Clicked on addBTN successfully
+2020-09-23 12:29:25,121 - cosac -INFO - Toast TagMessage is --->Vendor tag saved successfully
+2020-09-23 12:29:26,285 - cosac -INFO - Assrtion text-->HINDALCO MICO TRADERS
+2020-09-23 12:29:26,286 - cosac -INFO - User successfully validated vendorName
+2020-09-23 12:29:48,644 - cosac -INFO - merchandising element is displayed and Clicked on it
+2020-09-23 12:29:48,897 - cosac -INFO - Mouse hovered on Reports
+2020-09-23 12:29:56,653 - cosac -INFO - TopSku element is displayed and Clicked on it
+2020-09-23 12:29:57,194 - cosac -INFO - User is in Top SKU Reports Page
+2020-09-23 12:29:57,305 - cosac -INFO - Today's Date is : 23-9-2020
+2020-09-23 12:29:57,411 - cosac -INFO - User Selected from date and to date successfully
+2020-09-23 12:30:08,389 - cosac -INFO - User Selected Division,Department,Class and Location successfully
+2020-09-23 12:30:08,484 - cosac -INFO - Waiting for Results to be loaded
+2020-09-23 12:30:22,377 - cosac -INFO -  result is displayed successfully
+2020-09-23 12:30:22,423 - cosac -INFO - Results found are---->1 results found.
+2020-09-23 12:30:22,456 - cosac -INFO - Sku No in results found is-->BMT00005
+2020-09-23 12:30:22,493 - cosac -INFO - No of quantities available in results are -->360
+2020-09-23 12:30:22,534 - cosac -INFO - NetsaleValue in results is -->$ 5,993,629.00
+2020-09-23 12:30:24,743 - cosac -INFO - Sku No in printpage is-->BMT00005
+2020-09-23 12:30:24,782 - cosac -INFO - No of quantities available in printpage are -->360
+2020-09-23 12:30:24,826 - cosac -INFO - NetsaleValue in printpage is -->$ 5,993,629.00
+2020-09-23 12:30:24,826 - cosac -INFO - User successfully validated Quantity,SKU_No and NetSaleValue in TopSKuReport Page and Print Report page 
+2020-09-23 12:30:24,858 - cosac -INFO - User switched to parent window
+2020-09-23 12:30:24,992 - cosac -INFO - User Clicked on ExportBTN
+2020-09-23 12:30:25,113 - cosac -INFO - 
+2020-09-23 12:30:25,113 - cosac -INFO - User Clicked on ClearBTN and Data eneterd is cleared successfully
+2020-09-23 12:42:21,123 - cosac -INFO - User Clicked on Merchandising
+2020-09-23 12:42:21,406 - cosac -INFO - User Clicked on Create
+2020-09-23 12:42:26,878 - cosac -INFO - User Clicked on Location
+2020-09-23 12:42:28,916 - cosac -INFO - User verified Create Location PageLabel Successfully
+2020-09-23 12:42:28,916 - cosac -INFO - User is in Create Location Page
+2020-09-23 12:42:30,087 - cosac -INFO - User entered Location ID successfully 
+2020-09-23 12:42:30,215 - cosac -INFO - User is able to enter text to 'Sales System ID'
+2020-09-23 12:42:30,609 - cosac -INFO - User selected 'Facia' 
+2020-09-23 12:42:30,888 - cosac -INFO - User is able to select 'Store Type'
+2020-09-23 12:42:30,993 - cosac -INFO - User selected 'Store Type' successfully
+2020-09-23 12:42:31,052 - cosac -INFO - User Clicked on 'Virtual checkBox' successfully
+2020-09-23 12:42:31,157 - cosac -INFO - User Clicked on 'Active checkBox' successfully
+2020-09-23 12:42:31,276 - cosac -INFO - User Entered the Address in addressLine1 successfully
+2020-09-23 12:42:31,379 - cosac -INFO - User Entered the Address in addressLine2 successfully
+2020-09-23 12:42:31,444 - cosac -INFO - User Entered the City successfully
+2020-09-23 12:42:31,565 - cosac -INFO - User Entered the Postal code successfully
+2020-09-23 12:42:34,010 - cosac -INFO - User Selected the Contact Type successfully
+2020-09-23 12:42:34,132 - cosac -INFO - User Entered the Contact Type successfully
+2020-09-23 12:42:34,211 - cosac -INFO - User has clicked on addBTN successfully
+2020-09-23 12:42:34,291 - cosac -INFO - User has clicked on SaveBTN successfully
+2020-09-23 12:42:35,404 - cosac -INFO - Toast Message is --->Location saved successfully
+2020-09-23 12:42:35,405 - cosac -INFO - Location Creation Message-->Location saved successfully
+2020-09-23 12:42:35,544 - cosac -INFO - LocationValue--->131022
+2020-09-23 12:42:35,545 - cosac -INFO - User validated Locationvalue successfully-->131022
+2020-09-23 12:42:35,545 - cosac -INFO - User is able to Create Location successfully
+2020-09-23 12:42:36,689 - cosac -INFO - User Clicked on Merchandising
+2020-09-23 12:42:36,947 - cosac -INFO - User Clicked on SearchMenu
+2020-09-23 12:42:37,050 - cosac -INFO - User Clicked on Locations
+2020-09-23 12:42:37,089 - cosac -INFO - Location_Pageheading-->131022
+2020-09-23 12:42:37,091 - cosac -INFO - User is in Location Search Page
+2020-09-23 12:42:38,926 - cosac -INFO - User entered text in search field successfully
+2020-09-23 12:42:40,379 - cosac -INFO - Location_ID-->131022
+2020-09-23 12:42:40,379 - cosac -INFO - User Validated LocationID successfully
+2020-09-23 12:42:40,434 - cosac -INFO - User Validated LocationName successfully-->KORAMANGALA
+2020-09-23 12:42:40,434 - cosac -INFO - User Validated LocationName successfully
+2020-09-23 12:42:40,487 - cosac -INFO - User Validated Sales SystemId successfully-->317
+2020-09-23 12:42:40,537 - cosac -INFO - User Validated warehouse Status successfully-->Yes
+2020-09-23 12:42:40,587 - cosac -INFO - User Validated Active Status successfully-->Yes
+2020-09-23 12:42:40,639 - cosac -INFO - User  Validated Virtual Status successfully-->Yes
+2020-09-23 12:42:40,639 - cosac -INFO - User successfully Validated Location Search 
+2020-09-23 12:43:02,191 - cosac -INFO - User verified Logo successfully
+2020-09-23 12:43:02,196 - cosac -INFO - User verified HomePage Title successfully
+2020-09-23 12:43:03,312 - cosac -INFO - User Clicked on Merchandising
+2020-09-23 12:43:04,609 - cosac -INFO - User Clicked on Create
+2020-09-23 12:43:09,436 - cosac -INFO - User Clicked on Vendor
+2020-09-23 12:43:11,298 - cosac -INFO - User verified Create Location PageLabel Successfully
+2020-09-23 12:43:11,417 - cosac -INFO - User enetered the vendorcode 
+2020-09-23 12:43:11,535 - cosac -INFO - User enetered the vendorName
+2020-09-23 12:43:11,737 - cosac -INFO - User selected Local vendor
+2020-09-23 12:43:11,885 - cosac -INFO - User enetered the  addressline1
+2020-09-23 12:43:11,979 - cosac -INFO - User enetered the  City
+2020-09-23 12:43:12,079 - cosac -INFO - User enetered the State
+2020-09-23 12:43:12,201 - cosac -INFO - User enetered the Pincode
+2020-09-23 12:43:12,298 - cosac -INFO - User enetered the IsoCode
+2020-09-23 12:43:12,529 - cosac -INFO - User selected the Currency
+2020-09-23 12:43:12,726 - cosac -INFO - User  selected the  Status successfully
+2020-09-23 12:43:12,850 - cosac -INFO - User entered the  Payment Terms successfully
+2020-09-23 12:43:12,949 - cosac -INFO - User entered the order Email successfully
+2020-09-23 12:43:15,214 - cosac -INFO - User  selected the  Contact Email successfully
+2020-09-23 12:43:15,342 - cosac -INFO - User Entered the Email in contact field successfully
+2020-09-23 12:43:17,813 - cosac -INFO - User Filled the Local vendor creation form successfully 
+2020-09-23 12:43:17,953 - cosac -INFO - User Clicked on Save successfully
+2020-09-23 12:43:19,668 - cosac -INFO - Caught the Success Message successfully--->Vendor saved successfully
+2020-09-23 12:43:23,167 - cosac -INFO - User selected suggestions tag successfully
+2020-09-23 12:43:23,251 - cosac -INFO - User  Clicked on addBTN successfully
+2020-09-23 12:43:25,034 - cosac -INFO - Toast TagMessage is --->Vendor tag saved successfully
+2020-09-23 12:43:26,187 - cosac -INFO - Assrtion text-->HUL MICO TRADERS
+2020-09-23 12:43:26,187 - cosac -INFO - User successfully validated vendorName
+2020-09-23 12:43:29,050 - cosac -INFO - User is in Vendor searchPage 
+2020-09-23 12:43:30,281 - cosac -INFO - VendorCode-->201605
+2020-09-23 12:43:30,328 - cosac -INFO - VendorName-->HUL MICO TRADERS
+2020-09-23 12:43:30,377 - cosac -INFO - Vendortype-->Local
+2020-09-23 12:43:30,421 - cosac -INFO - VendorStatus-->Active
+2020-09-23 12:43:30,464 - cosac -INFO - VendorTag-->Supply Spares Only
+2020-09-23 12:43:30,465 - cosac -INFO - User successfully Validated Local_Vendor Search
+2020-09-23 12:43:48,306 - cosac -INFO - merchandising element is displayed and Clicked on it
+2020-09-23 12:43:48,561 - cosac -INFO - Mouse hovered on Reports
+2020-09-23 12:43:53,565 - cosac -INFO - TopSku element is displayed and Clicked on it
+2020-09-23 12:43:54,242 - cosac -INFO - User is in Top SKU Reports Page
+2020-09-23 12:43:54,350 - cosac -INFO - Today's Date is : 23-9-2020
+2020-09-23 12:43:54,462 - cosac -INFO - User Selected from date and to date successfully
+2020-09-23 12:44:04,975 - cosac -INFO - User Selected Division,Department,Class and Location successfully
+2020-09-23 12:44:05,073 - cosac -INFO - Waiting for Results to be loaded
+2020-09-23 12:44:18,568 - cosac -INFO -  result is displayed successfully
+2020-09-23 12:44:18,604 - cosac -INFO - Results found are---->1 results found.
+2020-09-23 12:44:18,645 - cosac -INFO - Sku No in results found is-->BMT00005
+2020-09-23 12:44:18,679 - cosac -INFO - No of quantities available in results are -->360
+2020-09-23 12:44:18,719 - cosac -INFO - NetsaleValue in results is -->$ 5,993,629.00
+2020-09-23 12:44:20,938 - cosac -INFO - Sku No in printpage is-->BMT00005
+2020-09-23 12:44:20,978 - cosac -INFO - No of quantities available in printpage are -->360
+2020-09-23 12:44:21,020 - cosac -INFO - NetsaleValue in printpage is -->$ 5,993,629.00
+2020-09-23 12:44:21,020 - cosac -INFO - User successfully validated Quantity,SKU_No and NetSaleValue in TopSKuReport Page and Print Report page 
+2020-09-23 12:44:21,048 - cosac -INFO - User switched to parent window
+2020-09-23 12:44:21,137 - cosac -INFO - User Clicked on ExportBTN
+2020-09-23 12:44:21,254 - cosac -INFO - 
+2020-09-23 12:44:21,255 - cosac -INFO - User Clicked on ClearBTN and Data eneterd is cleared successfully
+2020-09-23 15:43:17,943 - cosac -INFO - User are in Create Goods Reciept Page
+2020-09-23 15:43:34,049 - cosac -INFO - ProductCode -->311177
+2020-09-23 15:43:34,157 - cosac -INFO - User switched to new window and checked the quantity available
+2020-09-23 15:43:47,345 - cosac -INFO - onhand quantity in recieving location are-->2
+2020-09-23 15:43:47,401 - cosac -INFO - available quantity in recieving location are-->1
+2020-09-23 15:43:47,432 - cosac -INFO - On order quantity in recieving location are-->0
+2020-09-23 15:43:47,522 - cosac -INFO - User switched to parent window
+2020-09-23 15:43:47,548 - cosac -INFO - Purchage order No -->22716
+2020-09-23 15:43:47,572 - cosac -INFO -  Quantity pending -->73
+2020-09-23 15:43:54,759 - cosac -INFO - Back order Quantity-->72
+2020-09-23 15:43:56,793 - cosac -INFO - Test Failed
+2020-09-23 16:48:00,487 - cosac -INFO - User Clicked on Merchandising
+2020-09-23 16:48:00,758 - cosac -INFO - User Clicked on Create
+2020-09-23 16:48:05,183 - cosac -INFO - User Clicked on Location
+2020-09-23 16:48:07,265 - cosac -INFO - User verified Create Location PageLabel Successfully
+2020-09-23 16:48:07,265 - cosac -INFO - User is in Create Location Page
+2020-09-23 16:48:08,552 - cosac -INFO - User entered Location ID successfully 
+2020-09-23 16:48:08,657 - cosac -INFO - User is able to enter text to 'Sales System ID'
+2020-09-23 16:48:09,040 - cosac -INFO - User selected 'Facia' 
+2020-09-23 16:48:09,283 - cosac -INFO - User is able to select 'Store Type'
+2020-09-23 16:48:09,355 - cosac -INFO - User selected 'Store Type' successfully
+2020-09-23 16:48:09,433 - cosac -INFO - User Clicked on 'Virtual checkBox' successfully
+2020-09-23 16:48:09,504 - cosac -INFO - User Clicked on 'Active checkBox' successfully
+2020-09-23 16:48:09,669 - cosac -INFO - User Entered the Address in addressLine1 successfully
+2020-09-23 16:48:09,783 - cosac -INFO - User Entered the Address in addressLine2 successfully
+2020-09-23 16:48:09,876 - cosac -INFO - User Entered the City successfully
+2020-09-23 16:48:10,016 - cosac -INFO - User Entered the Postal code successfully
+2020-09-23 16:48:12,457 - cosac -INFO - User Selected the Contact Type successfully
+2020-09-23 16:48:12,711 - cosac -INFO - User Entered the Contact Type successfully
+2020-09-23 16:48:12,797 - cosac -INFO - User has clicked on addBTN successfully
+2020-09-23 16:48:12,872 - cosac -INFO - User has clicked on SaveBTN successfully
+2020-09-23 16:48:15,239 - cosac -INFO - Toast Message is --->Cannot save location  Location Id must be unique
+2020-09-23 16:48:15,241 - cosac -INFO - Location Creation Message-->Cannot save location  Location Id must be unique
+2020-09-23 16:50:53,445 - cosac -INFO - User Clicked on Merchandising
+2020-09-23 16:50:53,770 - cosac -INFO - User Clicked on Create
+2020-09-23 16:50:56,933 - cosac -INFO - User Clicked on Location
+2020-09-23 16:50:58,926 - cosac -INFO - User verified Create Location PageLabel Successfully
+2020-09-23 16:50:58,926 - cosac -INFO - User is in Create Location Page
+2020-09-23 16:51:00,172 - cosac -INFO - User entered Location ID successfully 
+2020-09-23 16:51:00,271 - cosac -INFO - User is able to enter text to 'Sales System ID'
+2020-09-23 16:51:00,634 - cosac -INFO - User selected 'Facia' 
+2020-09-23 16:51:00,878 - cosac -INFO - User is able to select 'Store Type'
+2020-09-23 16:51:00,947 - cosac -INFO - User selected 'Store Type' successfully
+2020-09-23 16:51:01,026 - cosac -INFO - User Clicked on 'Virtual checkBox' successfully
+2020-09-23 16:51:01,102 - cosac -INFO - User Clicked on 'Active checkBox' successfully
+2020-09-23 16:51:01,268 - cosac -INFO - User Entered the Address in addressLine1 successfully
+2020-09-23 16:51:01,405 - cosac -INFO - User Entered the Address in addressLine2 successfully
+2020-09-23 16:51:01,513 - cosac -INFO - User Entered the City successfully
+2020-09-23 16:51:01,621 - cosac -INFO - User Entered the Postal code successfully
+2020-09-23 16:51:04,085 - cosac -INFO - User Selected the Contact Type successfully
+2020-09-23 16:51:04,317 - cosac -INFO - User Entered the Contact Type successfully
+2020-09-23 16:51:04,404 - cosac -INFO - User has clicked on addBTN successfully
+2020-09-23 16:51:04,487 - cosac -INFO - User has clicked on SaveBTN successfully
+2020-09-23 16:51:05,645 - cosac -INFO - Toast Message is --->Cannot save location  Sales System Id must be unique
+2020-09-23 16:51:05,645 - cosac -INFO - Location Creation Message-->Cannot save location  Sales System Id must be unique
+2020-09-23 16:52:42,445 - cosac -INFO - User Clicked on Merchandising
+2020-09-23 16:52:42,701 - cosac -INFO - User Clicked on Create
+2020-09-23 16:52:46,298 - cosac -INFO - User Clicked on Location
+2020-09-23 16:52:48,266 - cosac -INFO - User verified Create Location PageLabel Successfully
+2020-09-23 16:52:48,266 - cosac -INFO - User is in Create Location Page
+2020-09-23 16:52:49,586 - cosac -INFO - User entered Location ID successfully 
+2020-09-23 16:52:49,747 - cosac -INFO - User is able to enter text to 'Sales System ID'
+2020-09-23 16:52:50,132 - cosac -INFO - User selected 'Facia' 
+2020-09-23 16:52:50,400 - cosac -INFO - User is able to select 'Store Type'
+2020-09-23 16:52:50,481 - cosac -INFO - User selected 'Store Type' successfully
+2020-09-23 16:52:50,572 - cosac -INFO - User Clicked on 'Virtual checkBox' successfully
+2020-09-23 16:52:50,644 - cosac -INFO - User Clicked on 'Active checkBox' successfully
+2020-09-23 16:52:50,838 - cosac -INFO - User Entered the Address in addressLine1 successfully
+2020-09-23 16:52:50,988 - cosac -INFO - User Entered the Address in addressLine2 successfully
+2020-09-23 16:52:51,115 - cosac -INFO - User Entered the City successfully
+2020-09-23 16:52:51,230 - cosac -INFO - User Entered the Postal code successfully
+2020-09-23 16:52:53,666 - cosac -INFO - User Selected the Contact Type successfully
+2020-09-23 16:52:53,770 - cosac -INFO - User Entered the Contact Type successfully
+2020-09-23 16:52:53,853 - cosac -INFO - User has clicked on addBTN successfully
+2020-09-23 16:52:53,926 - cosac -INFO - User has clicked on SaveBTN successfully
+2020-09-23 16:52:55,048 - cosac -INFO - Toast Message is --->Location saved successfully
+2020-09-23 16:52:55,049 - cosac -INFO - Location Creation Message-->Location saved successfully
+2020-09-23 16:52:55,228 - cosac -INFO - LocationValue--->131045
+2020-09-23 16:52:55,229 - cosac -INFO - User validated Locationvalue successfully-->131045
+2020-09-23 16:52:55,229 - cosac -INFO - User is able to Create Location successfully
+2020-09-23 16:52:56,455 - cosac -INFO - User Clicked on Merchandising
+2020-09-23 16:52:56,746 - cosac -INFO - User Clicked on SearchMenu
+2020-09-23 16:52:56,905 - cosac -INFO - User Clicked on Locations
+2020-09-23 16:52:56,948 - cosac -INFO - Location_Pageheading-->131045
+2020-09-23 16:52:56,948 - cosac -INFO - User is in Location Search Page
+2020-09-23 16:52:58,664 - cosac -INFO - User entered text in search field successfully
+2020-09-23 16:53:00,079 - cosac -INFO - Location_ID-->131045
+2020-09-23 16:53:00,080 - cosac -INFO - User Validated LocationID successfully
+2020-09-23 16:53:00,122 - cosac -INFO - User Validated LocationName successfully-->KORAMANGALA
+2020-09-23 16:53:00,122 - cosac -INFO - User Validated LocationName successfully
+2020-09-23 16:53:00,230 - cosac -INFO - User Validated Sales SystemId successfully-->318
+2020-09-23 16:53:00,377 - cosac -INFO - User Validated warehouse Status successfully-->Yes
+2020-09-23 16:53:00,443 - cosac -INFO - User Validated Active Status successfully-->Yes
+2020-09-23 16:53:00,509 - cosac -INFO - User  Validated Virtual Status successfully-->Yes
+2020-09-23 16:53:00,510 - cosac -INFO - User successfully Validated Location Search 
+2020-09-24 21:37:38,472 - cosac -INFO - User is clicked on Merchandising
+2020-09-24 21:37:38,844 - cosac -INFO - User is clicked on Create
+2020-09-24 21:37:43,702 - cosac -INFO - User clicked on Regularstock
+2020-09-24 21:37:45,980 - cosac -INFO - Page Title is Verified Successfully
+2020-09-24 21:37:46,313 - cosac -INFO - User is able to enter text to 'SKU'
+2020-09-24 21:37:46,839 - cosac -INFO - User is able to enter text to 'POSDescription'
+2020-09-24 21:37:47,084 - cosac -INFO - User is able to enter text to 'CorporateUPC'
+2020-09-24 21:37:47,284 - cosac -INFO - User is able to enter text to 'VendorModelNumber'
+2020-09-24 21:37:47,510 - cosac -INFO - User is able to enter text to 'VendorWarrenty'
+2020-09-24 21:37:47,824 - cosac -INFO - User is able to click on 'Brand'
+2020-09-24 21:39:49,490 - cosac -INFO - Test Failed
+2020-09-24 21:40:07,398 - cosac -INFO - User is clicked on Merchandising
+2020-09-24 21:40:07,655 - cosac -INFO - User is clicked on Create
+2020-09-24 21:40:20,040 - cosac -INFO - User clicked on Regularstock
+2020-09-24 21:40:24,768 - cosac -INFO - Page Title is Verified Successfully
+2020-09-24 21:40:25,078 - cosac -INFO - User is able to enter text to 'SKU'
+2020-09-24 21:40:25,415 - cosac -INFO - User is able to enter text to 'POSDescription'
+2020-09-24 21:40:25,617 - cosac -INFO - User is able to enter text to 'CorporateUPC'
+2020-09-24 21:40:25,799 - cosac -INFO - User is able to enter text to 'VendorModelNumber'
+2020-09-24 21:40:25,963 - cosac -INFO - User is able to enter text to 'VendorWarrenty'
+2020-09-24 21:40:26,348 - cosac -INFO - User is able to click on 'Brand'
+2020-09-24 21:40:27,311 - cosac -INFO - User is able to select an 'Brand'
+2020-09-24 21:40:27,730 - cosac -INFO - User is able to enter text to 'NumberOfBoxes'
+2020-09-24 21:40:27,826 - cosac -INFO - User is able to click on 'CorporateStatusCode'
+2020-09-24 21:40:27,971 - cosac -INFO - User is able to select an 'CorporateStatusCode'
+2020-09-24 22:03:59,722 - cosac -INFO - User is clicked on Merchandising
+2020-09-24 22:04:00,026 - cosac -INFO - User is clicked on Create
+2020-09-24 22:04:09,467 - cosac -INFO - User clicked on Regularstock
+2020-09-24 22:04:13,313 - cosac -INFO - Page Title is Verified Successfully
+2020-09-24 22:04:13,586 - cosac -INFO - User is able to enter text to 'SKU'
+2020-09-24 22:04:14,080 - cosac -INFO - User is able to enter text to 'POSDescription'
+2020-09-24 22:04:14,345 - cosac -INFO - User is able to enter text to 'CorporateUPC'
+2020-09-24 22:04:14,568 - cosac -INFO - User is able to enter text to 'VendorModelNumber'
+2020-09-24 22:04:14,747 - cosac -INFO - User is able to enter text to 'VendorWarrenty'
+2020-09-24 22:04:15,091 - cosac -INFO - User is able to click on 'Brand'
+2020-09-24 22:04:15,890 - cosac -INFO - User is able to select an 'Brand'
+2020-09-24 22:04:16,248 - cosac -INFO - User is able to enter text to 'NumberOfBoxes'
+2020-09-24 22:04:16,347 - cosac -INFO - User is able to click on 'CorporateStatusCode'
+2020-09-24 22:04:16,484 - cosac -INFO - User is able to select an 'CorporateStatusCode'
+2020-09-24 22:04:16,969 - cosac -INFO - User is able to enter text to 'LongDescription'
+2020-09-24 22:04:17,139 - cosac -INFO - User is able to enter text to 'VendorUPC'
+2020-09-24 22:04:17,279 - cosac -INFO - User is able to enter text to 'CountryOfOrigin'
+2020-09-24 22:04:17,431 - cosac -INFO - User is able to enter text to 'PreviousModel'
+2020-09-24 22:04:21,114 - cosac -INFO - User is able to scroll 'Down'
+2020-09-24 22:04:21,191 - cosac -INFO - User is able to click on 'Save Button'
+2020-09-24 22:09:05,467 - cosac -INFO - User is clicked on Merchandising
+2020-09-24 22:09:05,743 - cosac -INFO - User is clicked on Create
+2020-09-24 22:09:25,624 - cosac -INFO - User clicked on Regularstock
+2020-09-24 22:09:29,807 - cosac -INFO - Page Title is Verified Successfully
+2020-09-24 22:09:30,063 - cosac -INFO - User is able to enter text to 'SKU'
+2020-09-24 22:09:30,477 - cosac -INFO - User is able to enter text to 'POSDescription'
+2020-09-24 22:09:30,727 - cosac -INFO - User is able to enter text to 'CorporateUPC'
+2020-09-24 22:09:31,150 - cosac -INFO - User is able to enter text to 'VendorModelNumber'
+2020-09-24 22:09:31,330 - cosac -INFO - User is able to enter text to 'VendorWarrenty'
+2020-09-24 22:09:31,637 - cosac -INFO - User is able to click on 'Brand'
+2020-09-24 22:09:32,354 - cosac -INFO - User is able to select an 'Brand'
+2020-09-24 22:09:32,667 - cosac -INFO - User is able to enter text to 'NumberOfBoxes'
+2020-09-24 22:09:32,749 - cosac -INFO - User is able to click on 'CorporateStatusCode'
+2020-09-24 22:09:32,873 - cosac -INFO - User is able to select an 'CorporateStatusCode'
+2020-09-24 22:09:33,424 - cosac -INFO - User is able to enter text to 'LongDescription'
+2020-09-24 22:09:33,601 - cosac -INFO - User is able to enter text to 'VendorUPC'
+2020-09-24 22:09:33,740 - cosac -INFO - User is able to enter text to 'CountryOfOrigin'
+2020-09-24 22:09:33,899 - cosac -INFO - User is able to enter text to 'PreviousModel'
+2020-09-24 22:09:37,584 - cosac -INFO - User is able to scroll 'Down'
+2020-09-24 22:09:37,666 - cosac -INFO - User is able to click on 'Save Button'
+2020-09-24 22:11:50,418 - cosac -INFO - User is clicked on Merchandising
+2020-09-24 22:11:50,713 - cosac -INFO - User is clicked on Create
+2020-09-24 22:11:59,493 - cosac -INFO - User clicked on Regularstock
+2020-09-24 22:12:03,353 - cosac -INFO - Page Title is Verified Successfully
+2020-09-24 22:12:03,615 - cosac -INFO - User is able to enter text to 'SKU'
+2020-09-24 22:12:04,021 - cosac -INFO - User is able to enter text to 'POSDescription'
+2020-09-24 22:12:04,280 - cosac -INFO - User is able to enter text to 'CorporateUPC'
+2020-09-24 22:12:04,558 - cosac -INFO - User is able to enter text to 'VendorModelNumber'
+2020-09-24 22:12:04,706 - cosac -INFO - User is able to enter text to 'VendorWarrenty'
+2020-09-24 22:12:04,877 - cosac -INFO - User is able to click on 'Brand'
+2020-09-24 22:12:05,679 - cosac -INFO - User is able to select an 'Brand'
+2020-09-24 22:12:06,051 - cosac -INFO - User is able to enter text to 'NumberOfBoxes'
+2020-09-24 22:12:06,135 - cosac -INFO - User is able to click on 'CorporateStatusCode'
+2020-09-24 22:12:06,272 - cosac -INFO - User is able to select an 'CorporateStatusCode'
+2020-09-24 22:12:06,783 - cosac -INFO - User is able to enter text to 'LongDescription'
+2020-09-24 22:12:06,976 - cosac -INFO - User is able to enter text to 'VendorUPC'
+2020-09-24 22:12:07,112 - cosac -INFO - User is able to enter text to 'CountryOfOrigin'
+2020-09-24 22:12:07,277 - cosac -INFO - User is able to enter text to 'PreviousModel'
+2020-09-24 22:12:11,019 - cosac -INFO - User is able to scroll 'Down'
+2020-09-24 22:12:11,100 - cosac -INFO - User is able to click on 'Save Button'
+2020-09-24 22:15:22,094 - cosac -INFO - User is clicked on Merchandising
+2020-09-24 22:15:22,367 - cosac -INFO - User is clicked on Create
+2020-09-24 22:15:24,592 - cosac -INFO - User clicked on Regularstock
+2020-09-24 22:16:06,328 - cosac -INFO - User is clicked on Merchandising
+2020-09-24 22:16:06,609 - cosac -INFO - User is clicked on Create
+2020-09-24 22:16:39,106 - cosac -INFO - User clicked on Regularstock
+2020-09-24 22:16:43,169 - cosac -INFO - Page Title is Verified Successfully
+2020-09-24 22:16:43,513 - cosac -INFO - User is able to enter text to 'SKU'
+2020-09-24 22:16:43,996 - cosac -INFO - User is able to enter text to 'POSDescription'
+2020-09-24 22:16:44,213 - cosac -INFO - User is able to enter text to 'CorporateUPC'
+2020-09-24 22:16:44,378 - cosac -INFO - User is able to enter text to 'VendorModelNumber'
+2020-09-24 22:16:44,522 - cosac -INFO - User is able to enter text to 'VendorWarrenty'
+2020-09-24 22:16:44,716 - cosac -INFO - User is able to click on 'Brand'
+2020-09-24 22:16:45,538 - cosac -INFO - User is able to select an 'Brand'
+2020-09-24 22:16:46,015 - cosac -INFO - User is able to enter text to 'NumberOfBoxes'
+2020-09-24 22:16:46,118 - cosac -INFO - User is able to click on 'CorporateStatusCode'
+2020-09-24 22:16:46,271 - cosac -INFO - User is able to select an 'CorporateStatusCode'
+2020-09-24 22:16:46,827 - cosac -INFO - User is able to enter text to 'LongDescription'
+2020-09-24 22:16:46,983 - cosac -INFO - User is able to enter text to 'VendorUPC'
+2020-09-24 22:16:47,126 - cosac -INFO - User is able to enter text to 'CountryOfOrigin'
+2020-09-24 22:16:47,276 - cosac -INFO - User is able to enter text to 'PreviousModel'
+2020-09-24 22:16:50,999 - cosac -INFO - User is able to scroll 'Down'
+2020-09-24 22:16:51,084 - cosac -INFO - User is able to click on 'Save Button'
+2020-09-24 22:19:36,620 - cosac -INFO - User is clicked on Merchandising
+2020-09-24 22:19:36,881 - cosac -INFO - User is clicked on Create
+2020-09-24 22:19:55,787 - cosac -INFO - User clicked on Regularstock
+2020-09-24 22:19:59,362 - cosac -INFO - Page Title is Verified Successfully
+2020-09-24 22:19:59,629 - cosac -INFO - User is able to enter text to 'SKU'
+2020-09-24 22:19:59,959 - cosac -INFO - User is able to enter text to 'POSDescription'
+2020-09-24 22:20:00,204 - cosac -INFO - User is able to enter text to 'CorporateUPC'
+2020-09-24 22:20:00,380 - cosac -INFO - User is able to enter text to 'VendorModelNumber'
+2020-09-24 22:20:00,521 - cosac -INFO - User is able to enter text to 'VendorWarrenty'
+2020-09-24 22:20:00,699 - cosac -INFO - User is able to click on 'Brand'
+2020-09-24 22:20:01,492 - cosac -INFO - User is able to select an 'Brand'
+2020-09-24 22:20:01,963 - cosac -INFO - User is able to enter text to 'NumberOfBoxes'
+2020-09-24 22:20:02,071 - cosac -INFO - User is able to click on 'CorporateStatusCode'
+2020-09-24 22:20:02,246 - cosac -INFO - User is able to select an 'CorporateStatusCode'
+2020-09-24 22:20:02,798 - cosac -INFO - User is able to enter text to 'LongDescription'
+2020-09-24 22:20:03,044 - cosac -INFO - User is able to enter text to 'VendorUPC'
+2020-09-24 22:20:03,177 - cosac -INFO - User is able to enter text to 'CountryOfOrigin'
+2020-09-24 22:20:03,382 - cosac -INFO - User is able to enter text to 'PreviousModel'
+2020-09-24 22:20:07,067 - cosac -INFO - User is able to scroll 'Down'
+2020-09-24 22:20:07,147 - cosac -INFO - User is able to click on 'Save Button'
+2020-09-24 22:23:33,625 - cosac -INFO - User is clicked on Merchandising
+2020-09-24 22:23:33,906 - cosac -INFO - User is clicked on Create
+2020-09-24 22:23:54,046 - cosac -INFO - User clicked on Regularstock
+2020-09-24 22:23:56,350 - cosac -INFO - Page Title is Verified Successfully
+2020-09-24 22:23:56,702 - cosac -INFO - User is able to enter text to 'SKU'
+2020-09-24 22:23:57,049 - cosac -INFO - User is able to enter text to 'POSDescription'
+2020-09-24 22:23:57,267 - cosac -INFO - User is able to enter text to 'CorporateUPC'
+2020-09-24 22:23:57,418 - cosac -INFO - User is able to enter text to 'VendorModelNumber'
+2020-09-24 22:23:57,560 - cosac -INFO - User is able to enter text to 'VendorWarrenty'
+2020-09-24 22:23:57,771 - cosac -INFO - User is able to click on 'Brand'
+2020-09-24 22:23:58,663 - cosac -INFO - User is able to select an 'Brand'
+2020-09-24 22:23:59,126 - cosac -INFO - User is able to enter text to 'NumberOfBoxes'
+2020-09-24 22:23:59,243 - cosac -INFO - User is able to click on 'CorporateStatusCode'
+2020-09-24 22:23:59,372 - cosac -INFO - User is able to select an 'CorporateStatusCode'
+2020-09-24 22:23:59,982 - cosac -INFO - User is able to enter text to 'LongDescription'
+2020-09-24 22:24:00,207 - cosac -INFO - User is able to enter text to 'VendorUPC'
+2020-09-24 22:24:00,352 - cosac -INFO - User is able to enter text to 'CountryOfOrigin'
+2020-09-24 22:24:00,549 - cosac -INFO - User is able to enter text to 'PreviousModel'
+2020-09-24 22:24:01,017 - cosac -INFO - User is able to scroll 'Down'
+2020-09-24 22:24:03,081 - cosac -INFO - Test Failed
+2020-09-24 22:25:58,439 - cosac -INFO - User is clicked on Merchandising
+2020-09-24 22:25:58,731 - cosac -INFO - User is clicked on Create
+2020-09-24 22:26:07,776 - cosac -INFO - User clicked on Regularstock
+2020-09-24 22:26:11,688 - cosac -INFO - Page Title is Verified Successfully
+2020-09-24 22:26:11,933 - cosac -INFO - User is able to enter text to 'SKU'
+2020-09-24 22:26:12,331 - cosac -INFO - User is able to enter text to 'POSDescription'
+2020-09-24 22:26:12,528 - cosac -INFO - User is able to enter text to 'CorporateUPC'
+2020-09-24 22:26:12,713 - cosac -INFO - User is able to enter text to 'VendorModelNumber'
+2020-09-24 22:26:12,850 - cosac -INFO - User is able to enter text to 'VendorWarrenty'
+2020-09-24 22:26:13,147 - cosac -INFO - User is able to click on 'Brand'
+2020-09-24 22:26:13,890 - cosac -INFO - User is able to select an 'Brand'
+2020-09-24 22:26:14,374 - cosac -INFO - User is able to enter text to 'NumberOfBoxes'
+2020-09-24 22:26:14,476 - cosac -INFO - User is able to click on 'CorporateStatusCode'
+2020-09-24 22:26:14,615 - cosac -INFO - User is able to select an 'CorporateStatusCode'
+2020-09-24 22:26:15,123 - cosac -INFO - User is able to enter text to 'LongDescription'
+2020-09-24 22:26:15,282 - cosac -INFO - User is able to enter text to 'VendorUPC'
+2020-09-24 22:26:15,414 - cosac -INFO - User is able to enter text to 'CountryOfOrigin'
+2020-09-24 22:26:15,581 - cosac -INFO - User is able to enter text to 'PreviousModel'
+2020-09-24 22:26:19,265 - cosac -INFO - User is able to scroll 'Down'
+2020-09-24 22:26:19,348 - cosac -INFO - User is able to click on 'Save Button'
+2020-09-24 22:56:33,463 - cosac -INFO - User able to click on Merchandising
+2020-09-24 22:56:33,715 - cosac -INFO - User able to click on Create
+2020-09-24 22:56:38,858 - cosac -INFO - User able to click on Purchase Order
+2020-09-24 22:56:42,529 - cosac -INFO - Page Title is Verified Successfully
+2020-09-24 22:56:43,096 - cosac -INFO - Test Failed
+2020-09-25 23:36:03,007 - cosac -INFO - User Clicked on Merchandising
+2020-09-25 23:36:03,593 - cosac -INFO - User Clicked on Create
+2020-09-25 23:36:16,010 - cosac -INFO - User Clicked on Location
+2020-09-25 23:36:18,559 - cosac -INFO - User verified Create Location PageLabel Successfully
+2020-09-25 23:36:18,559 - cosac -INFO - User is in Create Location Page
+2020-09-25 23:36:18,728 - cosac -INFO - Test Failed
+2020-09-25 23:36:19,255 - cosac -INFO - Test Failed
+2020-09-25 23:36:53,319 - cosac -INFO - User Clicked on Service
+2020-09-25 23:37:10,839 - cosac -INFO - User clicked on TechnicianDairy
+2020-09-25 23:37:11,474 - cosac -INFO - Page Title is Verified Successfully
+2020-09-25 23:37:20,328 - cosac -INFO - User selected Technician Name
+2020-09-25 23:37:22,735 - cosac -INFO - User Selected Date of Start Week to View
+2020-09-25 23:37:23,500 - cosac -INFO - User entered visible weeks
+2020-09-25 23:37:24,437 - cosac -INFO - User Selected Technician Unavailable From Date
+2020-09-25 23:37:26,732 - cosac -INFO - User Selected Technician Unavailable To Date
+2020-09-25 23:37:28,888 - cosac -INFO - Technician Unavailablity Dates Submited Successfully
+2020-09-25 23:37:30,967 - cosac -INFO - Technician Not Available From 09/26/2020 To 09/26/2020
+2020-09-25 23:37:34,170 - cosac -INFO - Test Failed
+2020-09-25 23:39:44,828 - cosac -INFO - User Clicked on Service
+2020-09-25 23:40:02,265 - cosac -INFO - User clicked on TechnicianDairy
+2020-09-25 23:40:02,748 - cosac -INFO - Page Title is Verified Successfully
+2020-09-25 23:40:11,533 - cosac -INFO - User selected Technician Name
+2020-09-25 23:40:13,863 - cosac -INFO - User Selected Date of Start Week to View
+2020-09-25 23:40:14,162 - cosac -INFO - User entered visible weeks
+2020-09-25 23:40:14,534 - cosac -INFO - User Selected Technician Unavailable From Date
+2020-09-25 23:40:16,837 - cosac -INFO - User Selected Technician Unavailable To Date
+2020-09-25 23:40:19,021 - cosac -INFO - Technician Unavailablity Dates Submited Successfully
+2020-09-25 23:40:21,103 - cosac -INFO - Technician Not Available From 09/26/2020 To 09/26/2020
+2020-09-25 23:42:23,112 - cosac -INFO - Test Failed
+2020-09-25 23:44:20,557 - cosac -INFO - User Clicked on Service
+2020-09-25 23:44:45,179 - cosac -INFO - User clicked on TechnicianDairy
+2020-09-25 23:44:45,613 - cosac -INFO - Page Title is Verified Successfully
+2020-09-25 23:44:54,410 - cosac -INFO - User selected Technician Name
+2020-09-25 23:44:56,779 - cosac -INFO - User Selected Date of Start Week to View
+2020-09-25 23:44:57,476 - cosac -INFO - User entered visible weeks
+2020-09-25 23:44:57,823 - cosac -INFO - User Selected Technician Unavailable From Date
+2020-09-25 23:45:00,115 - cosac -INFO - User Selected Technician Unavailable To Date
+2020-09-25 23:45:02,269 - cosac -INFO - Technician Unavailablity Dates Submited Successfully
+2020-09-25 23:45:04,345 - cosac -INFO - Technician Not Available From 09/26/2020 To 09/26/2020
+2020-09-25 23:45:05,513 - cosac -INFO - User clicked on holiday approve date
+2020-09-25 23:45:05,768 - cosac -INFO - User deleted approved date
+2020-09-25 23:49:32,904 - cosac -INFO - User able to click on Merchandising
+2020-09-25 23:49:33,191 - cosac -INFO - User able to click on Create
+2020-09-25 23:49:46,946 - cosac -INFO - User able to click on Purchase Order
+2020-09-25 23:49:50,191 - cosac -INFO - Page Title is Verified Successfully
+2020-09-25 23:49:50,963 - cosac -INFO - Test Failed
+2020-09-25 23:51:40,560 - cosac -INFO - User able to click on Merchandising
+2020-09-25 23:51:40,823 - cosac -INFO - User able to click on Create
+2020-09-25 23:51:54,698 - cosac -INFO - User able to click on Purchase Order
+2020-09-25 23:51:57,882 - cosac -INFO - Page Title is Verified Successfully
+2020-09-25 23:51:58,652 - cosac -INFO - Test Failed
+2020-09-25 23:57:58,792 - cosac -INFO - User able to click on Merchandising
+2020-09-25 23:57:59,109 - cosac -INFO - User able to click on Create
+2020-09-25 23:58:10,582 - cosac -INFO - User able to click on Purchase Order
+2020-09-25 23:58:13,810 - cosac -INFO - Page Title is Verified Successfully
+2020-09-25 23:58:14,625 - cosac -INFO - Test Failed
+2020-09-26 00:05:35,960 - cosac -INFO - User able to click on Merchandising
+2020-09-26 00:05:36,268 - cosac -INFO - User able to click on Create
+2020-09-26 00:05:49,426 - cosac -INFO - User able to click on Purchase Order
+2020-09-26 00:05:52,544 - cosac -INFO - Page Title is Verified Successfully
+2020-09-26 00:07:12,497 - cosac -INFO - User able to click on Merchandising
+2020-09-26 00:07:12,806 - cosac -INFO - User able to click on Create
+2020-09-26 00:07:30,288 - cosac -INFO - User able to click on Purchase Order
+2020-09-26 00:07:33,508 - cosac -INFO - Page Title is Verified Successfully
+2020-12-03 16:41:29,421 - cosac -INFO - User is clicked on Merchandising
+2020-12-03 16:41:37,750 - cosac -INFO - User is clicked on Picking
+2020-12-03 16:41:38,273 - cosac -INFO - Page Title is Verified SuccessFully
+2020-12-03 16:41:45,832 - cosac -INFO - User is selcted Sending Location
+2020-12-03 16:41:51,307 - cosac -INFO - User is selcted Type
+2020-12-03 16:41:51,427 - cosac -INFO - Shipment is Searched Successfully
+2020-12-03 16:42:00,182 - cosac -INFO - Driver selected successfully
+2020-12-03 16:42:05,515 - cosac -INFO - Shipment is added to Truck Successfully
+2020-12-03 16:42:07,590 - cosac -INFO -   Shipment  3012324 added successfully to the truck Linval Brown 
+2020-12-03 16:42:07,769 - cosac -INFO - User is clicked on Print Truck
+2020-12-03 16:42:10,136 - cosac -INFO - User is clicked on ExternalLink
+2020-12-03 16:42:12,464 - cosac -INFO - PickList Number is Generated Successfully
+2020-12-03 16:42:17,630 - cosac -INFO - Shipment Picking Successfully
+2020-12-03 16:42:18,019 - cosac -INFO - User clicked on Logistics
+2020-12-03 16:42:18,115 - cosac -INFO - User clicked on SearchPicklist
+2020-12-03 16:42:20,825 - cosac -INFO - User is able to search picklist
+2020-12-03 16:42:25,271 - cosac -INFO - User is able to select PickList
+2020-12-03 16:42:25,542 - cosac -INFO - User is able to select Picked Date
+2020-12-03 16:42:29,656 - cosac -INFO - Shipment is Picked Successfully
+2020-12-03 16:42:38,396 - cosac -INFO - Shipment is Checked Successfully
+2020-12-03 16:42:41,721 - cosac -INFO - User is commented
+2020-12-03 16:42:44,822 - cosac -INFO - Saved Successfully
+2020-12-03 16:42:47,920 - cosac -INFO - All Item(s) Picked Successfully
+2020-12-03 16:42:50,098 - cosac -INFO - User Clicked On Merchandising
+2020-12-03 16:42:50,226 - cosac -INFO - User Clicked On Scheduling
+2020-12-03 16:42:59,442 - cosac -INFO - User able to select DeliveryBranch
+2020-12-03 16:43:05,070 - cosac -INFO - User able to select Truck
+2020-12-03 16:43:05,261 - cosac -INFO - User selected  Type
+2020-12-03 16:43:05,779 - cosac -INFO - User able to click on CreateDeliverySchedule
+2020-12-03 16:43:05,879 - cosac -INFO - User able to Save
+2020-12-03 16:43:08,089 - cosac -INFO - User is clicked on ExternalLink
+2020-12-03 16:43:12,494 - cosac -INFO - Load and Delivery Schedule is Completed Successfully
+2020-12-03 16:43:12,881 - cosac -INFO - User able to click on Logistics
+2020-12-03 16:43:13,092 - cosac -INFO - User able to click on SearchDeliverySchedule
+2020-12-03 16:43:13,107 - cosac -INFO - Page Title is Verified Successfully
+2020-12-03 16:43:15,796 - cosac -INFO - User able to Search Shipment
+2020-12-03 16:43:19,647 - cosac -INFO - User Clicked On ScheduleNumber
+2020-12-03 16:43:19,883 - cosac -INFO - User Confirmed Date Successfully
+2020-12-03 16:43:20,235 - cosac -INFO - Delivery Confirmed Successfully
+2020-12-03 16:43:20,302 - cosac -INFO - User able to Click on Logistics
+2020-12-03 16:43:20,377 - cosac -INFO - User able to click on Search Shipments
+2020-12-03 16:43:26,080 - cosac -INFO - Page Title is Verified Successfully
+2020-12-03 16:43:26,629 - cosac -INFO - User able to Search Shipment
+2020-12-03 16:43:28,670 - cosac -INFO - Shipment is Delivered
+2020-12-03 21:04:22,789 - cosac -INFO - User Clicked on Service
+2020-12-03 21:04:34,624 - cosac -INFO - User clicked on TechnicianDairy
+2020-12-03 21:04:34,964 - cosac -INFO - Page Title is Verified Successfully
+2020-12-03 21:04:43,478 - cosac -INFO - User selected Technician Name
+2020-12-03 21:04:45,773 - cosac -INFO - User Selected Date of Start Week to View
+2020-12-03 21:04:46,039 - cosac -INFO - User entered visible weeks
+2020-12-03 21:04:46,636 - cosac -INFO - User Selected Technician Unavailable From Date
+2020-12-03 21:04:48,852 - cosac -INFO - User Selected Technician Unavailable To Date
+2020-12-03 21:04:50,978 - cosac -INFO - Technician Unavailablity Dates Submited Successfully
+2020-12-03 21:04:53,060 - cosac -INFO - Technician Not Available From 12/03/2020 To 12/03/2020
+2020-12-03 21:04:54,180 - cosac -INFO - User clicked on holiday approve date
+2020-12-03 21:04:54,387 - cosac -INFO - User deleted approved date
+2021-01-26 13:10:56,024 - cosac -INFO - User able to click on Merchandising
+2021-01-26 13:10:56,300 - cosac -INFO - User able to click on Create
+2021-01-26 13:11:01,368 - cosac -INFO - User able to click on Purchase Order
+2021-01-26 13:11:04,760 - cosac -INFO - Page Title is Verified Successfully
+2021-01-26 13:11:31,771 - cosac -INFO - User able to click on Merchandising
+2021-01-26 13:11:32,024 - cosac -INFO - User able to click on Search
+2021-01-26 13:11:32,095 - cosac -INFO - User able to click on Purchase Orders
+2021-01-26 13:11:34,163 - cosac -INFO - Page Title is Verified Successfully
+2021-01-26 13:11:38,167 - cosac -INFO - Test Failed
+2021-01-26 13:13:58,959 - cosac -INFO - User able to click on Merchandising
+2021-01-26 13:13:59,207 - cosac -INFO - User able to click on Create
+2021-01-26 13:14:16,137 - cosac -INFO - User able to click on Purchase Order
+2021-01-26 13:14:20,992 - cosac -INFO - Page Title is Verified Successfully
+2021-01-26 13:32:23,160 - cosac -INFO - User able to click on Merchandising
+2021-01-26 13:32:23,456 - cosac -INFO - User able to click on Create
+2021-01-26 13:32:38,074 - cosac -INFO - User able to click on Purchase Order
+2021-01-26 13:32:42,172 - cosac -INFO - Page Title is Verified Successfully
+2021-01-27 19:50:12,580 - cosac -INFO - User able to click on Merchandising
+2021-01-27 19:50:13,144 - cosac -INFO - User able to click on Create
+2021-01-27 19:50:31,817 - cosac -INFO - User able to click on Purchase Order
+2021-01-27 19:50:35,572 - cosac -INFO - Page Title is Verified Successfully
+2021-01-27 19:50:38,166 - cosac -INFO - Test Failed
+2021-01-27 19:52:31,659 - cosac -INFO - User able to click on Merchandising
+2021-01-27 19:52:31,948 - cosac -INFO - User able to click on Create
+2021-01-27 19:52:50,232 - cosac -INFO - User able to click on Purchase Order
+2021-01-27 19:52:53,510 - cosac -INFO - Page Title is Verified Successfully
+2021-01-27 19:54:37,349 - cosac -INFO - User able to click on Merchandising
+2021-01-27 19:54:37,636 - cosac -INFO - User able to click on Create
+2021-01-27 19:54:51,922 - cosac -INFO - User able to click on Purchase Order
+2021-01-27 19:54:56,288 - cosac -INFO - Page Title is Verified Successfully
+2021-01-27 19:54:58,366 - cosac -INFO - Test Failed
+2021-01-27 19:56:20,291 - cosac -INFO - User able to click on Merchandising
+2021-01-27 19:56:20,578 - cosac -INFO - User able to click on Create
+2021-01-27 19:56:41,030 - cosac -INFO - User able to click on Purchase Order
+2021-01-27 19:56:44,361 - cosac -INFO - Page Title is Verified Successfully
+2021-01-27 20:01:14,084 - cosac -INFO - User able to click on Merchandising
+2021-01-27 20:01:14,362 - cosac -INFO - User able to click on Create
+2021-01-27 20:01:25,225 - cosac -INFO - User able to click on Purchase Order
+2021-01-27 20:01:28,573 - cosac -INFO - Page Title is Verified Successfully
+2021-01-27 20:09:02,120 - cosac -INFO - User able to click on Merchandising
+2021-01-27 20:09:02,396 - cosac -INFO - User able to click on Create
+2021-01-27 20:09:15,475 - cosac -INFO - User able to click on Purchase Order
+2021-01-27 20:09:18,519 - cosac -INFO - Page Title is Verified Successfully
+2021-01-27 20:12:27,267 - cosac -INFO - User able to click on Merchandising
+2021-01-27 20:12:27,552 - cosac -INFO - User able to click on Create
+2021-01-27 20:12:38,316 - cosac -INFO - User able to click on Purchase Order
+2021-01-27 20:12:41,839 - cosac -INFO - Page Title is Verified Successfully
+2021-01-27 20:14:35,979 - cosac -INFO - User able to click on Merchandising
+2021-01-27 20:14:36,248 - cosac -INFO - User able to click on Create
+2021-01-27 20:14:51,350 - cosac -INFO - User able to click on Purchase Order
+2021-01-27 20:14:54,722 - cosac -INFO - Page Title is Verified Successfully
+2021-01-27 20:16:41,862 - cosac -INFO - User able to click on Merchandising
+2021-01-27 20:16:42,154 - cosac -INFO - User able to click on Create
+2021-01-27 20:16:52,077 - cosac -INFO - User able to click on Purchase Order
+2021-01-27 20:16:55,836 - cosac -INFO - Page Title is Verified Successfully
+2021-01-27 20:21:31,431 - cosac -INFO - User able to click on Merchandising
+2021-01-27 20:21:31,710 - cosac -INFO - User able to click on Create
+2021-01-27 20:21:50,672 - cosac -INFO - User able to click on Purchase Order
+2021-01-27 20:21:53,939 - cosac -INFO - Page Title is Verified Successfully
+2021-01-27 20:27:56,145 - cosac -INFO - User able to click on Merchandising
+2021-01-27 20:27:56,424 - cosac -INFO - User able to click on Create
+2021-01-27 20:28:12,438 - cosac -INFO - User able to click on Purchase Order
+2021-01-27 20:28:16,777 - cosac -INFO - Page Title is Verified Successfully
+2021-01-27 20:28:51,580 - cosac -INFO - Test Failed
+2021-01-27 20:31:43,352 - cosac -INFO - User able to click on Merchandising
+2021-01-27 20:31:43,611 - cosac -INFO - User able to click on Create
+2021-01-27 20:32:03,010 - cosac -INFO - User able to click on Purchase Order
+2021-01-27 20:32:06,638 - cosac -INFO - Page Title is Verified Successfully
+2021-01-27 20:32:50,629 - cosac -INFO - Test Failed
+2021-01-29 13:59:01,403 - cosac -INFO - User able to click on Merchandising
+2021-01-29 13:59:01,955 - cosac -INFO - User able to click on Create
+2021-01-29 13:59:14,382 - cosac -INFO - User able to click on StockCount
+2021-01-29 18:41:34,186 - cosac -INFO - User able to click on Merchandising
+2021-01-29 18:41:34,438 - cosac -INFO - User able to click on Create
+2021-01-29 18:42:22,015 - cosac -INFO - User able to click on StockCount
+2021-01-31 08:49:44,399 - cosac -INFO - User able to click on Merchandising
+2021-01-31 08:49:45,108 - cosac -INFO - User able to click on Create
+2021-01-31 08:49:53,973 - cosac -INFO - User able to click on StockCount
+2021-01-31 08:53:38,687 - cosac -INFO - User able to click on Merchandising
+2021-01-31 08:53:38,936 - cosac -INFO - User able to click on Create
+2021-01-31 08:53:47,755 - cosac -INFO - User able to click on StockCount
+2021-01-31 08:53:49,365 - cosac -INFO - User able to select location
+2021-01-31 08:53:55,227 - cosac -INFO - Test Failed
+2021-01-31 09:05:24,569 - cosac -INFO - User able to click on Merchandising
+2021-01-31 09:05:24,845 - cosac -INFO - User able to click on Create
+2021-01-31 09:05:33,737 - cosac -INFO - User able to click on StockCount
+2021-01-31 09:05:34,774 - cosac -INFO - User able to select location
+2021-01-31 09:05:39,268 - cosac -INFO - Test Failed
+2021-01-31 09:10:02,960 - cosac -INFO - User able to click on Merchandising
+2021-01-31 09:10:03,260 - cosac -INFO - User able to click on Create
+2021-01-31 09:10:13,629 - cosac -INFO - User able to click on StockCount
+2021-01-31 09:10:14,783 - cosac -INFO - User able to select location
+2021-01-31 09:10:19,359 - cosac -INFO - Test Failed
+2021-01-31 09:19:17,626 - cosac -INFO - User able to click on Merchandising
+2021-01-31 09:19:17,877 - cosac -INFO - User able to click on Create
+2021-01-31 09:19:34,034 - cosac -INFO - User able to click on StockCount
+2021-01-31 09:19:35,444 - cosac -INFO - User able to select location
+2021-01-31 09:19:40,062 - cosac -INFO - Test Failed
+2021-01-31 09:24:23,525 - cosac -INFO - User able to click on Merchandising
+2021-01-31 09:24:23,775 - cosac -INFO - User able to click on Create
+2021-01-31 09:24:27,590 - cosac -INFO - User able to click on StockCount
+2021-01-31 09:24:31,915 - cosac -INFO - Jai Anjanaya
+2021-01-31 09:34:54,737 - cosac -INFO - User able to click on Merchandising
+2021-01-31 09:34:55,006 - cosac -INFO - User able to click on Create
+2021-01-31 09:35:03,332 - cosac -INFO - User able to click on StockCount
+2021-01-31 09:35:11,090 - cosac -INFO - User able to select location
+2021-01-31 09:35:11,210 - cosac -INFO - User able to select date
+2021-01-31 09:35:14,589 - cosac -INFO - User able to select division
+2021-01-31 09:41:25,209 - cosac -INFO - User able to click on Merchandising
+2021-01-31 09:41:25,486 - cosac -INFO - User able to click on Create
+2021-01-31 09:41:33,062 - cosac -INFO - User able to click on StockCount
+2021-01-31 09:41:38,267 - cosac -INFO - User able to select location
+2021-01-31 09:41:38,268 - cosac -INFO - User able to select date
+2021-01-31 09:41:41,556 - cosac -INFO - User able to select division
+2021-01-31 09:48:18,766 - cosac -INFO - User able to click on Merchandising
+2021-01-31 09:48:19,046 - cosac -INFO - User able to click on Create
+2021-01-31 09:48:26,497 - cosac -INFO - User able to click on StockCount
+2021-01-31 09:48:33,110 - cosac -INFO - User able to select location
+2021-01-31 09:48:33,256 - cosac -INFO - User able to select date
+2021-01-31 09:48:36,579 - cosac -INFO - User able to select division
+2021-02-01 13:47:09,355 - cosac -INFO - User able to click on Merchandising
+2021-02-01 13:47:09,834 - cosac -INFO - User able to click on Create
+2021-02-01 13:47:14,032 - cosac -INFO - User able to click on StockCount
+2021-02-01 13:47:18,280 - cosac -INFO - User able to select location
+2021-02-01 13:47:18,428 - cosac -INFO - User able to select date
+2021-02-01 13:47:21,735 - cosac -INFO - User able to select division
+2021-02-01 13:50:25,816 - cosac -INFO - User able to click on Merchandising
+2021-02-01 13:50:26,083 - cosac -INFO - User able to click on Create
+2021-02-01 13:50:29,436 - cosac -INFO - User able to click on StockCount
+2021-02-01 13:50:33,843 - cosac -INFO - User able to select location
+2021-02-01 13:50:34,016 - cosac -INFO - User able to select date
+2021-02-01 13:50:37,352 - cosac -INFO - User able to select division
+2021-02-01 13:50:37,622 - cosac -INFO - User able to select department
+2021-02-01 13:53:27,587 - cosac -INFO - User able to click on Merchandising
+2021-02-01 13:53:27,858 - cosac -INFO - User able to click on Create
+2021-02-01 13:53:31,131 - cosac -INFO - User able to click on StockCount
+2021-02-01 13:53:35,705 - cosac -INFO - User able to select location
+2021-02-01 13:53:35,871 - cosac -INFO - User able to select date
+2021-02-01 13:53:39,202 - cosac -INFO - User able to select division
+2021-02-01 13:53:42,591 - cosac -INFO - User able to select department
+2021-02-01 13:53:53,650 - cosac -INFO - User able to select class
+2021-02-01 13:53:55,642 - cosac -INFO - Test Failed
+2021-02-01 13:57:17,249 - cosac -INFO - User able to click on Merchandising
+2021-02-01 13:57:17,527 - cosac -INFO - User able to click on Create
+2021-02-01 13:57:26,225 - cosac -INFO - User able to click on StockCount
+2021-02-01 13:57:30,522 - cosac -INFO - User able to select location
+2021-02-01 13:57:30,683 - cosac -INFO - User able to select date
+2021-02-01 13:57:35,901 - cosac -INFO - User able to select division
+2021-02-01 13:57:39,253 - cosac -INFO - User able to select department
+2021-02-01 13:57:42,800 - cosac -INFO - User able to select class
+2021-02-01 13:57:42,872 - cosac -INFO - User able to schedule
+2021-02-01 14:39:34,365 - cosac -INFO - User able to click on Merchandising
+2021-02-01 14:39:34,634 - cosac -INFO - User able to click on Create
+2021-02-01 14:39:39,913 - cosac -INFO - User able to click on StockCount
+2021-02-01 14:39:46,925 - cosac -INFO - User able to select location
+2021-02-01 14:39:47,095 - cosac -INFO - User able to select date
+2021-02-01 14:39:50,469 - cosac -INFO - User able to select division
+2021-02-01 14:39:53,829 - cosac -INFO - User able to select department
+2021-02-01 14:39:57,410 - cosac -INFO - User able to select class
+2021-02-01 14:39:57,478 - cosac -INFO - User able to schedule
+2021-02-01 14:41:51,298 - cosac -INFO - User able to click on Merchandising
+2021-02-01 14:41:51,590 - cosac -INFO - User able to click on Create
+2021-02-01 14:42:01,343 - cosac -INFO - User able to click on StockCount
+2021-02-01 14:42:05,663 - cosac -INFO - User able to select location
+2021-02-01 14:42:05,810 - cosac -INFO - User able to select date
+2021-02-01 14:42:09,126 - cosac -INFO - User able to select division
+2021-02-01 14:42:12,484 - cosac -INFO - User able to select department
+2021-02-01 14:42:16,052 - cosac -INFO - User able to select class
+2021-02-01 14:42:16,118 - cosac -INFO - User able to schedule
+2021-02-01 14:43:45,622 - cosac -INFO - User able to click on Merchandising
+2021-02-01 14:43:45,905 - cosac -INFO - User able to click on Create
+2021-02-01 14:43:50,706 - cosac -INFO - User able to click on StockCount
+2021-02-01 14:43:54,931 - cosac -INFO - User able to select location
+2021-02-01 14:43:55,107 - cosac -INFO - User able to select date
+2021-02-01 14:43:58,449 - cosac -INFO - User able to select division
+2021-02-01 14:44:01,807 - cosac -INFO - User able to select department
+2021-02-01 14:44:05,335 - cosac -INFO - User able to select class
+2021-02-01 14:44:05,452 - cosac -INFO - User able to schedule
+2021-02-01 14:44:16,631 - cosac -INFO - Test Failed
+2021-02-01 15:15:45,636 - cosac -INFO - User able to click on Merchandising
+2021-02-01 15:15:45,900 - cosac -INFO - User able to click on Create
+2021-02-01 15:15:53,719 - cosac -INFO - User able to click on StockCount
+2021-02-01 15:16:00,775 - cosac -INFO - User able to select location
+2021-02-01 15:16:00,936 - cosac -INFO - User able to select date
+2021-02-01 15:16:04,263 - cosac -INFO - User able to select division
+2021-02-01 15:16:07,619 - cosac -INFO - User able to select department
+2021-02-01 15:16:11,141 - cosac -INFO - User able to select class
+2021-02-01 15:16:11,210 - cosac -INFO - User able to schedule
+2021-02-01 15:25:52,204 - cosac -INFO - User able to click on Merchandising
+2021-02-01 15:25:52,507 - cosac -INFO - User clicked on Search
+2021-02-01 15:28:21,733 - cosac -INFO - Test Failed
+2021-02-01 15:29:33,735 - cosac -INFO - User able to click on Merchandising
+2021-02-01 15:29:34,018 - cosac -INFO - User clicked on Search
+2021-02-01 15:29:38,901 - cosac -INFO - User able to click on Stock Counts
+2021-02-01 15:29:43,026 - cosac -INFO - User able to select location
+2021-02-01 15:29:43,208 - cosac -INFO - User able to from date
+2021-02-01 15:29:43,360 - cosac -INFO - User able select to date
+2021-02-01 15:29:43,423 - cosac -INFO - User able search
+2021-02-01 16:05:56,044 - cosac -INFO - User able to click on Merchandising
+2021-02-01 16:05:56,334 - cosac -INFO - User able to click on Create
+2021-02-01 16:06:01,993 - cosac -INFO - User able to click on StockCount
+2021-02-01 16:06:06,459 - cosac -INFO - User able to select location
+2021-02-01 16:06:06,636 - cosac -INFO - User able to select date
+2021-02-01 16:06:09,967 - cosac -INFO - User able to select division
+2021-02-01 16:06:13,331 - cosac -INFO - User able to select department
+2021-02-01 16:06:16,851 - cosac -INFO - User able to select class
+2021-02-01 16:06:16,942 - cosac -INFO - User able to schedule
+2021-02-01 16:06:17,010 - cosac -INFO - User able to click on Merchandising
+2021-02-01 16:06:17,279 - cosac -INFO - User clicked on Search
+2021-02-01 16:06:17,386 - cosac -INFO - User able to click on Stock Counts
+2021-02-01 16:06:21,589 - cosac -INFO - User able to select location
+2021-02-01 16:06:21,735 - cosac -INFO - User able to from date
+2021-02-01 16:06:21,887 - cosac -INFO - User able select to date
+2021-02-01 16:06:21,950 - cosac -INFO - User able search
+2021-02-01 16:06:22,030 - cosac -INFO - User able click on stock count id
+2021-02-01 16:06:43,670 - cosac -INFO - Test Failed
+2021-02-01 16:07:41,921 - cosac -INFO - User able to click on Merchandising
+2021-02-01 16:07:42,199 - cosac -INFO - User able to click on Create
+2021-02-01 16:07:47,773 - cosac -INFO - User able to click on StockCount
+2021-02-01 16:07:52,856 - cosac -INFO - User able to select location
+2021-02-01 16:07:53,012 - cosac -INFO - User able to select date
+2021-02-01 16:07:56,355 - cosac -INFO - User able to select division
+2021-02-01 16:07:59,685 - cosac -INFO - User able to select department
+2021-02-01 16:08:03,251 - cosac -INFO - User able to select class
+2021-02-01 16:08:03,311 - cosac -INFO - User able to schedule
+2021-02-01 16:08:03,371 - cosac -INFO - User able to click on Merchandising
+2021-02-01 16:08:03,627 - cosac -INFO - User clicked on Search
+2021-02-01 16:08:03,717 - cosac -INFO - User able to click on Stock Counts
+2021-02-01 16:08:07,875 - cosac -INFO - User able to select location
+2021-02-01 16:08:08,032 - cosac -INFO - User able to from date
+2021-02-01 16:08:08,184 - cosac -INFO - User able select to date
+2021-02-01 16:08:08,248 - cosac -INFO - User able search
+2021-02-01 16:08:08,327 - cosac -INFO - User able click on stock count id
+2021-02-01 16:08:19,454 - cosac -INFO - User able click on start
+2021-02-01 16:10:26,297 - cosac -INFO - User able to click on Merchandising
+2021-02-01 16:10:26,581 - cosac -INFO - User able to click on Create
+2021-02-01 16:10:36,890 - cosac -INFO - User able to click on StockCount
+2021-02-01 16:10:41,308 - cosac -INFO - User able to select location
+2021-02-01 16:10:41,461 - cosac -INFO - User able to select date
+2021-02-01 16:10:44,772 - cosac -INFO - User able to select division
+2021-02-01 16:10:48,113 - cosac -INFO - User able to select department
+2021-02-01 16:10:51,712 - cosac -INFO - User able to select class
+2021-02-01 16:10:51,773 - cosac -INFO - User able to schedule
+2021-02-01 16:10:51,833 - cosac -INFO - User able to click on Merchandising
+2021-02-01 16:10:52,105 - cosac -INFO - User clicked on Search
+2021-02-01 16:10:52,197 - cosac -INFO - User able to click on Stock Counts
+2021-02-01 16:10:56,548 - cosac -INFO - User able to select location
+2021-02-01 16:10:56,717 - cosac -INFO - User able to from date
+2021-02-01 16:10:56,861 - cosac -INFO - User able select to date
+2021-02-01 16:10:56,933 - cosac -INFO - User able search
+2021-02-01 16:11:07,016 - cosac -INFO - User able click on stock count id
+2021-02-01 16:11:53,344 - cosac -INFO - User able to click on Merchandising
+2021-02-01 16:11:53,621 - cosac -INFO - User able to click on Create
+2021-02-01 16:12:01,173 - cosac -INFO - User able to click on StockCount
+2021-02-01 16:12:05,685 - cosac -INFO - User able to select location
+2021-02-01 16:12:05,869 - cosac -INFO - User able to select date
+2021-02-01 16:12:09,156 - cosac -INFO - User able to select division
+2021-02-01 16:12:12,487 - cosac -INFO - User able to select department
+2021-02-01 16:12:16,037 - cosac -INFO - User able to select class
+2021-02-01 16:12:16,107 - cosac -INFO - User able to schedule
+2021-02-01 16:12:16,171 - cosac -INFO - User able to click on Merchandising
+2021-02-01 16:12:16,436 - cosac -INFO - User clicked on Search
+2021-02-01 16:12:16,525 - cosac -INFO - User able to click on Stock Counts
+2021-02-01 16:12:20,673 - cosac -INFO - User able to select location
+2021-02-01 16:12:20,888 - cosac -INFO - User able to from date
+2021-02-01 16:12:21,080 - cosac -INFO - User able select to date
+2021-02-01 16:12:21,159 - cosac -INFO - User able search
+2021-02-01 16:12:31,277 - cosac -INFO - User able click on stock count id
+2021-02-01 16:12:52,961 - cosac -INFO - Test Failed
+2021-02-01 16:26:38,409 - cosac -INFO - User able to click on Merchandising
+2021-02-01 16:26:38,691 - cosac -INFO - User able to click on Create
+2021-02-01 16:26:43,727 - cosac -INFO - User able to click on StockCount
+2021-02-01 16:26:48,172 - cosac -INFO - User able to select location
+2021-02-01 16:26:48,343 - cosac -INFO - User able to select date
+2021-02-01 16:26:51,649 - cosac -INFO - User able to select division
+2021-02-01 16:26:55,016 - cosac -INFO - User able to select department
+2021-02-01 16:26:58,568 - cosac -INFO - User able to select class
+2021-02-01 16:26:58,633 - cosac -INFO - User able to schedule
+2021-02-01 16:26:58,702 - cosac -INFO - User able to click on Merchandising
+2021-02-01 16:26:58,954 - cosac -INFO - User clicked on Search
+2021-02-01 16:26:59,031 - cosac -INFO - User able to click on Stock Counts
+2021-02-01 16:27:03,002 - cosac -INFO - User able to select location
+2021-02-01 16:27:03,174 - cosac -INFO - User able to from date
+2021-02-01 16:27:03,362 - cosac -INFO - User able select to date
+2021-02-01 16:27:03,418 - cosac -INFO - User able search
+2021-02-01 16:29:14,259 - cosac -INFO - Test Failed
+2021-02-02 13:59:07,523 - cosac -INFO - User able to click on Merchandising
+2021-02-02 13:59:07,867 - cosac -INFO - User able to click on Create
+2021-02-02 13:59:13,332 - cosac -INFO - User able to click on StockCount
+2021-02-02 13:59:20,058 - cosac -INFO - User able to select location
+2021-02-02 13:59:20,200 - cosac -INFO - User able to select date
+2021-02-02 13:59:23,518 - cosac -INFO - User able to select division
+2021-02-02 13:59:26,864 - cosac -INFO - User able to select department
+2021-02-02 13:59:30,414 - cosac -INFO - User able to select class
+2021-02-02 13:59:30,475 - cosac -INFO - User able to schedule
+2021-02-02 13:59:30,533 - cosac -INFO - User able to click on Merchandising
+2021-02-02 13:59:30,784 - cosac -INFO - User clicked on Search
+2021-02-02 13:59:30,896 - cosac -INFO - User able to click on Stock Counts
+2021-02-02 13:59:35,373 - cosac -INFO - User able to select location
+2021-02-02 13:59:35,554 - cosac -INFO - User able to from date
+2021-02-02 13:59:35,683 - cosac -INFO - User able select to date
+2021-02-02 13:59:35,730 - cosac -INFO - User able search
+2021-02-02 13:59:45,890 - cosac -INFO - User able click on stock count id
+2021-02-02 13:59:52,147 - cosac -INFO - User able click on start
+2021-02-02 13:59:55,249 - cosac -INFO - User able click on CollectionNotes
+2021-02-02 13:59:55,323 - cosac -INFO - User able click on DeliveryNotes
+2021-02-02 13:59:55,366 - cosac -INFO - User able click on GoodsReciept
+2021-02-02 13:59:55,438 - cosac -INFO - User able click on ReturnToVendor
+2021-02-02 13:59:55,505 - cosac -INFO - User able click on StartCount
+2021-02-02 13:59:57,726 - cosac -INFO - User able click on PrintStockcountsheet
+2021-02-02 15:55:30,801 - cosac -INFO - User able to click on Merchandising
+2021-02-02 15:55:31,050 - cosac -INFO - User able to click on Create
+2021-02-02 15:55:36,853 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 15:55:40,024 - cosac -INFO - Page Title is Verified Successfully
+2021-02-02 15:58:11,392 - cosac -INFO - User able to click on Merchandising
+2021-02-02 15:58:11,675 - cosac -INFO - User able to click on Create
+2021-02-02 15:58:16,847 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 15:58:20,279 - cosac -INFO - Page Title is Verified Successfully
+2021-02-02 16:01:26,191 - cosac -INFO - User able to click on Merchandising
+2021-02-02 16:01:26,479 - cosac -INFO - User able to click on Create
+2021-02-02 16:01:32,670 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 16:01:35,822 - cosac -INFO - Page Title is Verified Successfully
+2021-02-02 16:10:04,616 - cosac -INFO - User able to click on Merchandising
+2021-02-02 16:10:04,905 - cosac -INFO - User able to click on Create
+2021-02-02 16:10:13,905 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 16:10:17,396 - cosac -INFO - Page Title is Verified Successfully
+2021-02-02 16:10:50,512 - cosac -INFO - User entered data
+2021-02-02 16:10:50,569 - cosac -INFO - User able to click on Print Lables
+2021-02-02 16:24:08,765 - cosac -INFO - User able to click on Merchandising
+2021-02-02 16:24:09,049 - cosac -INFO - User able to click on Create
+2021-02-02 16:24:17,402 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 16:24:20,775 - cosac -INFO - Page Title is Verified Successfully
+2021-02-02 16:24:54,743 - cosac -INFO - User entered data
+2021-02-02 16:24:54,794 - cosac -INFO - User able to click on Print Lables
+2021-02-02 16:24:54,865 - cosac -INFO - User able to click on Merchandising
+2021-02-02 16:50:14,615 - cosac -INFO - User able to click on Merchandising
+2021-02-02 16:50:14,891 - cosac -INFO - User able to click on Create
+2021-02-02 16:50:27,050 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 16:50:30,814 - cosac -INFO - Page Title is Verified Successfully
+2021-02-02 16:51:05,715 - cosac -INFO - User entered data
+2021-02-02 16:51:05,770 - cosac -INFO - User able to click on Print Lables
+2021-02-02 16:51:05,850 - cosac -INFO - User able to click on Merchandising
+2021-02-02 16:53:00,219 - cosac -INFO - User able to click on Merchandising
+2021-02-02 16:53:00,505 - cosac -INFO - User able to click on Create
+2021-02-02 16:53:04,931 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 16:53:08,454 - cosac -INFO - Page Title is Verified Successfully
+2021-02-02 16:53:42,379 - cosac -INFO - User entered data
+2021-02-02 16:53:42,434 - cosac -INFO - User able to click on Print Lables
+2021-02-02 16:53:45,497 - cosac -INFO - User able to click on Merchandising
+2021-02-02 16:56:11,522 - cosac -INFO - Test Failed
+2021-02-02 16:57:06,422 - cosac -INFO - User able to click on Merchandising
+2021-02-02 16:57:06,674 - cosac -INFO - User able to click on Create
+2021-02-02 16:57:12,581 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 16:57:16,345 - cosac -INFO - Page Title is Verified Successfully
+2021-02-02 16:57:50,417 - cosac -INFO - User entered data
+2021-02-02 16:57:50,470 - cosac -INFO - User able to click on Print Lables
+2021-02-02 16:57:53,574 - cosac -INFO - User able to click on Merchandising
+2021-02-02 16:57:53,825 - cosac -INFO - User able to click on Search
+2021-02-02 16:58:10,872 - cosac -INFO - User able to click on StockCount
+2021-02-02 16:59:20,860 - cosac -INFO - User able to click on Merchandising
+2021-02-02 16:59:21,137 - cosac -INFO - User able to click on Create
+2021-02-02 16:59:25,234 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 16:59:28,751 - cosac -INFO - Page Title is Verified Successfully
+2021-02-02 17:00:01,606 - cosac -INFO - User entered data
+2021-02-02 17:00:01,661 - cosac -INFO - User able to click on Print Lables
+2021-02-02 17:00:04,784 - cosac -INFO - User able to click on Merchandising
+2021-02-02 17:03:00,787 - cosac -INFO - User able to click on Merchandising
+2021-02-02 17:03:01,055 - cosac -INFO - User able to click on Create
+2021-02-02 17:03:17,601 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 17:03:21,487 - cosac -INFO - Page Title is Verified Successfully
+2021-02-02 17:03:54,446 - cosac -INFO - User entered data
+2021-02-02 17:03:54,500 - cosac -INFO - User able to click on Print Lables
+2021-02-02 17:03:57,597 - cosac -INFO - User able to click on Merchandising
+2021-02-02 17:03:57,849 - cosac -INFO - User able to click on Search
+2021-02-02 17:03:57,931 - cosac -INFO - User able to click on StockCount
+2021-02-02 17:05:58,555 - cosac -INFO - User able to select location
+2021-02-02 17:05:58,771 - cosac -INFO - User able to select date
+2021-02-02 17:06:02,141 - cosac -INFO - User able to select division
+2021-02-02 17:06:05,550 - cosac -INFO - User able to select department
+2021-02-02 17:06:09,085 - cosac -INFO - User able to select class
+2021-02-02 17:06:10,922 - cosac -INFO - Test Failed
+2021-02-02 19:50:11,071 - cosac -INFO - User able to click on Merchandising
+2021-02-02 19:50:11,685 - cosac -INFO - User able to click on Create
+2021-02-02 19:50:15,533 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 19:50:19,229 - cosac -INFO - Page Title is Verified Successfully
+2021-02-02 19:50:55,150 - cosac -INFO - User entered data
+2021-02-02 19:50:55,213 - cosac -INFO - User able to click on Print Lables
+2021-02-02 19:50:58,392 - cosac -INFO - User able to click on Merchandising
+2021-02-02 19:50:58,666 - cosac -INFO - User able to click on Search
+2021-02-02 19:50:58,746 - cosac -INFO - User able to click on StockCount
+2021-02-02 19:51:17,081 - cosac -INFO - User able to select location
+2021-02-02 19:52:10,317 - cosac -INFO - User able to click on Merchandising
+2021-02-02 19:52:10,579 - cosac -INFO - User able to click on Create
+2021-02-02 19:52:16,863 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 19:52:19,877 - cosac -INFO - Page Title is Verified Successfully
+2021-02-02 19:52:53,491 - cosac -INFO - User entered data
+2021-02-02 19:52:53,554 - cosac -INFO - User able to click on Print Lables
+2021-02-02 19:52:56,636 - cosac -INFO - User able to click on Merchandising
+2021-02-02 19:52:56,896 - cosac -INFO - User able to click on Search
+2021-02-02 19:52:56,986 - cosac -INFO - User able to click on StockCount
+2021-02-02 19:53:03,344 - cosac -INFO - User able to select location
+2021-02-02 19:53:03,497 - cosac -INFO - User able to select date
+2021-02-02 19:53:06,789 - cosac -INFO - User able to select division
+2021-02-02 19:53:10,139 - cosac -INFO - User able to select department
+2021-02-02 19:53:13,650 - cosac -INFO - User able to select class
+2021-02-02 19:53:13,709 - cosac -INFO - User able to schedule
+2021-02-02 19:53:13,773 - cosac -INFO - User able to click on Merchandising
+2021-02-02 19:53:14,023 - cosac -INFO - User clicked on Search
+2021-02-02 19:53:14,095 - cosac -INFO - User able to click on Stock Counts
+2021-02-02 19:53:18,300 - cosac -INFO - User able to select location
+2021-02-02 19:53:18,465 - cosac -INFO - User able to from date
+2021-02-02 19:53:18,625 - cosac -INFO - User able select to date
+2021-02-02 19:53:18,681 - cosac -INFO - User able search
+2021-02-02 19:53:24,762 - cosac -INFO - User able click on stock count id
+2021-02-02 19:53:38,831 - cosac -INFO - User able click on start
+2021-02-02 21:08:28,092 - cosac -INFO - User able to click on Merchandising
+2021-02-02 21:08:28,377 - cosac -INFO - User able to click on Create
+2021-02-02 21:08:29,779 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 21:10:18,509 - cosac -INFO - User able to click on Merchandising
+2021-02-02 21:10:18,776 - cosac -INFO - User able to click on Create
+2021-02-02 21:10:28,019 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 21:10:33,000 - cosac -INFO - Page Title is Verified Successfully
+2021-02-02 21:10:38,602 - cosac -INFO - Test Failed
+2021-02-02 21:14:32,796 - cosac -INFO - User able to click on Merchandising
+2021-02-02 21:14:33,077 - cosac -INFO - User able to click on Create
+2021-02-02 21:14:36,233 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 21:14:39,326 - cosac -INFO - Page Title is Verified Successfully
+2021-02-02 21:43:25,829 - cosac -INFO - User able to click on Merchandising
+2021-02-02 21:43:26,092 - cosac -INFO - User able to click on Create
+2021-02-02 21:43:46,923 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 21:43:50,671 - cosac -INFO - Page Title is Verified Successfully
+2021-02-02 21:44:28,561 - cosac -INFO - User entered data
+2021-02-02 21:44:28,619 - cosac -INFO - User able to click on Print Lables
+2021-02-02 21:44:31,701 - cosac -INFO - User able to click on Merchandising
+2021-02-02 21:44:31,954 - cosac -INFO - User able to click on Search
+2021-02-02 21:44:32,034 - cosac -INFO - User able to click on StockCount
+2021-02-02 21:44:38,343 - cosac -INFO - User able to select location
+2021-02-02 21:44:38,512 - cosac -INFO - User able to select date
+2021-02-02 21:44:41,788 - cosac -INFO - User able to select division
+2021-02-02 21:44:45,150 - cosac -INFO - User able to select department
+2021-02-02 21:44:48,689 - cosac -INFO - User able to select class
+2021-02-02 21:44:48,741 - cosac -INFO - User able to schedule
+2021-02-02 21:44:48,805 - cosac -INFO - User able to click on Merchandising
+2021-02-02 21:44:49,077 - cosac -INFO - User clicked on Search
+2021-02-02 21:44:49,153 - cosac -INFO - User able to click on Stock Counts
+2021-02-02 21:44:53,395 - cosac -INFO - User able to select location
+2021-02-02 21:44:53,553 - cosac -INFO - User able to from date
+2021-02-02 21:44:53,705 - cosac -INFO - User able select to date
+2021-02-02 21:44:53,777 - cosac -INFO - User able search
+2021-02-02 21:44:55,881 - cosac -INFO - User able click on stock count id
+2021-02-02 21:45:12,905 - cosac -INFO - Test Failed
+2021-02-02 22:33:30,388 - cosac -INFO - User able to click on Merchandising
+2021-02-02 22:33:30,647 - cosac -INFO - User able to click on Create
+2021-02-02 22:33:33,938 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 22:33:37,320 - cosac -INFO - Page Title is Verified Successfully
+2021-02-02 22:34:11,971 - cosac -INFO - User entered data
+2021-02-02 22:34:12,035 - cosac -INFO - User able to click on Print Lables
+2021-02-02 22:34:15,130 - cosac -INFO - User able to click on Merchandising
+2021-02-02 22:34:15,376 - cosac -INFO - User able to click on Search
+2021-02-02 22:34:15,457 - cosac -INFO - User able to click on StockCount
+2021-02-02 22:34:18,727 - cosac -INFO - User able to select location
+2021-02-02 22:34:20,534 - cosac -INFO - Test Failed
+2021-02-02 22:35:16,065 - cosac -INFO - User able to click on Merchandising
+2021-02-02 22:35:16,316 - cosac -INFO - User able to click on Create
+2021-02-02 22:35:19,439 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 22:35:22,553 - cosac -INFO - Page Title is Verified Successfully
+2021-02-02 22:35:56,347 - cosac -INFO - User entered data
+2021-02-02 22:35:56,433 - cosac -INFO - User able to click on Print Lables
+2021-02-02 22:35:59,525 - cosac -INFO - User able to click on Merchandising
+2021-02-02 22:35:59,766 - cosac -INFO - User able to click on Search
+2021-02-02 22:35:59,854 - cosac -INFO - User able to click on StockCount
+2021-02-02 22:36:03,141 - cosac -INFO - User able to select location
+2021-02-02 22:36:04,959 - cosac -INFO - Test Failed
+2021-02-02 22:37:22,197 - cosac -INFO - User able to click on Merchandising
+2021-02-02 22:37:22,465 - cosac -INFO - User able to click on Create
+2021-02-02 22:37:25,396 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 22:37:28,620 - cosac -INFO - Page Title is Verified Successfully
+2021-02-02 22:38:02,001 - cosac -INFO - User entered data
+2021-02-02 22:38:02,070 - cosac -INFO - User able to click on Print Lables
+2021-02-02 22:38:05,157 - cosac -INFO - User able to click on Merchandising
+2021-02-02 22:38:05,413 - cosac -INFO - User able to click on Search
+2021-02-02 22:38:05,494 - cosac -INFO - User able to click on StockCount
+2021-02-02 22:38:08,785 - cosac -INFO - User able to select location
+2021-02-02 22:38:10,608 - cosac -INFO - Test Failed
+2021-02-02 22:45:03,253 - cosac -INFO - User able to click on Merchandising
+2021-02-02 22:45:03,527 - cosac -INFO - User able to click on Create
+2021-02-02 22:45:07,224 - cosac -INFO - User able to click on Purchase Order
+2021-02-02 22:45:10,278 - cosac -INFO - Page Title is Verified Successfully
+2021-02-02 22:45:44,478 - cosac -INFO - User entered data
+2021-02-02 22:45:44,539 - cosac -INFO - User able to click on Print Lables
+2021-02-02 22:45:47,632 - cosac -INFO - User able to click on Merchandising
+2021-02-02 22:45:47,885 - cosac -INFO - User able to click on Search
+2021-02-02 22:45:47,959 - cosac -INFO - User able to click on StockCount
+2021-02-02 22:45:54,266 - cosac -INFO - User able to select location
+2021-02-02 22:45:54,419 - cosac -INFO - User able to select date
+2021-02-02 22:45:57,718 - cosac -INFO - User able to select division
+2021-02-02 22:46:01,076 - cosac -INFO - User able to select department
+2021-02-02 22:46:04,637 - cosac -INFO - User able to select class
+2021-02-02 22:46:04,690 - cosac -INFO - User able to schedule
+2021-02-02 22:46:04,755 - cosac -INFO - User able to click on Merchandising
+2021-02-02 22:46:04,998 - cosac -INFO - User clicked on Search
+2021-02-02 22:46:05,071 - cosac -INFO - User able to click on Stock Counts
+2021-02-02 22:46:09,065 - cosac -INFO - User able to select location
+2021-02-02 22:46:09,223 - cosac -INFO - User able to from date
+2021-02-02 22:46:09,407 - cosac -INFO - User able select to date
+2021-02-02 22:46:09,479 - cosac -INFO - User able search
+2021-02-02 22:46:11,576 - cosac -INFO - User able click on stock count id
+2021-02-02 22:46:17,911 - cosac -INFO - User able click on start
+2021-02-03 15:22:10,365 - cosac -INFO - User Clicked on Merchandising
+2021-02-03 15:22:10,699 - cosac -INFO - User Clicked on Create
+2021-02-03 15:22:15,638 - cosac -INFO - User Clicked on StockCount
+2021-02-03 15:22:24,306 - cosac -INFO - Test Failed
+2021-02-03 15:24:13,041 - cosac -INFO - User Clicked on Merchandising
+2021-02-03 15:24:13,318 - cosac -INFO - User Clicked on Create
+2021-02-03 15:24:19,817 - cosac -INFO - User Clicked on StockCount
+2021-02-03 15:24:38,716 - cosac -INFO - User Clicked on Schedule
+2021-02-03 15:24:38,716 - cosac -INFO - Scheduling Starts
+2021-02-03 15:24:39,353 - cosac -INFO - Stock Count Label is displaying
+2021-02-03 15:24:49,877 - cosac -INFO - User is able to Click on Stock Count Link
+2021-02-03 15:24:52,120 - cosac -INFO - User Checks the Radio button
+2021-02-03 15:25:05,010 - cosac -INFO - Test Failed
+2021-02-03 15:26:37,447 - cosac -INFO - User Clicked on Merchandising
+2021-02-03 15:26:37,723 - cosac -INFO - User Clicked on Create
+2021-02-03 15:26:45,028 - cosac -INFO - User Clicked on StockCount
+2021-02-03 15:27:03,863 - cosac -INFO - User Clicked on Schedule
+2021-02-03 15:27:03,863 - cosac -INFO - Scheduling Starts
+2021-02-03 15:27:04,416 - cosac -INFO - Stock Count Label is displaying
+2021-02-03 15:27:14,942 - cosac -INFO - User is able to Click on Stock Count Link
+2021-02-03 15:27:42,076 - cosac -INFO - User Checks the Radio button
+2021-02-03 15:27:42,171 - cosac -INFO - Test Failed
+2021-02-03 15:31:51,297 - cosac -INFO - User Clicked on Merchandising
+2021-02-03 15:31:51,578 - cosac -INFO - User Clicked on Create
+2021-02-03 15:31:57,785 - cosac -INFO - User Clicked on StockCount
+2021-02-03 15:32:16,726 - cosac -INFO - User Clicked on Schedule
+2021-02-03 15:32:16,730 - cosac -INFO - Scheduling Starts
+2021-02-03 15:32:17,278 - cosac -INFO - Stock Count Label is displaying
+2021-02-03 15:32:27,813 - cosac -INFO - User is able to Click on Stock Count Link
+2021-02-03 15:32:29,522 - cosac -INFO - User Checks the Radio button
+2021-02-03 15:32:55,986 - cosac -INFO - Test Failed
+2021-02-03 15:37:43,211 - cosac -INFO - User Clicked on Merchandising
+2021-02-03 15:37:43,497 - cosac -INFO - User Clicked on Create
+2021-02-03 15:37:52,000 - cosac -INFO - User Clicked on StockCount
+2021-02-03 15:38:10,777 - cosac -INFO - User Clicked on Schedule
+2021-02-03 15:38:10,785 - cosac -INFO - Scheduling Starts
+2021-02-03 15:38:11,320 - cosac -INFO - Stock Count Label is displaying
+2021-02-03 15:38:21,857 - cosac -INFO - User is able to Click on Stock Count Link
+2021-02-03 15:38:26,459 - cosac -INFO - User Checks the Radio button
+2021-02-03 15:38:32,660 - cosac -INFO - User Enters the product
+2021-02-03 15:38:36,764 - cosac -INFO - User Click on the Print varience
+2021-02-03 15:38:40,785 - cosac -INFO - Print Varience
+2021-02-03 15:38:43,983 - cosac -INFO - User Closes the Stock Count
+2021-02-03 15:38:48,044 - cosac -INFO - User Verifies the Status
+2021-02-03 15:38:59,933 - cosac -INFO - status verified with: Closed
+2021-02-03 15:47:57,428 - cosac -INFO - User able to click on Merchandising
+2021-02-03 15:47:57,704 - cosac -INFO - User able to click on Create
+2021-02-03 15:48:07,823 - cosac -INFO - User able to click on Purchase Order
+2021-02-03 15:48:11,191 - cosac -INFO - Page Title is Verified Successfully
+2021-02-03 15:48:46,353 - cosac -INFO - User entered data
+2021-02-03 15:48:46,469 - cosac -INFO - User able to click on Print Lables
+2021-02-03 15:48:49,694 - cosac -INFO - User Clicked on Merchandising
+2021-02-03 15:51:04,978 - cosac -INFO - User able to click on Merchandising
+2021-02-03 15:51:05,264 - cosac -INFO - User able to click on Create
+2021-02-03 15:51:09,863 - cosac -INFO - User able to click on Purchase Order
+2021-02-03 15:52:56,803 - cosac -INFO - User able to click on Merchandising
+2021-02-03 15:52:57,089 - cosac -INFO - User able to click on Create
+2021-02-03 15:53:02,184 - cosac -INFO - User able to click on Purchase Order
+2021-02-03 15:53:05,738 - cosac -INFO - Page Title is Verified Successfully
+2021-02-03 15:53:08,180 - cosac -INFO - Test Failed
+2021-02-03 15:54:34,297 - cosac -INFO - User able to click on Merchandising
+2021-02-03 15:54:34,620 - cosac -INFO - User able to click on Create
+2021-02-03 15:54:42,564 - cosac -INFO - User able to click on Purchase Order
+2021-02-03 15:54:45,777 - cosac -INFO - Page Title is Verified Successfully
+2021-02-03 15:54:51,944 - cosac -INFO - Test Failed
+2021-02-03 15:55:38,137 - cosac -INFO - User able to click on Merchandising
+2021-02-03 15:55:38,688 - cosac -INFO - User able to click on Create
+2021-02-03 15:55:45,140 - cosac -INFO - User able to click on Purchase Order
+2021-02-03 15:55:48,153 - cosac -INFO - Page Title is Verified Successfully
+2021-02-03 15:56:34,315 - cosac -INFO - Test Failed
+2021-02-03 15:58:12,988 - cosac -INFO - User able to click on Merchandising
+2021-02-03 15:58:13,257 - cosac -INFO - User able to click on Create
+2021-02-03 15:58:25,744 - cosac -INFO - User able to click on Purchase Order
+2021-02-03 15:58:29,049 - cosac -INFO - Page Title is Verified Successfully
+2021-02-03 15:59:05,011 - cosac -INFO - User entered data
+2021-02-03 15:59:05,072 - cosac -INFO - User able to click on Print Lables
+2021-02-03 15:59:08,198 - cosac -INFO - User Clicked on Merchandising
+2021-02-03 16:08:08,598 - cosac -INFO - User able to click on Merchandising
+2021-02-03 16:08:08,861 - cosac -INFO - User able to click on Create
+2021-02-03 16:08:19,266 - cosac -INFO - User able to click on Purchase Order
+2021-02-03 16:08:22,514 - cosac -INFO - Page Title is Verified Successfully
+2021-02-03 16:08:55,644 - cosac -INFO - User entered data
+2021-02-03 16:08:55,702 - cosac -INFO - User able to click on Print Lables
+2021-02-03 16:08:58,824 - cosac -INFO - User Clicked on Merchandising
+2021-02-03 16:08:59,084 - cosac -INFO - User Clicked on Create
+2021-02-03 16:08:59,176 - cosac -INFO - User Clicked on StockCount
+2021-02-03 16:09:17,870 - cosac -INFO - User Clicked on Schedule
+2021-02-03 16:09:17,871 - cosac -INFO - Scheduling Starts
+2021-02-03 16:09:18,336 - cosac -INFO - Stock Count Label is displaying
+2021-02-03 16:09:28,885 - cosac -INFO - User is able to Click on Stock Count Link
+2021-02-03 16:09:33,104 - cosac -INFO - User Checks the Radio button
+2021-02-03 16:09:41,209 - cosac -INFO - User Enters the product
+2021-02-03 16:09:45,807 - cosac -INFO - User Click on the PrintStockcountsheet
+2021-02-03 16:33:04,381 - cosac -INFO - User able to click on Merchandising
+2021-02-03 16:33:04,649 - cosac -INFO - User able to click on Create
+2021-02-03 16:33:07,585 - cosac -INFO - User able to click on Purchase Order
+2021-02-03 16:33:11,302 - cosac -INFO - Page Title is Verified Successfully
+2021-02-03 16:33:46,117 - cosac -INFO - User entered data
+2021-02-03 16:33:46,167 - cosac -INFO - User able to click on Print Lables
+2021-02-03 16:33:49,279 - cosac -INFO - User Clicked on Merchandising
+2021-02-03 16:33:49,541 - cosac -INFO - User Clicked on Create
+2021-02-03 16:33:49,620 - cosac -INFO - User Clicked on StockCount
+2021-02-03 16:34:08,235 - cosac -INFO - User Clicked on Schedule
+2021-02-03 16:34:08,235 - cosac -INFO - Scheduling Starts
+2021-02-03 16:34:08,721 - cosac -INFO - Stock Count Label is displaying
+2021-02-03 16:34:19,248 - cosac -INFO - User is able to Click on Stock Count Link
+2021-02-03 16:34:23,590 - cosac -INFO - User Checks the Radio button
+2021-02-03 16:34:30,952 - cosac -INFO - User Enters the product
+2021-02-03 16:34:35,354 - cosac -INFO - User Click on the PrintStockcountsheet
+2021-02-04 18:36:46,439 - cosac -INFO - User clicked on Administartion
+2021-02-04 18:36:52,603 - cosac -INFO - User clicked on Addressmaster
+2021-02-04 18:36:53,223 - cosac -INFO - User clicked on Add 
+2021-02-04 18:36:53,427 - cosac -INFO - User added region 
+2021-02-04 18:36:55,192 - cosac -INFO - Test Failed
+2021-02-04 18:38:31,208 - cosac -INFO - User clicked on Administartion
+2021-02-04 18:38:37,455 - cosac -INFO - User clicked on Addressmaster
+2021-02-04 18:38:39,654 - cosac -INFO - User clicked on Add 
+2021-02-04 18:38:39,812 - cosac -INFO - User added region 
+2021-02-04 18:38:41,356 - cosac -INFO - Test Failed
+2021-02-04 18:43:49,013 - cosac -INFO - User clicked on Administartion
+2021-02-04 18:43:58,304 - cosac -INFO - User clicked on Addressmaster
+2021-02-04 18:44:02,274 - cosac -INFO - Test Failed
+2021-02-04 18:47:12,942 - cosac -INFO - User clicked on Administartion
+2021-02-04 18:47:17,102 - cosac -INFO - User clicked on Addressmaster
+2021-02-04 18:47:19,314 - cosac -INFO - User clicked on Add 
+2021-02-04 18:47:19,475 - cosac -INFO - User added region 
+2021-02-04 18:47:19,650 - cosac -INFO - User added Village 
+2021-02-04 18:47:19,867 - cosac -INFO - User added zipcode 
+2021-02-04 18:47:19,959 - cosac -INFO - User Saved Address
+2021-02-04 18:49:04,110 - cosac -INFO - User clicked on Administartion
+2021-02-04 18:49:07,180 - cosac -INFO - User clicked on Addressmaster
+2021-02-04 18:49:09,430 - cosac -INFO - User clicked on Add 
+2021-02-04 18:49:09,598 - cosac -INFO - User added region 
+2021-02-04 18:49:09,790 - cosac -INFO - User added Village 
+2021-02-04 18:49:09,942 - cosac -INFO - User added zipcode 
+2021-02-04 18:49:10,054 - cosac -INFO - User Saved Address
+2021-02-04 18:52:40,329 - cosac -INFO - User clicked on Administartion
+2021-02-04 18:52:45,452 - cosac -INFO - User clicked on Addressmaster
+2021-02-04 18:52:47,674 - cosac -INFO - User clicked on Add 
+2021-02-04 18:52:47,860 - cosac -INFO - User added region 
+2021-02-04 18:52:48,061 - cosac -INFO - User added Village 
+2021-02-04 18:52:48,220 - cosac -INFO - User added zipcode 
+2021-02-04 18:52:48,308 - cosac -INFO - User Saved Address
+2021-02-04 18:59:05,465 - cosac -INFO - User clicked on Administartion
+2021-02-04 18:59:11,092 - cosac -INFO - User clicked on Addressmaster
+2021-02-04 18:59:13,323 - cosac -INFO - User clicked on Add 
+2021-02-04 18:59:13,491 - cosac -INFO - User added region 
+2021-02-04 18:59:13,664 - cosac -INFO - User added Village 
+2021-02-04 18:59:13,824 - cosac -INFO - User added zipcode 
+2021-02-04 18:59:13,926 - cosac -INFO - User Saved Address
+2021-02-04 19:02:13,124 - cosac -INFO - User clicked on Administartion
+2021-02-04 19:02:19,625 - cosac -INFO - User clicked on Addressmaster
+2021-02-04 19:02:21,861 - cosac -INFO - User clicked on Add 
+2021-02-04 19:02:22,061 - cosac -INFO - User added region 
+2021-02-04 19:02:22,252 - cosac -INFO - User added Village 
+2021-02-04 19:02:22,412 - cosac -INFO - User added zipcode 
+2021-02-04 19:02:22,515 - cosac -INFO - User Saved Address
+2021-02-09 06:26:40,198 - cosac -INFO - User clicked on Administartion
+2021-02-09 06:26:41,938 - cosac -INFO - User clicked on Addressmaster
+2021-02-09 06:26:44,264 - cosac -INFO - User clicked on Add 
+2021-02-09 06:26:44,451 - cosac -INFO - User added region 
+2021-02-09 06:26:44,666 - cosac -INFO - User added Village 
+2021-02-09 06:26:44,857 - cosac -INFO - User added zipcode 
+2021-02-09 06:26:44,967 - cosac -INFO - User Saved Address
+2021-02-10 07:58:15,913 - cosac -INFO - User clicked on Administartion
+2021-02-10 07:58:17,874 - cosac -INFO - User clicked on Addressmaster
+2021-02-10 07:58:21,689 - cosac -INFO - Test Failed
+2021-03-16 18:08:39,458 - cosac -INFO - User able to click on Merchandising
+2021-03-16 18:08:40,164 - cosac -INFO - User able to click on Create
+2021-03-16 18:08:43,899 - cosac -INFO - User able to click on Purchase Order
+2021-03-16 19:21:55,939 - cosac -INFO - User able to click on Merchandising
+2021-03-16 19:21:56,732 - cosac -INFO - User able to click on Create
+2021-03-16 19:22:05,684 - cosac -INFO - User able to click on Purchase Order
+2021-03-16 19:22:09,109 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 19:22:12,774 - cosac -INFO - User able to select Receiving Location
+2021-03-16 19:22:16,231 - cosac -INFO - User able to select Vendor
+2021-03-16 19:22:16,388 - cosac -INFO - User able to select Requested Delivery Date
+2021-03-16 19:22:18,503 - cosac -INFO - User able to click on Add
+2021-03-16 19:22:28,068 - cosac -INFO - User able to select Product
+2021-03-16 19:22:28,197 - cosac -INFO - User able to select Requested Delivery Date
+2021-03-16 19:22:28,377 - cosac -INFO - User able to enter Quantity
+2021-03-16 19:22:30,475 - cosac -INFO - Requires Lable Checked
+2021-03-16 19:22:30,632 - cosac -INFO - User able to comment
+2021-03-16 19:22:32,723 - cosac -INFO - User able to Save Product
+2021-03-16 19:22:35,828 - cosac -INFO - User able to Create Purchase Order
+2021-03-16 19:22:40,690 - cosac -INFO - User clicked on Edit Lables
+2021-03-16 19:22:46,932 - cosac -INFO - Test Failed
+2021-03-16 19:25:46,777 - cosac -INFO - User able to click on Merchandising
+2021-03-16 19:25:47,030 - cosac -INFO - User able to click on Create
+2021-03-16 19:25:58,044 - cosac -INFO - User able to click on Purchase Order
+2021-03-16 19:26:01,388 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 19:26:05,059 - cosac -INFO - User able to select Receiving Location
+2021-03-16 19:26:08,469 - cosac -INFO - User able to select Vendor
+2021-03-16 19:26:08,633 - cosac -INFO - User able to select Requested Delivery Date
+2021-03-16 19:26:10,750 - cosac -INFO - User able to click on Add
+2021-03-16 19:26:19,379 - cosac -INFO - User able to select Product
+2021-03-16 19:26:19,489 - cosac -INFO - User able to select Requested Delivery Date
+2021-03-16 19:26:19,609 - cosac -INFO - User able to enter Quantity
+2021-03-16 19:26:21,714 - cosac -INFO - Requires Lable Checked
+2021-03-16 19:26:21,866 - cosac -INFO - User able to comment
+2021-03-16 19:26:23,976 - cosac -INFO - User able to Save Product
+2021-03-16 19:26:27,079 - cosac -INFO - User able to Create Purchase Order
+2021-03-16 19:26:29,263 - cosac -INFO - User clicked on Edit Lables
+2021-03-16 19:26:35,256 - cosac -INFO - Test Failed
+2021-03-16 19:30:11,289 - cosac -INFO - User able to click on Merchandising
+2021-03-16 19:30:11,547 - cosac -INFO - User able to click on Create
+2021-03-16 19:30:23,374 - cosac -INFO - User able to click on Purchase Order
+2021-03-16 19:30:27,184 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 19:30:30,757 - cosac -INFO - User able to select Receiving Location
+2021-03-16 19:30:34,210 - cosac -INFO - User able to select Vendor
+2021-03-16 19:30:34,398 - cosac -INFO - User able to select Requested Delivery Date
+2021-03-16 19:30:36,497 - cosac -INFO - User able to click on Add
+2021-03-16 19:30:45,052 - cosac -INFO - User able to select Product
+2021-03-16 19:30:45,198 - cosac -INFO - User able to select Requested Delivery Date
+2021-03-16 19:30:45,372 - cosac -INFO - User able to enter Quantity
+2021-03-16 19:30:47,458 - cosac -INFO - Requires Lable Checked
+2021-03-16 19:30:47,631 - cosac -INFO - User able to comment
+2021-03-16 19:30:49,725 - cosac -INFO - User able to Save Product
+2021-03-16 19:30:52,815 - cosac -INFO - User able to Create Purchase Order
+2021-03-16 19:30:55,256 - cosac -INFO - User clicked on Edit Lables
+2021-03-16 19:31:01,282 - cosac -INFO - Test Failed
+2021-03-16 19:31:38,896 - cosac -INFO - User able to click on Merchandising
+2021-03-16 19:31:39,152 - cosac -INFO - User able to click on Create
+2021-03-16 19:31:42,737 - cosac -INFO - User able to click on Purchase Order
+2021-03-16 19:31:46,222 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 19:32:19,533 - cosac -INFO - Test Failed
+2021-03-16 20:25:02,108 - cosac -INFO - User able to click on Merchandising
+2021-03-16 20:25:02,507 - cosac -INFO - User able to click on Create
+2021-03-16 20:25:16,379 - cosac -INFO - User able to click on Purchase Order
+2021-03-16 20:25:19,480 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 20:25:23,226 - cosac -INFO - User able to select Receiving Location
+2021-03-16 20:25:26,627 - cosac -INFO - User able to select Vendor
+2021-03-16 20:25:26,776 - cosac -INFO - User able to select Requested Delivery Date
+2021-03-16 20:25:28,885 - cosac -INFO - User able to click on Add
+2021-03-16 20:25:38,151 - cosac -INFO - User able to select Product
+2021-03-16 20:25:38,263 - cosac -INFO - User able to select Requested Delivery Date
+2021-03-16 20:25:38,415 - cosac -INFO - User able to enter Quantity
+2021-03-16 20:25:40,513 - cosac -INFO - Requires Lable Checked
+2021-03-16 20:25:40,664 - cosac -INFO - User able to comment
+2021-03-16 20:25:42,748 - cosac -INFO - User able to Save Product
+2021-03-16 20:25:45,851 - cosac -INFO - User able to Create Purchase Order
+2021-03-16 20:25:49,007 - cosac -INFO - User clicked on Edit Lables
+2021-03-16 20:25:55,281 - cosac -INFO - Test Failed
+2021-03-16 20:30:41,632 - cosac -INFO - User able to click on Merchandising
+2021-03-16 20:30:41,878 - cosac -INFO - User able to click on Create
+2021-03-16 20:30:47,273 - cosac -INFO - User able to click on Purchase Order
+2021-03-16 20:30:50,729 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 20:31:32,543 - cosac -INFO - Test Failed
+2021-03-16 20:32:49,974 - cosac -INFO - User able to click on Merchandising
+2021-03-16 20:32:50,258 - cosac -INFO - User able to click on Create
+2021-03-16 20:32:54,226 - cosac -INFO - User able to click on Purchase Order
+2021-03-16 20:32:57,462 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 20:33:01,012 - cosac -INFO - User able to select Receiving Location
+2021-03-16 20:33:04,417 - cosac -INFO - User able to select Vendor
+2021-03-16 20:33:04,620 - cosac -INFO - User able to select Requested Delivery Date
+2021-03-16 20:33:06,720 - cosac -INFO - User able to click on Add
+2021-03-16 20:33:15,021 - cosac -INFO - User able to select Product
+2021-03-16 20:33:15,124 - cosac -INFO - User able to select Requested Delivery Date
+2021-03-16 20:33:15,253 - cosac -INFO - User able to enter Quantity
+2021-03-16 20:33:17,359 - cosac -INFO - Requires Lable Checked
+2021-03-16 20:33:17,515 - cosac -INFO - User able to comment
+2021-03-16 20:33:19,627 - cosac -INFO - User able to Save Product
+2021-03-16 20:33:22,714 - cosac -INFO - User able to Create Purchase Order
+2021-03-16 20:33:24,746 - cosac -INFO - User clicked on Edit Lables
+2021-03-16 20:33:30,734 - cosac -INFO - Test Failed
+2021-03-16 21:05:27,395 - cosac -INFO - User able to click on Merchandising
+2021-03-16 21:05:28,017 - cosac -INFO - User able to click on Create
+2021-03-16 21:05:33,485 - cosac -INFO - User able to click on Purchase Order
+2021-03-16 21:05:37,311 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 21:05:41,026 - cosac -INFO - User able to select Receiving Location
+2021-03-16 21:05:44,670 - cosac -INFO - User able to select Vendor
+2021-03-16 21:05:44,968 - cosac -INFO - User able to select Requested Delivery Date
+2021-03-16 21:05:47,057 - cosac -INFO - User able to click on Add
+2021-03-16 21:05:55,464 - cosac -INFO - User able to select Product
+2021-03-16 21:05:55,621 - cosac -INFO - User able to select Requested Delivery Date
+2021-03-16 21:05:55,807 - cosac -INFO - User able to enter Quantity
+2021-03-16 21:05:57,901 - cosac -INFO - Requires Lable Checked
+2021-03-16 21:05:58,166 - cosac -INFO - User able to comment
+2021-03-16 21:06:00,251 - cosac -INFO - User able to Save Product
+2021-03-16 21:06:03,367 - cosac -INFO - User able to Create Purchase Order
+2021-03-16 21:06:07,268 - cosac -INFO - User clicked on Edit Lables
+2021-03-16 21:06:13,380 - cosac -INFO - Test Failed
+2021-03-16 21:10:48,421 - cosac -INFO - User able to click on Merchandising
+2021-03-16 21:10:48,680 - cosac -INFO - User able to click on Create
+2021-03-16 21:11:18,782 - cosac -INFO - User able to click on Purchase Order
+2021-03-16 21:11:22,173 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 21:11:25,694 - cosac -INFO - User able to select Receiving Location
+2021-03-16 21:11:29,122 - cosac -INFO - User able to select Vendor
+2021-03-16 21:11:29,309 - cosac -INFO - User able to select Requested Delivery Date
+2021-03-16 21:11:31,395 - cosac -INFO - User able to click on Add
+2021-03-16 21:11:40,668 - cosac -INFO - User able to select Product
+2021-03-16 21:11:40,783 - cosac -INFO - User able to select Requested Delivery Date
+2021-03-16 21:11:40,920 - cosac -INFO - User able to enter Quantity
+2021-03-16 21:11:42,993 - cosac -INFO - Requires Lable Checked
+2021-03-16 21:11:43,199 - cosac -INFO - User able to comment
+2021-03-16 21:11:45,297 - cosac -INFO - User able to Save Product
+2021-03-16 21:11:48,367 - cosac -INFO - User able to Create Purchase Order
+2021-03-16 21:11:50,622 - cosac -INFO - User clicked on Edit Lables
+2021-03-16 21:14:04,166 - cosac -INFO - User able to click on Merchandising
+2021-03-16 21:14:04,421 - cosac -INFO - User able to click on Create
+2021-03-16 21:17:26,986 - cosac -INFO - User able to click on Purchase Order
+2021-03-16 21:36:41,132 - cosac -INFO - User able to click on Merchandising
+2021-03-16 21:36:41,397 - cosac -INFO - User able to click on Create
+2021-03-16 21:36:52,838 - cosac -INFO - User able to click on Purchase Order
+2021-03-16 21:36:57,090 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 21:37:00,668 - cosac -INFO - User able to select Receiving Location
+2021-03-16 21:37:04,085 - cosac -INFO - User able to select Vendor
+2021-03-16 21:37:04,249 - cosac -INFO - User able to select Requested Delivery Date
+2021-03-16 21:37:06,425 - cosac -INFO - User able to click on Add
+2021-03-16 21:37:15,089 - cosac -INFO - User able to select Product
+2021-03-16 21:37:15,200 - cosac -INFO - User able to select Requested Delivery Date
+2021-03-16 21:37:15,330 - cosac -INFO - User able to enter Quantity
+2021-03-16 21:37:17,467 - cosac -INFO - Requires Lable Checked
+2021-03-16 21:37:17,629 - cosac -INFO - User able to comment
+2021-03-16 21:37:19,743 - cosac -INFO - User able to Save Product
+2021-03-16 21:37:22,871 - cosac -INFO - User able to Create Purchase Order
+2021-03-16 21:37:24,994 - cosac -INFO - User clicked on Edit Lables
+2021-03-16 21:39:36,015 - cosac -INFO - User able to click on Merchandising
+2021-03-16 21:39:36,300 - cosac -INFO - User able to click on Create
+2021-03-16 21:41:07,672 - cosac -INFO - User able to click on Purchase Order
+2021-03-16 21:41:13,137 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 21:41:37,514 - cosac -INFO - User entered data
+2021-03-16 21:41:37,559 - cosac -INFO - User able to click on Print Lables
+2021-03-16 21:41:40,713 - cosac -INFO - User able to click on Merchandising
+2021-03-16 21:41:40,972 - cosac -INFO - User able to click on Search
+2021-03-16 21:41:41,084 - cosac -INFO - User able to click on StockCount
+2021-03-16 21:41:47,444 - cosac -INFO - User able to select location
+2021-03-16 21:41:47,608 - cosac -INFO - User able to select date
+2021-03-16 21:41:50,871 - cosac -INFO - User able to select division
+2021-03-16 21:41:54,222 - cosac -INFO - User able to select department
+2021-03-16 21:41:57,860 - cosac -INFO - User able to select class
+2021-03-16 21:41:57,930 - cosac -INFO - User able to schedule
+2021-03-16 21:41:57,986 - cosac -INFO - User able to click on Merchandising
+2021-03-16 21:41:58,224 - cosac -INFO - User clicked on Search
+2021-03-16 21:41:58,331 - cosac -INFO - User able to click on Stock Counts
+2021-03-16 21:42:03,336 - cosac -INFO - User able to select location
+2021-03-16 21:42:03,483 - cosac -INFO - User able to from date
+2021-03-16 21:42:03,621 - cosac -INFO - User able select to date
+2021-03-16 21:42:03,677 - cosac -INFO - User able search
+2021-03-16 21:42:05,797 - cosac -INFO - User able click on stock count id
+2021-03-16 21:42:12,011 - cosac -INFO - User able click on start
+2021-03-16 21:42:12,759 - cosac -INFO - User able click on CollectionNotes
+2021-03-16 21:42:12,824 - cosac -INFO - User able click on DeliveryNotes
+2021-03-16 21:42:12,879 - cosac -INFO - User able click on GoodsReciept
+2021-03-16 21:42:12,935 - cosac -INFO - User able click on ReturnToVendor
+2021-03-16 21:42:12,992 - cosac -INFO - User able click on StartCount
+2021-03-16 21:42:15,120 - cosac -INFO - User able click on PrintStockcountsheet
+2021-03-16 21:47:20,970 - cosac -INFO - User able to click on Merchandising
+2021-03-16 21:47:21,256 - cosac -INFO - User able to click on Create
+2021-03-16 21:47:40,875 - cosac -INFO - User able to click on Purchase Order
+2021-03-16 21:47:45,198 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 21:48:17,340 - cosac -INFO - Test Failed
+2021-03-16 21:50:22,319 - cosac -INFO - User able to click on Merchandising
+2021-03-16 21:50:22,597 - cosac -INFO - User able to click on Create
+2021-03-16 21:50:26,786 - cosac -INFO - User able to click on Purchase Order
+2021-03-16 21:50:30,663 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 21:59:41,233 - cosac -INFO - User able to click on Merchandising
+2021-03-16 21:59:41,520 - cosac -INFO - User able to click on Create
+2021-03-16 21:59:55,480 - cosac -INFO - User able to click on Purchase Order
+2021-03-16 21:59:58,668 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 22:03:10,507 - cosac -INFO - User able to click on Merchandising
+2021-03-16 22:03:10,784 - cosac -INFO - User able to click on Create
+2021-03-16 22:03:15,828 - cosac -INFO - User able to click on Purchase Order
+2021-03-16 22:03:18,972 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 22:03:20,851 - cosac -INFO - Test Failed
+2021-03-16 22:04:08,453 - cosac -INFO - User able to click on Merchandising
+2021-03-16 22:04:08,708 - cosac -INFO - User able to click on Create
+2021-03-16 22:04:13,043 - cosac -INFO - User able to click on Purchase Order
+2021-03-16 22:04:16,685 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 22:16:48,335 - cosac -INFO - User able to click on Merchandising
+2021-03-16 22:16:48,605 - cosac -INFO - User able to click on Create
+2021-03-16 22:17:01,788 - cosac -INFO - User able to click on Purchase Order
+2021-03-16 22:17:05,455 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 22:17:32,617 - cosac -INFO - Purchase Order Created Successfully
+2021-03-16 22:17:38,652 - cosac -INFO - Purchase Order Receipt is Verified Successfully
+2021-03-16 22:17:41,837 - cosac -INFO - User able to click on Merchandising
+2021-03-16 22:17:42,079 - cosac -INFO - User able to click on Search
+2021-03-16 22:17:42,232 - cosac -INFO - User able to click on Purchase Orders
+2021-03-16 22:17:44,503 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 22:17:46,865 - cosac -INFO - Purchase Order Status is Verified Successfully
+2021-03-16 22:26:17,172 - cosac -INFO - User is clicked on Merchandising
+2021-03-16 22:26:37,698 - cosac -INFO - User is clicked on Picking
+2021-03-16 22:26:37,907 - cosac -INFO - Page Title is Verified SuccessFully
+2021-03-16 22:26:44,918 - cosac -INFO - User is selcted Sending Location
+2021-03-16 22:26:50,226 - cosac -INFO - User is selcted Type
+2021-03-16 22:26:50,291 - cosac -INFO - Shipment is Searched Successfully
+2021-03-16 22:26:59,060 - cosac -INFO - Test Failed
+2021-03-16 22:39:59,526 - cosac -INFO - User is clicked on Merchandising
+2021-03-16 22:40:05,414 - cosac -INFO - User is clicked on Picking
+2021-03-16 22:40:05,613 - cosac -INFO - Page Title is Verified SuccessFully
+2021-03-16 22:40:12,995 - cosac -INFO - User is selcted Sending Location
+2021-03-16 22:40:18,301 - cosac -INFO - User is selcted Type
+2021-03-16 22:40:18,364 - cosac -INFO - Shipment is Searched Successfully
+2021-03-16 22:40:28,783 - cosac -INFO - Driver selected successfully
+2021-03-16 22:40:33,977 - cosac -INFO - Shipment is added to Truck Successfully
+2021-03-16 22:40:36,017 - cosac -INFO -   Shipment  4515016 added successfully to the truck TBT 9888 
+2021-03-16 22:40:36,129 - cosac -INFO - User is clicked on Print Truck
+2021-03-16 22:40:38,301 - cosac -INFO - User is clicked on ExternalLink
+2021-03-16 22:40:39,848 - cosac -INFO - PickList Number is Generated Successfully
+2021-03-16 22:40:45,019 - cosac -INFO - Shipment Picking Successfully
+2021-03-16 22:40:45,378 - cosac -INFO - User clicked on Logistics
+2021-03-16 22:40:45,452 - cosac -INFO - User clicked on SearchPicklist
+2021-03-16 22:40:47,037 - cosac -INFO - User is able to search picklist
+2021-03-16 22:40:51,255 - cosac -INFO - User is able to select PickList
+2021-03-16 22:40:51,411 - cosac -INFO - User is able to select Picked Date
+2021-03-16 22:40:55,201 - cosac -INFO - Shipment is Picked Successfully
+2021-03-16 22:41:03,694 - cosac -INFO - Shipment is Checked Successfully
+2021-03-16 22:41:06,976 - cosac -INFO - User is commented
+2021-03-16 22:41:10,104 - cosac -INFO - Saved Successfully
+2021-03-16 22:41:13,302 - cosac -INFO - All Item(s) Picked Successfully
+2021-03-16 22:41:15,435 - cosac -INFO - User Clicked On Merchandising
+2021-03-16 22:41:15,516 - cosac -INFO - User Clicked On Scheduling
+2021-03-16 22:41:21,745 - cosac -INFO - User able to select DeliveryBranch
+2021-03-16 22:41:27,435 - cosac -INFO - User able to select Truck
+2021-03-16 22:41:29,273 - cosac -INFO - Test Failed
+2021-03-16 22:46:48,617 - cosac -INFO - User is clicked on Merchandising
+2021-03-16 22:47:01,682 - cosac -INFO - User is clicked on Picking
+2021-03-16 22:47:01,885 - cosac -INFO - Page Title is Verified SuccessFully
+2021-03-16 22:47:08,106 - cosac -INFO - User is selcted Sending Location
+2021-03-16 22:47:13,434 - cosac -INFO - User is selcted Type
+2021-03-16 22:47:13,499 - cosac -INFO - Shipment is Searched Successfully
+2021-03-16 22:47:24,321 - cosac -INFO - Driver selected successfully
+2021-03-16 22:47:29,594 - cosac -INFO - Shipment is added to Truck Successfully
+2021-03-16 22:47:34,625 - cosac -INFO -   Shipment  4559399 and related booking added successfully to the truck SPR 
+2021-03-16 22:47:34,698 - cosac -INFO - User is clicked on Print Truck
+2021-03-16 22:47:36,871 - cosac -INFO - User is clicked on ExternalLink
+2021-03-16 22:47:38,493 - cosac -INFO - PickList Number is Generated Successfully
+2021-03-16 22:47:43,676 - cosac -INFO - Shipment Picking Successfully
+2021-03-16 22:47:44,027 - cosac -INFO - User clicked on Logistics
+2021-03-16 22:47:44,106 - cosac -INFO - User clicked on SearchPicklist
+2021-03-16 22:47:45,500 - cosac -INFO - User is able to search picklist
+2021-03-16 22:47:50,050 - cosac -INFO - User is able to select PickList
+2021-03-16 22:47:50,221 - cosac -INFO - User is able to select Picked Date
+2021-03-16 22:47:54,022 - cosac -INFO - Shipment is Picked Successfully
+2021-03-16 22:48:02,491 - cosac -INFO - Shipment is Checked Successfully
+2021-03-16 22:48:05,721 - cosac -INFO - User is commented
+2021-03-16 22:48:10,695 - cosac -INFO - Test Failed
+2021-03-16 22:50:14,258 - cosac -INFO - User is clicked on Merchandising
+2021-03-16 22:50:19,192 - cosac -INFO - User is clicked on Picking
+2021-03-16 22:50:19,443 - cosac -INFO - Page Title is Verified SuccessFully
+2021-03-16 22:50:26,197 - cosac -INFO - User is selcted Sending Location
+2021-03-16 22:50:31,497 - cosac -INFO - User is selcted Type
+2021-03-16 22:50:31,560 - cosac -INFO - Shipment is Searched Successfully
+2021-03-16 22:50:42,354 - cosac -INFO - Driver selected successfully
+2021-03-16 22:50:47,515 - cosac -INFO - Shipment is added to Truck Successfully
+2021-03-16 22:50:49,585 - cosac -INFO -   Shipment  4572671 added successfully to the truck SPR 
+2021-03-16 22:50:49,697 - cosac -INFO - User is clicked on Print Truck
+2021-03-16 22:50:51,828 - cosac -INFO - User is clicked on ExternalLink
+2021-03-16 22:50:53,503 - cosac -INFO - PickList Number is Generated Successfully
+2021-03-16 22:50:58,699 - cosac -INFO - Shipment Picking Successfully
+2021-03-16 22:50:59,064 - cosac -INFO - User clicked on Logistics
+2021-03-16 22:50:59,143 - cosac -INFO - User clicked on SearchPicklist
+2021-03-16 22:51:02,917 - cosac -INFO - User is able to search picklist
+2021-03-16 22:51:07,175 - cosac -INFO - User is able to select PickList
+2021-03-16 22:51:07,273 - cosac -INFO - User is able to select Picked Date
+2021-03-16 22:51:11,110 - cosac -INFO - Shipment is Picked Successfully
+2021-03-16 22:51:19,674 - cosac -INFO - Shipment is Checked Successfully
+2021-03-16 22:51:22,964 - cosac -INFO - User is commented
+2021-03-16 22:51:26,031 - cosac -INFO - Saved Successfully
+2021-03-16 22:51:29,060 - cosac -INFO - All Item(s) Picked Successfully
+2021-03-16 22:51:31,229 - cosac -INFO - User Clicked On Merchandising
+2021-03-16 22:51:31,296 - cosac -INFO - User Clicked On Scheduling
+2021-03-16 22:51:37,773 - cosac -INFO - User able to select DeliveryBranch
+2021-03-16 22:51:43,189 - cosac -INFO - User able to select Truck
+2021-03-16 22:51:43,437 - cosac -INFO - User selected  Type
+2021-03-16 22:51:43,907 - cosac -INFO - User able to click on CreateDeliverySchedule
+2021-03-16 22:51:43,965 - cosac -INFO - User able to Save
+2021-03-16 22:51:46,173 - cosac -INFO - User is clicked on ExternalLink
+2021-03-16 22:51:49,370 - cosac -INFO - Load and Delivery Schedule is Completed Successfully
+2021-03-16 22:51:49,742 - cosac -INFO - User able to click on Logistics
+2021-03-16 22:51:49,816 - cosac -INFO - User able to click on SearchDeliverySchedule
+2021-03-16 22:51:49,822 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 22:51:50,758 - cosac -INFO - User able to Search Shipment
+2021-03-16 22:51:54,126 - cosac -INFO - User Clicked On ScheduleNumber
+2021-03-16 22:51:54,289 - cosac -INFO - User Confirmed Date Successfully
+2021-03-16 22:51:54,675 - cosac -INFO - Delivery Confirmed Successfully
+2021-03-16 22:51:54,738 - cosac -INFO - User able to Click on Logistics
+2021-03-16 22:51:54,809 - cosac -INFO - User able to click on Search Shipments
+2021-03-16 22:51:57,112 - cosac -INFO - Page Title is Verified Successfully
+2021-03-16 22:51:57,253 - cosac -INFO - User able to Search Shipment
+2021-03-16 22:51:59,339 - cosac -INFO - Shipment is Delivered
+2021-03-17 15:48:54,114 - cosac -INFO - User Clicked on Service
+2021-03-17 15:49:09,822 - cosac -INFO - User clicked on TechnicianDairy
+2021-03-17 15:49:09,955 - cosac -INFO - Page Title is Verified Successfully
+2021-03-17 15:49:15,477 - cosac -INFO - User selected Technician Name
+2021-03-17 15:49:17,439 - cosac -INFO - Test Failed
+2021-03-17 15:50:46,824 - cosac -INFO - User Clicked on Service
+2021-03-17 15:51:02,072 - cosac -INFO - User clicked on TechnicianDairy
+2021-03-17 15:51:02,211 - cosac -INFO - Page Title is Verified Successfully
+2021-03-17 15:51:10,630 - cosac -INFO - User selected Technician Name
+2021-03-17 15:51:12,889 - cosac -INFO - User Selected Date of Start Week to View
+2021-03-17 15:51:13,138 - cosac -INFO - User entered visible weeks
+2021-03-17 15:51:15,455 - cosac -INFO - User Selected Technician Unavailable From Date
+2021-03-17 15:51:19,671 - cosac -INFO - User Selected Technician Unavailable To Date
+2021-03-17 15:51:21,312 - cosac -INFO - Technician Unavailablity Dates Submited Successfully
+2021-03-17 15:54:03,222 - cosac -INFO - User Clicked on Service
+2021-03-17 15:54:22,538 - cosac -INFO - User clicked on TechnicianDairy
+2021-03-17 15:54:22,672 - cosac -INFO - Page Title is Verified Successfully
+2021-03-17 15:54:31,094 - cosac -INFO - User selected Technician Name
+2021-03-17 15:54:33,290 - cosac -INFO - User Selected Date of Start Week to View
+2021-03-17 15:54:33,562 - cosac -INFO - User entered visible weeks
+2021-03-17 15:54:38,803 - cosac -INFO - User Selected Technician Unavailable From Date
+2021-03-17 15:54:43,044 - cosac -INFO - User Selected Technician Unavailable To Date
+2021-03-17 15:54:44,204 - cosac -INFO - Technician Unavailablity Dates Submited Successfully
+2021-03-17 15:56:15,896 - cosac -INFO - User Clicked on Service
+2021-03-17 15:56:39,495 - cosac -INFO - User clicked on TechnicianDairy
+2021-03-17 15:56:39,633 - cosac -INFO - Page Title is Verified Successfully
+2021-03-17 15:56:44,845 - cosac -INFO - User selected Technician Name
+2021-03-17 15:56:46,635 - cosac -INFO - Test Failed
+2021-03-17 15:59:01,678 - cosac -INFO - User Clicked on Service
+2021-03-17 15:59:30,171 - cosac -INFO - User clicked on TechnicianDairy
+2021-03-17 15:59:30,311 - cosac -INFO - Page Title is Verified Successfully
+2021-03-17 15:59:38,716 - cosac -INFO - User selected Technician Name
+2021-03-17 15:59:40,923 - cosac -INFO - User Selected Date of Start Week to View
+2021-03-17 15:59:41,144 - cosac -INFO - User entered visible weeks
+2021-03-17 15:59:58,387 - cosac -INFO - User Selected Technician Unavailable From Date
+2021-03-17 16:00:02,612 - cosac -INFO - User Selected Technician Unavailable To Date
+2021-03-17 16:00:03,776 - cosac -INFO - Technician Unavailablity Dates Submited Successfully
+2021-03-17 16:00:05,854 - cosac -INFO - Technician Not Available From 03/17/2020 To 03/17/2020
+2021-03-17 16:04:17,883 - cosac -INFO - User Clicked on Service
+2021-03-17 16:04:38,455 - cosac -INFO - User clicked on TechnicianDairy
+2021-03-17 16:04:38,587 - cosac -INFO - Page Title is Verified Successfully
+2021-03-17 16:04:46,989 - cosac -INFO - User selected Technician Name
+2021-03-17 16:04:49,245 - cosac -INFO - User Selected Date of Start Week to View
+2021-03-17 16:04:49,476 - cosac -INFO - User entered visible weeks
+2021-03-17 16:05:06,707 - cosac -INFO - User Selected Technician Unavailable From Date
+2021-03-17 16:05:10,940 - cosac -INFO - User Selected Technician Unavailable To Date
+2021-03-17 16:05:12,111 - cosac -INFO - Technician Unavailablity Dates Submited Successfully
+2021-03-17 16:05:14,146 - cosac -INFO - Technician Not Available From 03/18/2020 To 03/18/2020
+2021-03-17 16:05:15,227 - cosac -INFO - User clicked on holiday approve date
+2021-03-17 16:05:15,437 - cosac -INFO - User deleted approved date
+2021-03-17 16:21:25,428 - cosac -INFO - User Clicked on Service
+2021-03-17 16:22:16,451 - cosac -INFO - User clicked on TechnicianDairy
+2021-03-17 16:22:16,987 - cosac -INFO - Page Title is Verified Successfully
+2021-03-17 16:22:22,206 - cosac -INFO - User selected Technician Name
+2021-03-17 16:22:24,033 - cosac -INFO - Test Failed
+2021-03-17 16:23:33,429 - cosac -INFO - User Clicked on Service
+2021-03-17 16:24:26,841 - cosac -INFO - User clicked on TechnicianDairy
+2021-03-17 16:24:27,110 - cosac -INFO - Page Title is Verified Successfully
+2021-03-17 16:24:32,327 - cosac -INFO - User selected Technician Name
+2021-03-17 16:24:34,097 - cosac -INFO - Test Failed
+2021-03-17 16:25:47,922 - cosac -INFO - User Clicked on Service
+2021-03-17 16:26:43,669 - cosac -INFO - User clicked on TechnicianDairy
+2021-03-17 16:26:43,933 - cosac -INFO - Page Title is Verified Successfully
+2021-03-17 16:26:49,154 - cosac -INFO - User selected Technician Name
+2021-03-17 16:26:50,977 - cosac -INFO - Test Failed
+2021-03-17 16:44:05,194 - cosac -INFO - User Clicked on Service
+2021-03-17 16:44:33,654 - cosac -INFO - User clicked on TechnicianDairy
+2021-03-17 16:44:34,242 - cosac -INFO - Page Title is Verified Successfully
+2021-03-17 16:44:39,546 - cosac -INFO - User selected Technician Name
+2021-03-17 16:44:41,634 - cosac -INFO - Test Failed
+2021-03-17 19:05:37,838 - cosac -INFO - User Clicked on Service
+2021-03-17 19:05:50,527 - cosac -INFO - User clicked on TechnicianDairy
+2021-03-17 19:05:50,809 - cosac -INFO - Page Title is Verified Successfully
+2021-03-17 19:05:59,286 - cosac -INFO - User selected Technician Name
+2021-03-17 19:06:01,629 - cosac -INFO - User Selected Date of Start Week to View
+2021-03-17 19:06:01,945 - cosac -INFO - User entered visible weeks
+2021-03-17 19:06:09,202 - cosac -INFO - User Selected Technician Unavailable From Date
+2021-03-17 19:06:13,472 - cosac -INFO - User Selected Technician Unavailable To Date
+2021-03-17 19:06:14,882 - cosac -INFO - Technician Unavailablity Dates Submited Successfully
+2021-03-17 19:06:16,936 - cosac -INFO - Technician Not Available From 19/03/2021 To 19/03/2021
+2021-03-17 19:06:22,042 - cosac -INFO - User clicked on holiday approve date
+2021-03-17 19:06:22,248 - cosac -INFO - User deleted approved date
+2021-03-17 19:23:24,248 - cosac -INFO - User Clicked On Services
+2021-03-17 19:24:16,691 - cosac -INFO - User Clicked On Suppliers
+2021-03-17 19:24:16,998 - cosac -INFO - Page Title is Verified Successfully
+2021-03-17 19:24:26,990 - cosac -INFO - Test Failed
+2021-03-17 19:47:19,787 - cosac -INFO - User Clicked On Services
+2021-03-17 19:48:10,001 - cosac -INFO - User Clicked On Suppliers
+2021-03-17 19:48:10,227 - cosac -INFO - Page Title is Verified Successfully
+2021-03-17 19:48:18,447 - cosac -INFO - User Clicked On Add Icon
+2021-03-17 19:48:21,747 - cosac -INFO - Supplier Saved Successfully
+2021-03-17 19:48:21,811 - cosac -INFO - ServiceSuppliers added successfully
+2021-03-17 19:48:22,104 - cosac -INFO - Supplier Searched Successfully
+2021-03-17 19:48:24,198 - cosac -INFO - User Clicked on Edit Icon
+2021-03-17 19:48:27,439 - cosac -INFO - Supplier Edited Successfully
+2021-03-17 19:48:27,464 - cosac -INFO - ServiceSuppliers saved successfully
+2021-03-17 19:48:30,566 - cosac -INFO - User Clicked On Delete Icon
+2021-03-17 19:48:36,141 - cosac -INFO - ServiceSuppliers deleted successfully
+2021-03-17 20:09:33,094 - cosac -INFO - User Clicked On Services
+2021-03-17 20:09:39,417 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-17 20:09:44,432 - cosac -INFO - Page Title is Verified Successfully
+2021-03-17 20:09:47,806 - cosac -INFO - Supplier Selected Successfully
+2021-03-17 20:09:50,333 - cosac -INFO - Rows Added Successfully
+2021-03-17 20:09:50,561 - cosac -INFO - Product Added Successfully
+2021-03-17 20:09:50,881 - cosac -INFO - Part Type Added Successfully
+2021-03-17 20:09:51,022 - cosac -INFO - Part Percentage Added Successfully
+2021-03-17 20:09:51,166 - cosac -INFO - Part Value Added Successfully
+2021-03-17 20:09:51,309 - cosac -INFO - Labour Percentage Added Successfully
+2021-03-17 20:09:51,450 - cosac -INFO - Labour Value Added Successfully
+2021-03-17 20:09:51,585 - cosac -INFO - Addtional Percentage Added Successfully
+2021-03-17 20:09:51,729 - cosac -INFO - Addtional Value Added Successfully
+2021-03-17 20:09:51,801 - cosac -INFO - Saved Successfully
+2021-03-17 20:09:52,341 - cosac -INFO - Changes Saved Supplier Contractual Costs saved successfully
+2021-03-17 20:41:29,756 - cosac -INFO - User Clicked On Services
+2021-03-17 20:41:40,575 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-17 20:41:46,032 - cosac -INFO - Page Title is Verified Successfully
+2021-03-17 20:41:49,372 - cosac -INFO - Supplier Selected Successfully
+2021-03-17 20:41:51,886 - cosac -INFO - Rows Added Successfully
+2021-03-17 20:41:52,086 - cosac -INFO - Product Added Successfully
+2021-03-17 20:41:52,311 - cosac -INFO - Part Type Added Successfully
+2021-03-17 20:41:52,473 - cosac -INFO - Part Percentage Added Successfully
+2021-03-17 20:41:52,633 - cosac -INFO - Part Value Added Successfully
+2021-03-17 20:41:52,777 - cosac -INFO - Labour Percentage Added Successfully
+2021-03-17 20:41:52,925 - cosac -INFO - Labour Value Added Successfully
+2021-03-17 20:41:53,056 - cosac -INFO - Addtional Percentage Added Successfully
+2021-03-17 20:41:53,208 - cosac -INFO - Addtional Value Added Successfully
+2021-03-17 20:41:53,280 - cosac -INFO - Saved Successfully
+2021-03-17 20:41:53,812 - cosac -INFO - Changes Saved Supplier Contractual Costs saved successfully
+2021-03-18 22:54:12,991 - cosac -INFO - User able to click on Merchandising
+2021-03-18 22:54:13,256 - cosac -INFO - User able to click on Create
+2021-03-18 22:54:25,091 - cosac -INFO - User able to click on Purchase Order
+2021-03-18 22:54:34,017 - cosac -INFO - Page Title is Verified Successfully
+2021-03-18 22:54:35,858 - cosac -INFO - Test Failed
+2021-03-18 22:55:59,904 - cosac -INFO - User able to click on Merchandising
+2021-03-18 22:56:00,157 - cosac -INFO - User able to click on Create
+2021-03-18 22:56:15,499 - cosac -INFO - User able to click on Purchase Order
+2021-03-18 22:56:19,354 - cosac -INFO - Page Title is Verified Successfully
+2021-03-18 22:56:23,601 - cosac -INFO - Test Failed
+2021-03-18 22:58:44,712 - cosac -INFO - User able to click on Merchandising
+2021-03-18 22:58:44,961 - cosac -INFO - User able to click on Create
+2021-03-18 22:58:57,554 - cosac -INFO - User able to click on Purchase Order
+2021-03-18 22:59:00,878 - cosac -INFO - Page Title is Verified Successfully
+2021-03-18 22:59:02,807 - cosac -INFO - Test Failed
+2021-03-18 13:48:53,447 - cosac -INFO - User able to click on Merchandising
+2021-03-18 13:48:53,730 - cosac -INFO - User able to click on Create
+2021-03-18 13:48:54,097 - cosac -INFO - User able to click on Purchase Order
+2021-03-18 13:48:56,389 - cosac -INFO - Page Title is Verified Successfully
+2021-03-18 13:49:24,574 - cosac -INFO - Test Failed
+2021-03-18 13:52:54,342 - cosac -INFO - User able to click on Merchandising
+2021-03-18 13:52:54,614 - cosac -INFO - User able to click on Create
+2021-03-18 13:52:54,917 - cosac -INFO - User able to click on Purchase Order
+2021-03-18 13:52:57,186 - cosac -INFO - Page Title is Verified Successfully
+2021-03-18 13:53:28,040 - cosac -INFO - Test Failed
+2021-03-19 01:03:19,463 - cosac -INFO - User able to click on Merchandising
+2021-03-19 01:03:19,735 - cosac -INFO - User able to click on Create
+2021-03-19 01:03:20,044 - cosac -INFO - User able to click on Purchase Order
+2021-03-19 01:03:22,311 - cosac -INFO - Page Title is Verified Successfully
+2021-03-19 01:05:55,023 - cosac -INFO - Test Failed
+2021-03-19 01:06:07,777 - cosac -INFO - User able to click on Merchandising
+2021-03-19 01:06:08,119 - cosac -INFO - User able to click on Create
+2021-03-19 01:06:08,453 - cosac -INFO - User able to click on Purchase Order
+2021-03-19 01:06:10,731 - cosac -INFO - Page Title is Verified Successfully
+2021-03-19 01:06:29,930 - cosac -INFO - Requires Lable Checked
+2021-03-19 01:09:22,184 - cosac -INFO - User able to click on Merchandising
+2021-03-19 01:09:22,456 - cosac -INFO - User able to click on Create
+2021-03-19 01:09:22,763 - cosac -INFO - User able to click on Purchase Order
+2021-03-19 01:09:25,047 - cosac -INFO - Page Title is Verified Successfully
+2021-03-19 01:09:44,227 - cosac -INFO - Requires Lable Checked
+2021-03-19 01:09:55,880 - cosac -INFO - User entered data
+2021-03-19 01:09:55,955 - cosac -INFO - User able to click on Print Lables
+2021-03-19 01:09:59,064 - cosac -INFO - User able to click on Merchandising
+2021-03-19 01:09:59,306 - cosac -INFO - User able to click on Search
+2021-03-19 01:09:59,386 - cosac -INFO - User able to click on StockCount
+2021-03-19 01:10:12,094 - cosac -INFO - User able to select location
+2021-03-19 01:31:09,565 - cosac -INFO - User able to click on Merchandising
+2021-03-19 01:31:09,846 - cosac -INFO - User able to click on Create
+2021-03-19 01:31:10,204 - cosac -INFO - User able to click on Purchase Order
+2021-03-19 01:31:12,518 - cosac -INFO - Page Title is Verified Successfully
+2021-03-19 01:31:33,367 - cosac -INFO - Requires Lable Checked
+2021-03-19 01:31:45,033 - cosac -INFO - User entered data
+2021-03-19 01:31:45,111 - cosac -INFO - User able to click on Print Lables
+2021-03-19 01:31:48,210 - cosac -INFO - User able to click on Merchandising
+2021-03-19 01:31:48,450 - cosac -INFO - User able to click on Search
+2021-03-19 01:31:48,529 - cosac -INFO - User able to click on StockCount
+2021-03-19 01:31:54,842 - cosac -INFO - User able to select location
+2021-03-19 01:31:54,999 - cosac -INFO - User able to select date
+2021-03-19 01:31:58,279 - cosac -INFO - User able to select division
+2021-03-19 01:32:01,630 - cosac -INFO - User able to select department
+2021-03-19 01:32:05,232 - cosac -INFO - User able to select class
+2021-03-19 01:32:05,308 - cosac -INFO - User able to schedule
+2021-03-19 01:32:05,367 - cosac -INFO - User able to click on Merchandising
+2021-03-19 01:32:05,612 - cosac -INFO - User clicked on Search
+2021-03-19 01:32:05,686 - cosac -INFO - User able to click on Stock Counts
+2021-03-19 01:32:09,345 - cosac -INFO - User able to select location
+2021-03-19 01:32:09,508 - cosac -INFO - User able to from date
+2021-03-19 01:32:09,676 - cosac -INFO - User able select to date
+2021-03-19 01:32:09,745 - cosac -INFO - User able search
+2021-03-19 01:32:11,826 - cosac -INFO - User able click on stock count id
+2021-03-19 01:32:22,779 - cosac -INFO - User able click on start
+2021-03-19 01:33:47,177 - cosac -INFO - User able to click on Merchandising
+2021-03-19 01:33:47,457 - cosac -INFO - User able to click on Create
+2021-03-19 01:33:47,754 - cosac -INFO - User able to click on Purchase Order
+2021-03-19 01:33:50,002 - cosac -INFO - Page Title is Verified Successfully
+2021-03-19 01:34:10,450 - cosac -INFO - Requires Lable Checked
+2021-03-19 01:34:22,114 - cosac -INFO - User entered data
+2021-03-19 01:34:22,187 - cosac -INFO - User able to click on Print Lables
+2021-03-19 01:34:25,293 - cosac -INFO - User able to click on Merchandising
+2021-03-19 01:34:25,540 - cosac -INFO - User able to click on Search
+2021-03-19 01:34:25,627 - cosac -INFO - User able to click on StockCount
+2021-03-19 01:34:31,971 - cosac -INFO - User able to select location
+2021-03-19 01:34:32,125 - cosac -INFO - User able to select date
+2021-03-19 01:34:35,415 - cosac -INFO - User able to select division
+2021-03-19 01:34:38,762 - cosac -INFO - User able to select department
+2021-03-19 01:34:42,315 - cosac -INFO - User able to select class
+2021-03-19 01:34:42,390 - cosac -INFO - User able to schedule
+2021-03-19 01:34:42,462 - cosac -INFO - User able to click on Merchandising
+2021-03-19 01:34:42,735 - cosac -INFO - User clicked on Search
+2021-03-19 01:34:42,821 - cosac -INFO - User able to click on Stock Counts
+2021-03-19 01:34:46,264 - cosac -INFO - User able to select location
+2021-03-19 01:34:46,430 - cosac -INFO - User able to from date
+2021-03-19 01:34:46,596 - cosac -INFO - User able select to date
+2021-03-19 01:34:46,668 - cosac -INFO - User able search
+2021-03-19 01:34:48,750 - cosac -INFO - User able click on stock count id
+2021-03-19 01:34:54,158 - cosac -INFO - User able click on start
+2021-03-19 01:34:54,896 - cosac -INFO - User able click on CollectionNotes
+2021-03-19 01:34:54,978 - cosac -INFO - User able click on DeliveryNotes
+2021-03-19 01:34:55,063 - cosac -INFO - User able click on GoodsReciept
+2021-03-19 01:34:55,138 - cosac -INFO - User able click on ReturnToVendor
+2021-03-19 01:34:55,208 - cosac -INFO - User able click on StartCount
+2021-03-19 01:34:56,215 - cosac -INFO - User able click on PrintStockcountsheet
+2021-03-19 01:43:30,993 - cosac -INFO - User able to click on Merchandising
+2021-03-19 01:43:31,270 - cosac -INFO - User able to click on Create
+2021-03-19 01:43:31,591 - cosac -INFO - User able to click on Purchase Order
+2021-03-19 01:43:33,869 - cosac -INFO - Page Title is Verified Successfully
+2021-03-19 01:43:54,709 - cosac -INFO - Requires Lable Checked
+2021-03-19 01:44:06,355 - cosac -INFO - User entered data
+2021-03-19 01:44:06,426 - cosac -INFO - User able to click on Print Lables
+2021-03-19 01:44:09,527 - cosac -INFO - User able to click on Merchandising
+2021-03-19 01:44:09,771 - cosac -INFO - User able to click on Search
+2021-03-19 01:44:09,857 - cosac -INFO - User able to click on StockCount
+2021-03-19 01:44:16,187 - cosac -INFO - User able to select location
+2021-03-19 01:44:16,352 - cosac -INFO - User able to select date
+2021-03-19 01:44:19,627 - cosac -INFO - User able to select division
+2021-03-19 01:44:22,985 - cosac -INFO - User able to select department
+2021-03-19 01:44:26,568 - cosac -INFO - User able to select class
+2021-03-19 01:44:26,633 - cosac -INFO - User able to schedule
+2021-03-19 01:44:26,721 - cosac -INFO - User able to click on Merchandising
+2021-03-19 01:44:26,985 - cosac -INFO - User clicked on Search
+2021-03-19 01:44:27,062 - cosac -INFO - User able to click on Stock Counts
+2021-03-19 01:44:30,516 - cosac -INFO - User able to select location
+2021-03-19 01:44:30,689 - cosac -INFO - User able to from date
+2021-03-19 01:44:30,858 - cosac -INFO - User able select to date
+2021-03-19 01:44:30,942 - cosac -INFO - User able search
+2021-03-19 01:44:33,020 - cosac -INFO - User able click on stock count id
+2021-03-19 01:44:38,331 - cosac -INFO - User able click on start
+2021-03-19 01:44:38,857 - cosac -INFO - User able click on CollectionNotes
+2021-03-19 01:44:38,929 - cosac -INFO - User able click on DeliveryNotes
+2021-03-19 01:44:38,999 - cosac -INFO - User able click on GoodsReciept
+2021-03-19 01:44:39,083 - cosac -INFO - User able click on ReturnToVendor
+2021-03-19 01:44:39,149 - cosac -INFO - User able click on StartCount
+2021-03-19 01:44:39,840 - cosac -INFO - User able click on PrintStockcountsheet
+2021-03-19 01:46:47,616 - cosac -INFO - User able to click on Merchandising
+2021-03-19 01:46:47,893 - cosac -INFO - User able to click on Create
+2021-03-19 01:46:48,202 - cosac -INFO - User able to click on Purchase Order
+2021-03-19 01:46:50,475 - cosac -INFO - Page Title is Verified Successfully
+2021-03-19 01:47:17,942 - cosac -INFO - Purchase Order Created Successfully
+2021-03-19 01:47:22,680 - cosac -INFO - Purchase Order Receipt is Verified Successfully
+2021-03-19 01:47:25,795 - cosac -INFO - User able to click on Merchandising
+2021-03-19 01:47:26,034 - cosac -INFO - User able to click on Search
+2021-03-19 01:47:26,107 - cosac -INFO - User able to click on Purchase Orders
+2021-03-19 01:47:28,144 - cosac -INFO - Page Title is Verified Successfully
+2021-03-19 01:47:30,682 - cosac -INFO - Purchase Order Status is Verified Successfully
+2021-03-19 01:52:02,573 - cosac -INFO - User is clicked on Merchandising
+2021-03-19 01:52:03,125 - cosac -INFO - User is clicked on Picking
+2021-03-19 01:52:03,594 - cosac -INFO - Page Title is Verified SuccessFully
+2021-03-19 01:52:10,163 - cosac -INFO - User is selcted Sending Location
+2021-03-19 01:52:15,460 - cosac -INFO - User is selcted Type
+2021-03-19 01:52:15,533 - cosac -INFO - Shipment is Searched Successfully
+2021-03-19 01:52:25,966 - cosac -INFO - Driver selected successfully
+2021-03-19 01:52:31,211 - cosac -INFO - Shipment is added to Truck Successfully
+2021-03-19 01:52:33,256 - cosac -INFO -   Shipment  3012324 added successfully to the truck Linval Brown 
+2021-03-19 01:52:33,336 - cosac -INFO - User is clicked on Print Truck
+2021-03-19 01:52:35,462 - cosac -INFO - User is clicked on ExternalLink
+2021-03-19 01:52:36,294 - cosac -INFO - PickList Number is Generated Successfully
+2021-03-19 01:52:41,432 - cosac -INFO - Shipment Picking Successfully
+2021-03-19 01:52:41,779 - cosac -INFO - User clicked on Logistics
+2021-03-19 01:52:41,867 - cosac -INFO - User clicked on SearchPicklist
+2021-03-19 01:52:43,798 - cosac -INFO - User is able to search picklist
+2021-03-19 01:52:47,146 - cosac -INFO - User is able to select PickList
+2021-03-19 01:52:47,323 - cosac -INFO - User is able to select Picked Date
+2021-03-19 01:52:50,785 - cosac -INFO - Shipment is Picked Successfully
+2021-03-19 01:52:59,214 - cosac -INFO - Shipment is Checked Successfully
+2021-03-19 01:53:02,411 - cosac -INFO - User is commented
+2021-03-19 01:53:05,490 - cosac -INFO - Saved Successfully
+2021-03-19 01:53:08,530 - cosac -INFO - All Item(s) Picked Successfully
+2021-03-19 01:53:10,613 - cosac -INFO - User Clicked On Merchandising
+2021-03-19 01:53:10,693 - cosac -INFO - User Clicked On Scheduling
+2021-03-19 01:53:17,549 - cosac -INFO - User able to select DeliveryBranch
+2021-03-19 01:53:23,006 - cosac -INFO - User able to select Truck
+2021-03-19 01:53:23,232 - cosac -INFO - User selected  Type
+2021-03-19 01:53:23,317 - cosac -INFO - User able to click on CreateDeliverySchedule
+2021-03-19 01:53:23,391 - cosac -INFO - User able to Save
+2021-03-19 01:53:25,510 - cosac -INFO - User is clicked on ExternalLink
+2021-03-19 01:53:28,717 - cosac -INFO - Load and Delivery Schedule is Completed Successfully
+2021-03-19 01:53:29,030 - cosac -INFO - User able to click on Logistics
+2021-03-19 01:53:29,105 - cosac -INFO - User able to click on SearchDeliverySchedule
+2021-03-19 01:53:29,114 - cosac -INFO - Page Title is Verified Successfully
+2021-03-19 01:53:31,690 - cosac -INFO - User able to Search Shipment
+2021-03-19 01:53:34,113 - cosac -INFO - User Clicked On ScheduleNumber
+2021-03-19 01:53:34,310 - cosac -INFO - User Confirmed Date Successfully
+2021-03-19 01:53:34,704 - cosac -INFO - Delivery Confirmed Successfully
+2021-03-19 01:53:34,771 - cosac -INFO - User able to Click on Logistics
+2021-03-19 01:53:34,865 - cosac -INFO - User able to click on Search Shipments
+2021-03-19 01:53:38,789 - cosac -INFO - Page Title is Verified Successfully
+2021-03-19 01:53:39,367 - cosac -INFO - User able to Search Shipment
+2021-03-19 01:53:41,403 - cosac -INFO - Shipment is Delivered
+2021-03-19 01:56:39,354 - cosac -INFO - User Clicked on Service
+2021-03-19 01:56:39,708 - cosac -INFO - User clicked on TechnicianDairy
+2021-03-19 01:56:40,326 - cosac -INFO - Page Title is Verified Successfully
+2021-03-19 01:56:48,840 - cosac -INFO - User selected Technician Name
+2021-03-19 01:56:51,187 - cosac -INFO - User Selected Date of Start Week to View
+2021-03-19 01:56:51,547 - cosac -INFO - User entered visible weeks
+2021-03-19 01:56:58,763 - cosac -INFO - User Selected Technician Unavailable From Date
+2021-03-19 01:57:02,965 - cosac -INFO - User Selected Technician Unavailable To Date
+2021-03-19 01:57:04,344 - cosac -INFO - Technician Unavailablity Dates Submited Successfully
+2021-03-19 01:57:06,384 - cosac -INFO - Technician Not Available From 2021-03-19 To 2021-03-19
+2021-03-19 01:57:11,480 - cosac -INFO - User clicked on holiday approve date
+2021-03-19 01:57:11,674 - cosac -INFO - User deleted approved date
+2021-03-19 02:21:11,833 - cosac -INFO - User Clicked on Service
+2021-03-19 02:21:12,227 - cosac -INFO - User clicked on TechnicianDairy
+2021-03-19 02:21:12,869 - cosac -INFO - Page Title is Verified Successfully
+2021-03-19 02:21:21,399 - cosac -INFO - User selected Technician Name
+2021-03-19 02:21:23,748 - cosac -INFO - User Selected Date of Start Week to View
+2021-03-19 02:21:24,124 - cosac -INFO - User entered visible weeks
+2021-03-19 02:21:31,342 - cosac -INFO - User Selected Technician Unavailable From Date
+2021-03-19 02:21:35,546 - cosac -INFO - User Selected Technician Unavailable To Date
+2021-03-19 02:21:36,939 - cosac -INFO - Technician Unavailablity Dates Submited Successfully
+2021-03-19 02:21:38,998 - cosac -INFO - Technician Not Available From 2021/19/03 To 2021/19/03
+2021-03-19 02:21:44,088 - cosac -INFO - User clicked on holiday approve date
+2021-03-19 02:21:44,282 - cosac -INFO - User deleted approved date
+2021-03-19 02:22:42,910 - cosac -INFO - User Clicked On Services
+2021-03-19 02:22:45,089 - cosac -INFO - User Clicked On Suppliers
+2021-03-19 02:22:45,600 - cosac -INFO - Page Title is Verified Successfully
+2021-03-19 02:22:53,925 - cosac -INFO - User Clicked On Add Icon
+2021-03-19 02:22:57,265 - cosac -INFO - Supplier Saved Successfully
+2021-03-19 02:22:57,320 - cosac -INFO - ServiceSuppliers added successfully
+2021-03-19 02:22:57,566 - cosac -INFO - Supplier Searched Successfully
+2021-03-19 02:22:59,638 - cosac -INFO - User Clicked on Edit Icon
+2021-03-19 02:23:02,825 - cosac -INFO - Supplier Edited Successfully
+2021-03-19 02:23:02,859 - cosac -INFO - ServiceSuppliers saved successfully
+2021-03-19 02:23:05,929 - cosac -INFO - User Clicked On Delete Icon
+2021-03-19 02:23:08,087 - cosac -INFO - ServiceSuppliers deleted successfully
+2021-03-19 02:24:57,097 - cosac -INFO - User Clicked On Services
+2021-03-19 02:24:57,410 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-19 02:25:02,802 - cosac -INFO - Page Title is Verified Successfully
+2021-03-19 02:25:03,069 - cosac -INFO - Supplier Selected Successfully
+2021-03-19 02:25:05,099 - cosac -INFO - Test Failed
+2021-03-19 02:25:45,549 - cosac -INFO - User Clicked On Services
+2021-03-19 02:25:45,865 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-19 02:25:51,292 - cosac -INFO - Page Title is Verified Successfully
+2021-03-19 02:25:54,642 - cosac -INFO - Supplier Selected Successfully
+2021-03-19 02:25:57,010 - cosac -INFO - Rows Added Successfully
+2021-03-19 02:25:57,184 - cosac -INFO - Product Added Successfully
+2021-03-19 02:25:57,360 - cosac -INFO - Part Type Added Successfully
+2021-03-19 02:25:57,517 - cosac -INFO - Part Percentage Added Successfully
+2021-03-19 02:25:57,679 - cosac -INFO - Part Value Added Successfully
+2021-03-19 02:25:57,835 - cosac -INFO - Labour Percentage Added Successfully
+2021-03-19 02:25:57,989 - cosac -INFO - Labour Value Added Successfully
+2021-03-19 02:25:58,148 - cosac -INFO - Addtional Percentage Added Successfully
+2021-03-19 02:25:58,309 - cosac -INFO - Addtional Value Added Successfully
+2021-03-19 02:25:58,393 - cosac -INFO - Saved Successfully
+2021-03-19 02:25:58,549 - cosac -INFO - Changes Saved Supplier Contractual Costs saved successfully
+2021-03-22 12:49:01,015 - cosac -INFO - User able to click on Merchandising
+2021-03-22 12:49:01,300 - cosac -INFO - User able to click on Create
+2021-03-22 12:49:01,678 - cosac -INFO - User able to click on Purchase Order
+2021-03-22 12:49:03,961 - cosac -INFO - Page Title is Verified Successfully
+2021-03-22 12:49:29,605 - cosac -INFO - Purchase Order Created Successfully
+2021-03-22 12:49:34,295 - cosac -INFO - Purchase Order Receipt is Verified Successfully
+2021-03-22 12:49:37,415 - cosac -INFO - User able to click on Merchandising
+2021-03-22 12:49:37,655 - cosac -INFO - User able to click on Search
+2021-03-22 12:49:37,733 - cosac -INFO - User able to click on Purchase Orders
+2021-03-22 12:49:39,770 - cosac -INFO - Page Title is Verified Successfully
+2021-03-22 12:49:41,965 - cosac -INFO - Purchase Order Status is Verified Successfully
+2021-03-22 12:50:03,711 - cosac -INFO - User able to click on Merchandising
+2021-03-22 12:50:03,981 - cosac -INFO - User able to click on Create
+2021-03-22 12:50:04,297 - cosac -INFO - User able to click on Purchase Order
+2021-03-22 12:50:06,578 - cosac -INFO - Page Title is Verified Successfully
+2021-03-22 12:50:25,679 - cosac -INFO - Requires Lable Checked
+2021-03-22 12:50:38,233 - cosac -INFO - Test Failed
+2021-03-22 12:53:12,320 - cosac -INFO - User able to click on Merchandising
+2021-03-22 12:53:12,770 - cosac -INFO - User able to click on Create
+2021-03-22 12:53:18,199 - cosac -INFO - User able to click on Purchase Order
+2021-03-22 12:53:23,136 - cosac -INFO - Page Title is Verified Successfully
+2021-03-22 12:55:30,941 - cosac -INFO - User entered data
+2021-03-22 12:55:33,043 - cosac -INFO - User able to click on Print Lables
+2021-03-22 12:55:40,026 - cosac -INFO - User able to click on Merchandising
+2021-03-22 12:55:40,442 - cosac -INFO - User able to click on Search
+2021-03-22 12:55:40,670 - cosac -INFO - User able to click on StockCount
+2021-03-22 12:56:01,964 - cosac -INFO - User able to select location
+2021-03-22 12:56:13,661 - cosac -INFO - User able to select date
+2021-03-22 12:56:37,088 - cosac -INFO - User able to select division
+2021-03-22 12:56:46,174 - cosac -INFO - User able to select department
+2021-03-22 13:00:10,653 - cosac -INFO - User able to click on Merchandising
+2021-03-22 13:00:11,055 - cosac -INFO - User able to click on Create
+2021-03-22 13:00:12,068 - cosac -INFO - User able to click on Purchase Order
+2021-03-22 13:00:14,250 - cosac -INFO - Page Title is Verified Successfully
+2021-03-22 13:00:49,846 - cosac -INFO - User entered data
+2021-03-22 13:00:50,138 - cosac -INFO - User able to click on Print Lables
+2021-03-22 13:00:53,451 - cosac -INFO - User able to click on Merchandising
+2021-03-22 13:00:53,833 - cosac -INFO - User able to click on Search
+2021-03-22 13:00:54,122 - cosac -INFO - User able to click on StockCount
+2021-03-22 13:01:01,724 - cosac -INFO - User able to select location
+2021-03-22 13:01:02,578 - cosac -INFO - User able to select date
+2021-03-22 13:01:07,299 - cosac -INFO - User able to select division
+2021-03-22 13:01:11,909 - cosac -INFO - User able to select department
+2021-03-22 13:01:16,647 - cosac -INFO - User able to select class
+2021-03-22 13:01:16,975 - cosac -INFO - User able to schedule
+2021-03-22 13:01:17,280 - cosac -INFO - User able to click on Merchandising
+2021-03-22 13:01:17,676 - cosac -INFO - User clicked on Search
+2021-03-22 13:01:17,980 - cosac -INFO - User able to click on Stock Counts
+2021-03-22 13:01:22,942 - cosac -INFO - User able to select location
+2021-03-22 13:01:23,813 - cosac -INFO - User able to from date
+2021-03-22 13:01:24,649 - cosac -INFO - User able select to date
+2021-03-22 13:01:24,953 - cosac -INFO - User able search
+2021-03-22 13:01:27,228 - cosac -INFO - User able click on stock count id
+2021-03-22 13:01:32,999 - cosac -INFO - User able click on start
+2021-03-22 13:01:33,475 - cosac -INFO - User able click on CollectionNotes
+2021-03-22 13:01:33,812 - cosac -INFO - User able click on DeliveryNotes
+2021-03-22 13:01:34,128 - cosac -INFO - User able click on GoodsReciept
+2021-03-22 13:01:34,425 - cosac -INFO - User able click on ReturnToVendor
+2021-03-22 13:01:34,706 - cosac -INFO - User able click on StartCount
+2021-03-22 13:01:35,491 - cosac -INFO - User able click on PrintStockcountsheet
+2021-03-22 13:14:30,667 - cosac -INFO - User Clicked on Service
+2021-03-22 13:14:31,094 - cosac -INFO - User clicked on TechnicianDairy
+2021-03-22 13:14:31,828 - cosac -INFO - Page Title is Verified Successfully
+2021-03-22 13:14:40,419 - cosac -INFO - User selected Technician Name
+2021-03-22 13:14:42,891 - cosac -INFO - User Selected Date of Start Week to View
+2021-03-22 13:14:43,361 - cosac -INFO - User entered visible weeks
+2021-03-22 13:14:50,654 - cosac -INFO - User Selected Technician Unavailable From Date
+2021-03-22 13:14:54,931 - cosac -INFO - User Selected Technician Unavailable To Date
+2021-03-22 13:14:56,405 - cosac -INFO - Technician Unavailablity Dates Submited Successfully
+2021-03-22 13:14:58,457 - cosac -INFO - Technician Not Available From 2021/22/03 To 2021/22/03
+2021-03-22 13:17:04,476 - cosac -INFO - Test Failed
+2021-03-23 05:14:33,642 - cosac -INFO - User is clicked on Merchandising
+2021-03-23 05:14:34,181 - cosac -INFO - User is clicked on Picking
+2021-03-23 05:14:34,647 - cosac -INFO - Page Title is Verified SuccessFully
+2021-03-23 05:14:40,012 - cosac -INFO - User is selcted Sending Location
+2021-03-23 05:14:45,292 - cosac -INFO - User is selcted Type
+2021-03-23 05:14:45,365 - cosac -INFO - Shipment is Searched Successfully
+2021-03-23 05:14:55,651 - cosac -INFO - Driver selected successfully
+2021-03-23 05:15:00,739 - cosac -INFO - Shipment is added to Truck Successfully
+2021-03-23 05:16:35,899 - cosac -INFO - User is clicked on Merchandising
+2021-03-23 05:16:36,317 - cosac -INFO - User is clicked on Picking
+2021-03-23 05:16:36,781 - cosac -INFO - Page Title is Verified SuccessFully
+2021-03-23 05:16:42,143 - cosac -INFO - User is selcted Sending Location
+2021-03-23 05:16:47,407 - cosac -INFO - User is selcted Type
+2021-03-23 05:16:47,473 - cosac -INFO - Shipment is Searched Successfully
+2021-03-23 05:16:57,760 - cosac -INFO - Driver selected successfully
+2021-03-23 05:20:23,886 - cosac -INFO - User is clicked on Merchandising
+2021-03-23 05:20:24,306 - cosac -INFO - User is clicked on Picking
+2021-03-23 05:20:24,737 - cosac -INFO - Page Title is Verified SuccessFully
+2021-03-23 05:20:30,101 - cosac -INFO - User is selcted Sending Location
+2021-03-23 05:20:35,373 - cosac -INFO - User is selcted Type
+2021-03-23 05:20:35,443 - cosac -INFO - Shipment is Searched Successfully
+2021-03-23 05:20:45,736 - cosac -INFO - Driver selected successfully
+2021-03-23 05:20:50,844 - cosac -INFO - Shipment is added to Truck Successfully
+2021-03-23 05:20:52,884 - cosac -INFO -   Shipment  179481 added successfully to the truck SPR 
+2021-03-23 05:20:52,953 - cosac -INFO - User is clicked on Print Truck
+2021-03-23 05:20:55,097 - cosac -INFO - User is clicked on ExternalLink
+2021-03-23 05:20:56,101 - cosac -INFO - PickList Number is Generated Successfully
+2021-03-23 05:21:01,229 - cosac -INFO - Shipment Picking Successfully
+2021-03-23 05:21:01,572 - cosac -INFO - User clicked on Logistics
+2021-03-23 05:21:01,658 - cosac -INFO - User clicked on SearchPicklist
+2021-03-23 05:21:01,983 - cosac -INFO - User is able to search picklist
+2021-03-23 05:21:05,302 - cosac -INFO - User is able to select PickList
+2021-03-23 05:21:05,497 - cosac -INFO - User is able to select Picked Date
+2021-03-23 05:21:08,876 - cosac -INFO - Shipment is Picked Successfully
+2021-03-23 05:21:17,236 - cosac -INFO - Shipment is Checked Successfully
+2021-03-23 05:21:20,442 - cosac -INFO - User is commented
+2021-03-23 05:21:23,520 - cosac -INFO - Saved Successfully
+2021-03-23 05:21:26,558 - cosac -INFO - All Item(s) Picked Successfully
+2021-03-23 05:21:28,649 - cosac -INFO - User Clicked On Merchandising
+2021-03-23 05:21:28,724 - cosac -INFO - User Clicked On Scheduling
+2021-03-23 05:21:34,254 - cosac -INFO - User able to select DeliveryBranch
+2021-03-23 05:21:39,517 - cosac -INFO - User able to select Truck
+2021-03-23 05:21:39,713 - cosac -INFO - User selected  Type
+2021-03-23 05:21:39,793 - cosac -INFO - User able to click on CreateDeliverySchedule
+2021-03-23 05:21:39,866 - cosac -INFO - User able to Save
+2021-03-23 05:21:42,014 - cosac -INFO - User is clicked on ExternalLink
+2021-03-23 05:21:45,234 - cosac -INFO - Load and Delivery Schedule is Completed Successfully
+2021-03-23 05:21:45,593 - cosac -INFO - User able to click on Logistics
+2021-03-23 05:21:45,668 - cosac -INFO - User able to click on SearchDeliverySchedule
+2021-03-23 05:21:45,679 - cosac -INFO - Page Title is Verified Successfully
+2021-03-23 05:21:45,950 - cosac -INFO - User able to Search Shipment
+2021-03-23 05:21:48,407 - cosac -INFO - User Clicked On ScheduleNumber
+2021-03-23 05:21:48,591 - cosac -INFO - User Confirmed Date Successfully
+2021-03-23 05:21:48,957 - cosac -INFO - Delivery Confirmed Successfully
+2021-03-23 05:21:49,027 - cosac -INFO - User able to Click on Logistics
+2021-03-23 05:21:49,101 - cosac -INFO - User able to click on Search Shipments
+2021-03-23 05:21:51,114 - cosac -INFO - Page Title is Verified Successfully
+2021-03-23 05:21:51,281 - cosac -INFO - User able to Search Shipment
+2021-03-23 05:21:53,316 - cosac -INFO - Shipment is Delivered
+2021-03-23 05:27:38,841 - cosac -INFO - User Clicked On Services
+2021-03-23 05:27:39,177 - cosac -INFO - User Clicked On Suppliers
+2021-03-23 05:27:39,604 - cosac -INFO - Page Title is Verified Successfully
+2021-03-23 05:27:47,909 - cosac -INFO - User Clicked On Add Icon
+2021-03-23 05:27:51,210 - cosac -INFO - Supplier Saved Successfully
+2021-03-23 05:27:51,251 - cosac -INFO - ServiceSuppliers added successfully
+2021-03-23 05:27:51,471 - cosac -INFO - Supplier Searched Successfully
+2021-03-23 05:27:53,550 - cosac -INFO - User Clicked on Edit Icon
+2021-03-23 05:27:56,735 - cosac -INFO - Supplier Edited Successfully
+2021-03-23 05:27:56,770 - cosac -INFO - ServiceSuppliers saved successfully
+2021-03-23 05:27:59,839 - cosac -INFO - User Clicked On Delete Icon
+2021-03-23 05:28:02,001 - cosac -INFO - ServiceSuppliers deleted successfully
+2021-03-23 05:28:25,901 - cosac -INFO - User Clicked On Services
+2021-03-23 05:28:26,235 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-23 05:28:31,626 - cosac -INFO - Page Title is Verified Successfully
+2021-03-23 05:28:34,946 - cosac -INFO - Supplier Selected Successfully
+2021-03-23 05:28:37,318 - cosac -INFO - Rows Added Successfully
+2021-03-23 05:28:37,480 - cosac -INFO - Product Added Successfully
+2021-03-23 05:28:37,656 - cosac -INFO - Part Type Added Successfully
+2021-03-23 05:28:37,829 - cosac -INFO - Part Percentage Added Successfully
+2021-03-23 05:28:37,985 - cosac -INFO - Part Value Added Successfully
+2021-03-23 05:28:38,149 - cosac -INFO - Labour Percentage Added Successfully
+2021-03-23 05:28:38,308 - cosac -INFO - Labour Value Added Successfully
+2021-03-23 05:28:38,458 - cosac -INFO - Addtional Percentage Added Successfully
+2021-03-23 05:28:38,615 - cosac -INFO - Addtional Value Added Successfully
+2021-03-23 05:28:38,696 - cosac -INFO - Saved Successfully
+2021-03-23 05:28:38,848 - cosac -INFO - Changes Saved Supplier Contractual Costs saved successfully
+2021-03-23 05:54:38,963 - cosac -INFO - User Clicked On Services
+2021-03-23 05:54:39,302 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-23 05:54:44,711 - cosac -INFO - Page Title is Verified Successfully
+2021-03-23 05:54:48,044 - cosac -INFO - Supplier Selected Successfully
+2021-03-23 05:54:50,432 - cosac -INFO - Rows Added Successfully
+2021-03-23 05:54:50,612 - cosac -INFO - Product Added Successfully
+2021-03-23 05:57:50,127 - cosac -INFO - User Clicked On Services
+2021-03-23 05:57:50,483 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-23 05:57:55,917 - cosac -INFO - Page Title is Verified Successfully
+2021-03-23 05:57:59,240 - cosac -INFO - Supplier Selected Successfully
+2021-03-23 05:58:01,628 - cosac -INFO - Rows Added Successfully
+2021-03-23 05:58:01,786 - cosac -INFO - Product Added Successfully
+2021-03-23 06:05:41,822 - cosac -INFO - User Clicked On Services
+2021-03-23 06:05:42,141 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-23 06:05:47,544 - cosac -INFO - Page Title is Verified Successfully
+2021-03-23 06:05:50,851 - cosac -INFO - Supplier Selected Successfully
+2021-03-23 06:05:53,235 - cosac -INFO - Rows Added Successfully
+2021-03-23 06:05:53,391 - cosac -INFO - Product Added Successfully
+2021-03-23 06:07:54,186 - cosac -INFO - Test Failed
+2021-03-23 06:11:42,740 - cosac -INFO - User Clicked On Services
+2021-03-23 06:11:43,084 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-23 06:11:48,509 - cosac -INFO - Page Title is Verified Successfully
+2021-03-23 06:11:51,820 - cosac -INFO - Supplier Selected Successfully
+2021-03-23 06:11:54,223 - cosac -INFO - Rows Added Successfully
+2021-03-23 06:11:54,382 - cosac -INFO - Product Added Successfully
+2021-03-23 06:11:54,543 - cosac -INFO - Part Type Added Successfully
+2021-03-23 06:11:54,706 - cosac -INFO - Part Percentage Added Successfully
+2021-03-23 06:11:54,863 - cosac -INFO - Part Value Added Successfully
+2021-03-23 06:11:55,015 - cosac -INFO - Labour Percentage Added Successfully
+2021-03-23 06:11:55,174 - cosac -INFO - Labour Value Added Successfully
+2021-03-23 06:11:55,329 - cosac -INFO - Addtional Percentage Added Successfully
+2021-03-23 06:11:55,490 - cosac -INFO - Addtional Value Added Successfully
+2021-03-23 06:11:57,518 - cosac -INFO - Test Failed
+2021-03-23 06:30:07,240 - cosac -INFO - User Clicked On Services
+2021-03-23 06:30:07,584 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-23 06:30:12,987 - cosac -INFO - Page Title is Verified Successfully
+2021-03-23 06:30:16,336 - cosac -INFO - Supplier Selected Successfully
+2021-03-23 06:30:18,730 - cosac -INFO - Rows Added Successfully
+2021-03-23 06:30:18,886 - cosac -INFO - Product Added Successfully
+2021-03-23 06:30:19,046 - cosac -INFO - Part Type Added Successfully
+2021-03-23 06:32:19,934 - cosac -INFO - Test Failed
+2021-03-23 06:34:10,208 - cosac -INFO - User Clicked On Services
+2021-03-23 06:34:10,548 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-23 06:34:15,934 - cosac -INFO - Page Title is Verified Successfully
+2021-03-23 06:34:19,239 - cosac -INFO - Supplier Selected Successfully
+2021-03-23 06:34:21,618 - cosac -INFO - Rows Added Successfully
+2021-03-23 06:34:21,776 - cosac -INFO - Product Added Successfully
+2021-03-23 06:34:21,933 - cosac -INFO - Part Type Added Successfully
+2021-03-23 06:34:22,093 - cosac -INFO - Part Percentage Added Successfully
+2021-03-23 06:36:22,850 - cosac -INFO - Test Failed
+2021-03-23 06:36:59,083 - cosac -INFO - User Clicked On Services
+2021-03-23 06:36:59,397 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-23 06:37:04,786 - cosac -INFO - Page Title is Verified Successfully
+2021-03-23 06:37:08,083 - cosac -INFO - Supplier Selected Successfully
+2021-03-23 06:37:10,478 - cosac -INFO - Rows Added Successfully
+2021-03-23 06:37:10,636 - cosac -INFO - Product Added Successfully
+2021-03-23 06:37:10,799 - cosac -INFO - Part Type Added Successfully
+2021-03-23 06:37:10,958 - cosac -INFO - Part Percentage Added Successfully
+2021-03-23 06:37:11,117 - cosac -INFO - Part Value Added Successfully
+2021-03-23 06:37:11,281 - cosac -INFO - Labour Percentage Added Successfully
+2021-03-23 06:37:11,461 - cosac -INFO - Labour Value Added Successfully
+2021-03-23 06:39:12,235 - cosac -INFO - Test Failed
+2021-03-23 06:40:46,475 - cosac -INFO - User Clicked On Services
+2021-03-23 06:40:46,828 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-23 06:40:52,220 - cosac -INFO - Page Title is Verified Successfully
+2021-03-23 06:40:55,526 - cosac -INFO - Supplier Selected Successfully
+2021-03-23 06:40:57,928 - cosac -INFO - Rows Added Successfully
+2021-03-23 06:40:58,081 - cosac -INFO - Product Added Successfully
+2021-03-23 06:40:58,239 - cosac -INFO - Part Type Added Successfully
+2021-03-23 06:40:58,406 - cosac -INFO - Part Percentage Added Successfully
+2021-03-23 06:40:58,566 - cosac -INFO - Part Value Added Successfully
+2021-03-23 06:40:58,740 - cosac -INFO - Labour Percentage Added Successfully
+2021-03-23 06:40:58,902 - cosac -INFO - Labour Value Added Successfully
+2021-03-23 06:46:11,091 - cosac -INFO - User Clicked On Services
+2021-03-23 06:46:11,434 - cosac -INFO - User Clicked On Suppliers
+2021-03-23 06:46:11,874 - cosac -INFO - Page Title is Verified Successfully
+2021-03-23 06:46:20,180 - cosac -INFO - User Clicked On Add Icon
+2021-03-23 06:46:23,488 - cosac -INFO - Supplier Saved Successfully
+2021-03-23 06:46:23,531 - cosac -INFO - ServiceSuppliers added successfully
+2021-03-23 06:46:23,761 - cosac -INFO - Supplier Searched Successfully
+2021-03-23 06:46:25,838 - cosac -INFO - User Clicked on Edit Icon
+2021-03-23 06:46:29,023 - cosac -INFO - Supplier Edited Successfully
+2021-03-23 06:46:29,052 - cosac -INFO - ServiceSuppliers saved successfully
+2021-03-23 06:46:32,144 - cosac -INFO - User Clicked On Services
+2021-03-23 06:46:32,223 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-23 06:46:37,234 - cosac -INFO - Page Title is Verified Successfully
+2021-03-23 06:46:40,559 - cosac -INFO - Supplier Selected Successfully
+2021-03-23 06:46:42,959 - cosac -INFO - Rows Added Successfully
+2021-03-23 06:46:43,125 - cosac -INFO - Product Added Successfully
+2021-03-23 06:46:43,270 - cosac -INFO - Part Type Added Successfully
+2021-03-23 06:46:43,429 - cosac -INFO - Part Percentage Added Successfully
+2021-03-23 06:46:43,610 - cosac -INFO - Part Value Added Successfully
+2021-03-23 06:46:43,789 - cosac -INFO - Labour Percentage Added Successfully
+2021-03-23 06:46:43,954 - cosac -INFO - Labour Value Added Successfully
+2021-03-23 06:46:44,109 - cosac -INFO - Addtional Percentage Added Successfully
+2021-03-23 06:46:44,274 - cosac -INFO - Addtional Value Added Successfully
+2021-03-23 06:46:46,282 - cosac -INFO - Test Failed
+2021-03-23 06:51:39,492 - cosac -INFO - User Clicked On Services
+2021-03-23 06:51:39,828 - cosac -INFO - User Clicked On Suppliers
+2021-03-23 06:51:40,285 - cosac -INFO - Page Title is Verified Successfully
+2021-03-23 06:51:48,582 - cosac -INFO - User Clicked On Add Icon
+2021-03-23 06:51:51,900 - cosac -INFO - Supplier Saved Successfully
+2021-03-23 06:51:51,946 - cosac -INFO - ServiceSuppliers added successfully
+2021-03-23 06:51:52,193 - cosac -INFO - Supplier Searched Successfully
+2021-03-23 06:51:54,268 - cosac -INFO - User Clicked on Edit Icon
+2021-03-23 06:51:57,454 - cosac -INFO - Supplier Edited Successfully
+2021-03-23 06:51:57,485 - cosac -INFO - ServiceSuppliers saved successfully
+2021-03-23 06:52:00,580 - cosac -INFO - User Clicked On Services
+2021-03-23 06:52:00,655 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-23 06:52:05,667 - cosac -INFO - Page Title is Verified Successfully
+2021-03-23 06:52:08,975 - cosac -INFO - Supplier Selected Successfully
+2021-03-23 06:52:11,325 - cosac -INFO - Rows Added Successfully
+2021-03-23 06:52:11,481 - cosac -INFO - Product Added Successfully
+2021-03-23 06:52:11,642 - cosac -INFO - Part Type Added Successfully
+2021-03-23 06:52:11,805 - cosac -INFO - Part Percentage Added Successfully
+2021-03-23 06:52:11,974 - cosac -INFO - Part Value Added Successfully
+2021-03-23 06:52:12,125 - cosac -INFO - Labour Percentage Added Successfully
+2021-03-23 06:52:12,279 - cosac -INFO - Labour Value Added Successfully
+2021-03-23 06:52:12,440 - cosac -INFO - Addtional Percentage Added Successfully
+2021-03-23 06:52:12,634 - cosac -INFO - Addtional Value Added Successfully
+2021-03-23 06:52:12,711 - cosac -INFO - Saved Successfully
+2021-03-23 06:52:12,802 - cosac -INFO - Changes Saved Supplier Contractual Costs saved successfully
+2021-03-23 06:58:00,068 - cosac -INFO - User Clicked On Services
+2021-03-23 06:58:00,409 - cosac -INFO - User Clicked On Suppliers
+2021-03-23 06:58:00,857 - cosac -INFO - Page Title is Verified Successfully
+2021-03-23 06:58:09,157 - cosac -INFO - User Clicked On Add Icon
+2021-03-23 06:58:12,480 - cosac -INFO - Supplier Saved Successfully
+2021-03-23 06:58:12,526 - cosac -INFO - ServiceSuppliers added successfully
+2021-03-23 06:58:12,764 - cosac -INFO - Supplier Searched Successfully
+2021-03-23 06:58:14,839 - cosac -INFO - User Clicked on Edit Icon
+2021-03-23 06:58:18,030 - cosac -INFO - Supplier Edited Successfully
+2021-03-23 06:58:18,063 - cosac -INFO - ServiceSuppliers saved successfully
+2021-03-23 06:58:21,153 - cosac -INFO - User Clicked On Services
+2021-03-23 06:58:21,239 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-23 06:58:26,248 - cosac -INFO - Page Title is Verified Successfully
+2021-03-23 06:58:29,546 - cosac -INFO - Supplier Selected Successfully
+2021-03-23 06:58:31,912 - cosac -INFO - Rows Added Successfully
+2021-03-23 06:58:32,071 - cosac -INFO - Product Added Successfully
+2021-03-23 06:58:32,230 - cosac -INFO - Part Type Added Successfully
+2021-03-23 06:58:32,379 - cosac -INFO - Part Percentage Added Successfully
+2021-03-23 06:58:32,538 - cosac -INFO - Part Value Added Successfully
+2021-03-23 06:58:32,690 - cosac -INFO - Labour Percentage Added Successfully
+2021-03-23 06:58:32,862 - cosac -INFO - Labour Value Added Successfully
+2021-03-23 06:58:33,020 - cosac -INFO - Addtional Percentage Added Successfully
+2021-03-23 06:58:33,185 - cosac -INFO - Addtional Value Added Successfully
+2021-03-23 06:58:33,262 - cosac -INFO - Saved Successfully
+2021-03-23 06:58:33,351 - cosac -INFO - Changes Saved Supplier Contractual Costs saved successfully
+2021-03-24 13:45:12,872 - cosac -INFO - User able to click on Merchandising
+2021-03-24 13:45:13,146 - cosac -INFO - User able to click on Create
+2021-03-24 13:45:14,002 - cosac -INFO - User able to click on Purchase Order
+2021-03-24 13:45:16,243 - cosac -INFO - Page Title is Verified Successfully
+2021-03-24 13:45:42,185 - cosac -INFO - Purchase Order Created Successfully
+2021-03-24 13:45:47,002 - cosac -INFO - Purchase Order Receipt is Verified Successfully
+2021-03-24 13:45:50,119 - cosac -INFO - User able to click on Merchandising
+2021-03-24 13:45:50,364 - cosac -INFO - User able to click on Search
+2021-03-24 13:45:50,442 - cosac -INFO - User able to click on Purchase Orders
+2021-03-24 13:45:52,480 - cosac -INFO - Page Title is Verified Successfully
+2021-03-24 13:45:54,709 - cosac -INFO - Purchase Order Status is Verified Successfully
+2021-03-24 13:46:37,106 - cosac -INFO - User able to click on Merchandising
+2021-03-24 13:46:37,410 - cosac -INFO - User able to click on Create
+2021-03-24 13:46:37,722 - cosac -INFO - User able to click on Purchase Order
+2021-03-24 13:46:39,991 - cosac -INFO - Page Title is Verified Successfully
+2021-03-24 13:47:08,758 - cosac -INFO - User entered data
+2021-03-24 13:47:08,840 - cosac -INFO - User able to click on Print Lables
+2021-03-24 13:47:11,948 - cosac -INFO - User able to click on Merchandising
+2021-03-24 13:47:12,189 - cosac -INFO - User able to click on Search
+2021-03-24 13:47:12,270 - cosac -INFO - User able to click on StockCount
+2021-03-24 13:47:18,546 - cosac -INFO - User able to select location
+2021-03-24 13:47:18,707 - cosac -INFO - User able to select date
+2021-03-24 13:47:22,052 - cosac -INFO - User able to select division
+2021-03-24 13:47:25,407 - cosac -INFO - User able to select department
+2021-03-24 13:47:28,956 - cosac -INFO - User able to select class
+2021-03-24 13:47:29,033 - cosac -INFO - User able to schedule
+2021-03-24 13:47:29,089 - cosac -INFO - User able to click on Merchandising
+2021-03-24 13:47:29,333 - cosac -INFO - User clicked on Search
+2021-03-24 13:47:29,411 - cosac -INFO - User able to click on Stock Counts
+2021-03-24 13:47:32,955 - cosac -INFO - User able to select location
+2021-03-24 13:47:33,132 - cosac -INFO - User able to from date
+2021-03-24 13:47:33,310 - cosac -INFO - User able select to date
+2021-03-24 13:47:33,399 - cosac -INFO - User able search
+2021-03-24 13:47:35,475 - cosac -INFO - User able click on stock count id
+2021-03-24 13:47:40,798 - cosac -INFO - User able click on start
+2021-03-24 13:47:41,077 - cosac -INFO - User able click on CollectionNotes
+2021-03-24 13:47:41,150 - cosac -INFO - User able click on DeliveryNotes
+2021-03-24 13:47:41,231 - cosac -INFO - User able click on GoodsReciept
+2021-03-24 13:47:41,304 - cosac -INFO - User able click on ReturnToVendor
+2021-03-24 13:47:41,366 - cosac -INFO - User able click on StartCount
+2021-03-24 13:47:41,786 - cosac -INFO - User able click on PrintStockcountsheet
+2021-03-24 13:48:47,939 - cosac -INFO - User is clicked on Merchandising
+2021-03-24 13:48:49,122 - cosac -INFO - User is clicked on Picking
+2021-03-24 13:48:49,594 - cosac -INFO - Page Title is Verified SuccessFully
+2021-03-24 13:48:54,949 - cosac -INFO - User is selcted Sending Location
+2021-03-24 13:49:00,218 - cosac -INFO - User is selcted Type
+2021-03-24 13:49:00,287 - cosac -INFO - Shipment is Searched Successfully
+2021-03-24 13:49:10,595 - cosac -INFO - Driver selected successfully
+2021-03-24 13:49:15,704 - cosac -INFO - Shipment is added to Truck Successfully
+2021-03-24 13:49:17,743 - cosac -INFO -   Shipment  195330 added successfully to the truck SPR 
+2021-03-24 13:49:17,811 - cosac -INFO - User is clicked on Print Truck
+2021-03-24 13:49:19,953 - cosac -INFO - User is clicked on ExternalLink
+2021-03-24 13:49:20,668 - cosac -INFO - PickList Number is Generated Successfully
+2021-03-24 13:49:25,797 - cosac -INFO - Shipment Picking Successfully
+2021-03-24 13:49:26,134 - cosac -INFO - User clicked on Logistics
+2021-03-24 13:49:26,220 - cosac -INFO - User clicked on SearchPicklist
+2021-03-24 13:49:26,566 - cosac -INFO - User is able to search picklist
+2021-03-24 13:49:30,248 - cosac -INFO - User is able to select PickList
+2021-03-24 13:49:30,406 - cosac -INFO - User is able to select Picked Date
+2021-03-24 13:49:33,923 - cosac -INFO - Shipment is Picked Successfully
+2021-03-24 13:49:42,298 - cosac -INFO - Shipment is Checked Successfully
+2021-03-24 13:49:45,485 - cosac -INFO - User is commented
+2021-03-24 13:49:48,562 - cosac -INFO - Saved Successfully
+2021-03-24 13:49:51,601 - cosac -INFO - All Item(s) Picked Successfully
+2021-03-24 13:49:53,678 - cosac -INFO - User Clicked On Merchandising
+2021-03-24 13:49:53,762 - cosac -INFO - User Clicked On Scheduling
+2021-03-24 13:49:59,261 - cosac -INFO - User able to select DeliveryBranch
+2021-03-24 13:50:04,528 - cosac -INFO - User able to select Truck
+2021-03-24 13:50:04,741 - cosac -INFO - User selected  Type
+2021-03-24 13:50:04,822 - cosac -INFO - User able to click on CreateDeliverySchedule
+2021-03-24 13:50:04,904 - cosac -INFO - User able to Save
+2021-03-24 13:50:07,059 - cosac -INFO - User is clicked on ExternalLink
+2021-03-24 13:50:10,285 - cosac -INFO - Load and Delivery Schedule is Completed Successfully
+2021-03-24 13:50:10,619 - cosac -INFO - User able to click on Logistics
+2021-03-24 13:50:10,695 - cosac -INFO - User able to click on SearchDeliverySchedule
+2021-03-24 13:50:10,704 - cosac -INFO - Page Title is Verified Successfully
+2021-03-24 13:50:10,962 - cosac -INFO - User able to Search Shipment
+2021-03-24 13:50:13,311 - cosac -INFO - User Clicked On ScheduleNumber
+2021-03-24 13:50:13,533 - cosac -INFO - User Confirmed Date Successfully
+2021-03-24 13:50:13,877 - cosac -INFO - Delivery Confirmed Successfully
+2021-03-24 13:50:13,942 - cosac -INFO - User able to Click on Logistics
+2021-03-24 13:50:14,020 - cosac -INFO - User able to click on Search Shipments
+2021-03-24 13:50:16,032 - cosac -INFO - Page Title is Verified Successfully
+2021-03-24 13:50:16,219 - cosac -INFO - User able to Search Shipment
+2021-03-24 13:50:18,258 - cosac -INFO - Shipment is Delivered
+2021-03-24 13:52:03,984 - cosac -INFO - User Clicked On Services
+2021-03-24 13:52:04,867 - cosac -INFO - User Clicked On Suppliers
+2021-03-24 13:52:05,339 - cosac -INFO - Page Title is Verified Successfully
+2021-03-24 13:52:13,636 - cosac -INFO - User Clicked On Add Icon
+2021-03-24 13:52:16,947 - cosac -INFO - Supplier Saved Successfully
+2021-03-24 13:52:16,990 - cosac -INFO - ServiceSuppliers added successfully
+2021-03-24 13:52:17,240 - cosac -INFO - Supplier Searched Successfully
+2021-03-24 13:52:19,313 - cosac -INFO - User Clicked on Edit Icon
+2021-03-24 13:52:22,505 - cosac -INFO - Supplier Edited Successfully
+2021-03-24 13:52:22,540 - cosac -INFO - ServiceSuppliers saved successfully
+2021-03-24 13:52:25,635 - cosac -INFO - User Clicked On Services
+2021-03-24 13:52:25,708 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-24 13:52:30,718 - cosac -INFO - Page Title is Verified Successfully
+2021-03-24 13:52:34,028 - cosac -INFO - Supplier Selected Successfully
+2021-03-24 13:52:36,557 - cosac -INFO - Rows Added Successfully
+2021-03-24 13:52:36,724 - cosac -INFO - Product Added Successfully
+2021-03-24 13:52:36,884 - cosac -INFO - Part Type Added Successfully
+2021-03-24 13:52:37,037 - cosac -INFO - Part Percentage Added Successfully
+2021-03-24 13:52:37,189 - cosac -INFO - Part Value Added Successfully
+2021-03-24 13:52:37,339 - cosac -INFO - Labour Percentage Added Successfully
+2021-03-24 13:52:37,496 - cosac -INFO - Labour Value Added Successfully
+2021-03-24 13:52:37,675 - cosac -INFO - Addtional Percentage Added Successfully
+2021-03-24 13:52:37,835 - cosac -INFO - Addtional Value Added Successfully
+2021-03-24 13:52:37,906 - cosac -INFO - Saved Successfully
+2021-03-24 13:52:38,053 - cosac -INFO - Changes Saved Supplier Contractual Costs saved successfully
+2021-03-24 13:53:05,251 - cosac -INFO - User Clicked on Service
+2021-03-24 13:53:05,666 - cosac -INFO - User clicked on TechnicianDairy
+2021-03-24 13:53:06,224 - cosac -INFO - Page Title is Verified Successfully
+2021-03-24 13:53:14,669 - cosac -INFO - User selected Technician Name
+2021-03-24 13:53:16,881 - cosac -INFO - User Selected Date of Start Week to View
+2021-03-24 13:53:17,220 - cosac -INFO - User entered visible weeks
+2021-03-24 13:53:24,429 - cosac -INFO - User Selected Technician Unavailable From Date
+2021-03-24 13:53:28,621 - cosac -INFO - User Selected Technician Unavailable To Date
+2021-03-24 13:53:29,995 - cosac -INFO - Technician Unavailablity Dates Submited Successfully
+2021-03-24 13:53:32,034 - cosac -INFO - Technician Not Available From 2021/25/03 To 2021/25/03
+2021-03-24 13:57:52,358 - cosac -INFO - User Clicked on Service
+2021-03-24 13:57:52,688 - cosac -INFO - User clicked on TechnicianDairy
+2021-03-24 13:57:53,259 - cosac -INFO - Page Title is Verified Successfully
+2021-03-24 13:58:01,676 - cosac -INFO - User selected Technician Name
+2021-03-24 13:58:04,002 - cosac -INFO - User Selected Date of Start Week to View
+2021-03-24 13:58:04,341 - cosac -INFO - User entered visible weeks
+2021-03-24 13:58:11,611 - cosac -INFO - User Selected Technician Unavailable From Date
+2021-03-24 13:58:15,840 - cosac -INFO - User Selected Technician Unavailable To Date
+2021-03-24 13:58:17,247 - cosac -INFO - Technician Unavailablity Dates Submited Successfully
+2021-03-24 13:58:19,285 - cosac -INFO - Technician Not Available From 03/26/2021 To 03/26/2021
+2021-03-24 13:58:19,357 - cosac -INFO - User clicked on holiday approve date
+2021-03-24 13:58:19,542 - cosac -INFO - User deleted approved date
+2021-03-25 09:58:21,429 - cosac -INFO - User able to click on Merchandising
+2021-03-25 09:58:21,705 - cosac -INFO - User able to click on Create
+2021-03-25 09:58:22,083 - cosac -INFO - User able to click on Purchase Order
+2021-03-25 09:58:24,389 - cosac -INFO - Page Title is Verified Successfully
+2021-03-25 09:58:51,712 - cosac -INFO - Purchase Order Created Successfully
+2021-03-25 09:58:56,548 - cosac -INFO - Purchase Order Receipt is Verified Successfully
+2021-03-25 09:58:59,665 - cosac -INFO - User able to click on Merchandising
+2021-03-25 09:58:59,903 - cosac -INFO - User able to click on Search
+2021-03-25 09:58:59,984 - cosac -INFO - User able to click on Purchase Orders
+2021-03-25 09:59:02,020 - cosac -INFO - Page Title is Verified Successfully
+2021-03-25 09:59:04,555 - cosac -INFO - Purchase Order Status is Verified Successfully
+2021-03-25 10:42:18,572 - cosac -INFO - User able to click on Merchandising
+2021-03-25 10:42:18,885 - cosac -INFO - User able to click on Create
+2021-03-25 10:42:19,280 - cosac -INFO - User able to click on Purchase Order
+2021-03-25 10:42:21,577 - cosac -INFO - Page Title is Verified Successfully
+2021-03-25 10:42:46,858 - cosac -INFO - Purchase Order Created Successfully
+2021-03-25 10:42:51,458 - cosac -INFO - Purchase Order Receipt is Verified Successfully
+2021-03-25 10:42:54,576 - cosac -INFO - User able to click on Merchandising
+2021-03-25 10:42:54,814 - cosac -INFO - User able to click on Search
+2021-03-25 10:42:54,894 - cosac -INFO - User able to click on Purchase Orders
+2021-03-25 10:42:56,931 - cosac -INFO - Page Title is Verified Successfully
+2021-03-25 10:42:59,455 - cosac -INFO - Purchase Order Status is Verified Successfully
+2021-03-25 10:43:25,004 - cosac -INFO - User able to click on Merchandising
+2021-03-25 10:43:25,325 - cosac -INFO - User able to click on Create
+2021-03-25 10:43:25,701 - cosac -INFO - User able to click on Purchase Order
+2021-03-25 10:43:27,984 - cosac -INFO - Page Title is Verified Successfully
+2021-03-25 10:43:58,353 - cosac -INFO - User entered data
+2021-03-25 10:43:58,424 - cosac -INFO - User able to click on Print Lables
+2021-03-25 10:44:01,528 - cosac -INFO - User able to click on Merchandising
+2021-03-25 10:44:01,767 - cosac -INFO - User able to click on Search
+2021-03-25 10:44:01,852 - cosac -INFO - User able to click on StockCount
+2021-03-25 10:44:08,211 - cosac -INFO - User able to select location
+2021-03-25 10:44:08,409 - cosac -INFO - User able to select date
+2021-03-25 10:44:11,719 - cosac -INFO - User able to select division
+2021-03-25 10:44:15,083 - cosac -INFO - User able to select department
+2021-03-25 10:44:18,606 - cosac -INFO - User able to select class
+2021-03-25 10:44:18,674 - cosac -INFO - User able to schedule
+2021-03-25 10:44:18,731 - cosac -INFO - User able to click on Merchandising
+2021-03-25 10:44:18,986 - cosac -INFO - User clicked on Search
+2021-03-25 10:44:19,062 - cosac -INFO - User able to click on Stock Counts
+2021-03-25 10:44:22,592 - cosac -INFO - User able to select location
+2021-03-25 10:44:22,767 - cosac -INFO - User able to from date
+2021-03-25 10:44:22,938 - cosac -INFO - User able select to date
+2021-03-25 10:44:23,010 - cosac -INFO - User able search
+2021-03-25 10:44:25,089 - cosac -INFO - User able click on stock count id
+2021-03-25 10:44:30,467 - cosac -INFO - User able click on start
+2021-03-25 10:44:31,276 - cosac -INFO - User able click on CollectionNotes
+2021-03-25 10:44:31,357 - cosac -INFO - User able click on DeliveryNotes
+2021-03-25 10:44:31,431 - cosac -INFO - User able click on GoodsReciept
+2021-03-25 10:44:31,514 - cosac -INFO - User able click on ReturnToVendor
+2021-03-25 10:44:31,580 - cosac -INFO - User able click on StartCount
+2021-03-25 10:44:32,434 - cosac -INFO - User able click on PrintStockcountsheet
+2021-03-25 10:45:01,331 - cosac -INFO - User Clicked on Service
+2021-03-25 10:45:01,699 - cosac -INFO - User clicked on TechnicianDairy
+2021-03-25 10:45:02,309 - cosac -INFO - Page Title is Verified Successfully
+2021-03-25 10:45:10,867 - cosac -INFO - User selected Technician Name
+2021-03-25 10:45:13,110 - cosac -INFO - User Selected Date of Start Week to View
+2021-03-25 10:45:13,552 - cosac -INFO - User entered visible weeks
+2021-03-25 10:45:20,812 - cosac -INFO - User Selected Technician Unavailable From Date
+2021-03-25 10:45:25,058 - cosac -INFO - User Selected Technician Unavailable To Date
+2021-03-25 10:45:26,485 - cosac -INFO - Technician Unavailablity Dates Submited Successfully
+2021-03-25 10:45:28,523 - cosac -INFO - Technician Not Available From 03/26/2021 To 03/26/2021
+2021-03-25 10:45:28,612 - cosac -INFO - User clicked on holiday approve date
+2021-03-25 10:45:28,845 - cosac -INFO - User deleted approved date
+2021-03-25 10:46:01,776 - cosac -INFO - User is clicked on Merchandising
+2021-03-25 10:46:02,380 - cosac -INFO - User is clicked on Picking
+2021-03-25 10:46:02,887 - cosac -INFO - Page Title is Verified SuccessFully
+2021-03-25 10:46:09,486 - cosac -INFO - User is selcted Sending Location
+2021-03-25 10:46:14,764 - cosac -INFO - User is selcted Type
+2021-03-25 10:46:14,835 - cosac -INFO - Shipment is Searched Successfully
+2021-03-25 10:46:25,369 - cosac -INFO - Driver selected successfully
+2021-03-25 10:46:30,599 - cosac -INFO - Shipment is added to Truck Successfully
+2021-03-25 10:46:32,639 - cosac -INFO -   Shipment  1761115 added successfully to the truck SPR 
+2021-03-25 10:46:32,715 - cosac -INFO - User is clicked on Print Truck
+2021-03-25 10:46:34,896 - cosac -INFO - User is clicked on ExternalLink
+2021-03-25 10:46:35,746 - cosac -INFO - PickList Number is Generated Successfully
+2021-03-25 10:46:40,893 - cosac -INFO - Shipment Picking Successfully
+2021-03-25 10:46:41,247 - cosac -INFO - User clicked on Logistics
+2021-03-25 10:46:41,335 - cosac -INFO - User clicked on SearchPicklist
+2021-03-25 10:46:43,342 - cosac -INFO - User is able to search picklist
+2021-03-25 10:46:46,677 - cosac -INFO - User is able to select PickList
+2021-03-25 10:46:46,867 - cosac -INFO - User is able to select Picked Date
+2021-03-25 10:46:50,310 - cosac -INFO - Shipment is Picked Successfully
+2021-03-25 10:46:58,738 - cosac -INFO - Shipment is Checked Successfully
+2021-03-25 10:47:01,949 - cosac -INFO - User is commented
+2021-03-25 10:47:05,022 - cosac -INFO - Saved Successfully
+2021-03-25 10:47:08,060 - cosac -INFO - All Item(s) Picked Successfully
+2021-03-25 10:47:10,141 - cosac -INFO - User Clicked On Merchandising
+2021-03-25 10:47:10,223 - cosac -INFO - User Clicked On Scheduling
+2021-03-25 10:47:17,089 - cosac -INFO - User able to select DeliveryBranch
+2021-03-25 10:47:22,439 - cosac -INFO - User able to select Truck
+2021-03-25 10:47:22,657 - cosac -INFO - User selected  Type
+2021-03-25 10:47:22,744 - cosac -INFO - User able to click on CreateDeliverySchedule
+2021-03-25 10:47:22,813 - cosac -INFO - User able to Save
+2021-03-25 10:47:25,001 - cosac -INFO - User is clicked on ExternalLink
+2021-03-25 10:47:28,280 - cosac -INFO - Load and Delivery Schedule is Completed Successfully
+2021-03-25 10:47:28,599 - cosac -INFO - User able to click on Logistics
+2021-03-25 10:47:28,674 - cosac -INFO - User able to click on SearchDeliverySchedule
+2021-03-25 10:47:28,682 - cosac -INFO - Page Title is Verified Successfully
+2021-03-25 10:47:31,187 - cosac -INFO - User able to Search Shipment
+2021-03-25 10:47:33,580 - cosac -INFO - User Clicked On ScheduleNumber
+2021-03-25 10:47:33,766 - cosac -INFO - User Confirmed Date Successfully
+2021-03-25 10:47:34,118 - cosac -INFO - Delivery Confirmed Successfully
+2021-03-25 10:47:34,202 - cosac -INFO - User able to Click on Logistics
+2021-03-25 10:47:34,286 - cosac -INFO - User able to click on Search Shipments
+2021-03-25 10:47:38,468 - cosac -INFO - Page Title is Verified Successfully
+2021-03-25 10:47:39,017 - cosac -INFO - User able to Search Shipment
+2021-03-25 10:47:41,056 - cosac -INFO - Shipment is Delivered
+2021-03-25 10:48:14,379 - cosac -INFO - User Clicked On Services
+2021-03-25 10:48:14,916 - cosac -INFO - User Clicked On Suppliers
+2021-03-25 10:48:15,439 - cosac -INFO - Page Title is Verified Successfully
+2021-03-25 10:48:23,756 - cosac -INFO - User Clicked On Add Icon
+2021-03-25 10:48:27,085 - cosac -INFO - Supplier Saved Successfully
+2021-03-25 10:48:27,139 - cosac -INFO - ServiceSuppliers added successfully
+2021-03-25 10:48:27,378 - cosac -INFO - Supplier Searched Successfully
+2021-03-25 10:48:29,454 - cosac -INFO - User Clicked on Edit Icon
+2021-03-25 10:48:32,634 - cosac -INFO - Supplier Edited Successfully
+2021-03-25 10:48:32,671 - cosac -INFO - ServiceSuppliers saved successfully
+2021-03-25 10:48:35,767 - cosac -INFO - User Clicked On Services
+2021-03-25 10:48:35,846 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-25 10:48:40,856 - cosac -INFO - Page Title is Verified Successfully
+2021-03-25 10:48:44,184 - cosac -INFO - Supplier Selected Successfully
+2021-03-25 10:48:46,616 - cosac -INFO - Rows Added Successfully
+2021-03-25 10:48:46,780 - cosac -INFO - Product Added Successfully
+2021-03-25 10:48:46,933 - cosac -INFO - Part Type Added Successfully
+2021-03-25 10:48:47,100 - cosac -INFO - Part Percentage Added Successfully
+2021-03-25 10:48:47,260 - cosac -INFO - Part Value Added Successfully
+2021-03-25 10:48:47,428 - cosac -INFO - Labour Percentage Added Successfully
+2021-03-25 10:48:47,591 - cosac -INFO - Labour Value Added Successfully
+2021-03-25 10:48:47,749 - cosac -INFO - Addtional Percentage Added Successfully
+2021-03-25 10:48:47,908 - cosac -INFO - Addtional Value Added Successfully
+2021-03-25 10:48:49,851 - cosac -INFO - Test Failed
+2021-03-25 10:49:37,223 - cosac -INFO - User Clicked On Services
+2021-03-25 10:49:37,624 - cosac -INFO - User Clicked On Suppliers
+2021-03-25 10:49:38,076 - cosac -INFO - Page Title is Verified Successfully
+2021-03-25 10:49:46,401 - cosac -INFO - User Clicked On Add Icon
+2021-03-25 10:49:49,731 - cosac -INFO - Supplier Saved Successfully
+2021-03-25 10:49:49,771 - cosac -INFO - ServiceSuppliers added successfully
+2021-03-25 10:49:50,021 - cosac -INFO - Supplier Searched Successfully
+2021-03-25 10:49:52,113 - cosac -INFO - User Clicked on Edit Icon
+2021-03-25 10:49:55,302 - cosac -INFO - Supplier Edited Successfully
+2021-03-25 10:49:55,333 - cosac -INFO - ServiceSuppliers saved successfully
+2021-03-25 10:49:58,434 - cosac -INFO - User Clicked On Services
+2021-03-25 10:49:58,509 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-25 10:50:03,520 - cosac -INFO - Page Title is Verified Successfully
+2021-03-25 10:50:06,904 - cosac -INFO - Supplier Selected Successfully
+2021-03-25 10:50:09,267 - cosac -INFO - Rows Added Successfully
+2021-03-25 10:50:09,441 - cosac -INFO - Product Added Successfully
+2021-03-25 10:50:09,596 - cosac -INFO - Part Type Added Successfully
+2021-03-25 10:50:09,749 - cosac -INFO - Part Percentage Added Successfully
+2021-03-25 10:50:09,908 - cosac -INFO - Part Value Added Successfully
+2021-03-25 10:50:10,060 - cosac -INFO - Labour Percentage Added Successfully
+2021-03-25 10:50:10,224 - cosac -INFO - Labour Value Added Successfully
+2021-03-25 10:50:10,383 - cosac -INFO - Addtional Percentage Added Successfully
+2021-03-25 10:50:10,560 - cosac -INFO - Addtional Value Added Successfully
+2021-03-25 10:50:10,644 - cosac -INFO - Saved Successfully
+2021-03-25 10:50:10,796 - cosac -INFO - Changes Saved Supplier Contractual Costs saved successfully
+2021-03-26 06:54:28,906 - cosac -INFO - User able to click on Merchandising
+2021-03-26 06:54:29,179 - cosac -INFO - User able to click on Create
+2021-03-26 06:54:29,645 - cosac -INFO - User able to click on Purchase Order
+2021-03-26 06:54:31,931 - cosac -INFO - Page Title is Verified Successfully
+2021-03-26 06:54:57,773 - cosac -INFO - Purchase Order Created Successfully
+2021-03-26 06:55:02,510 - cosac -INFO - Purchase Order Receipt is Verified Successfully
+2021-03-26 06:55:05,684 - cosac -INFO - User able to click on Merchandising
+2021-03-26 06:55:05,921 - cosac -INFO - User able to click on Search
+2021-03-26 06:55:06,000 - cosac -INFO - User able to click on Purchase Orders
+2021-03-26 06:55:08,035 - cosac -INFO - Page Title is Verified Successfully
+2021-03-26 06:55:10,252 - cosac -INFO - Purchase Order Status is Verified Successfully
+2021-03-26 06:55:32,131 - cosac -INFO - User able to click on Merchandising
+2021-03-26 06:55:32,418 - cosac -INFO - User able to click on Create
+2021-03-26 06:55:32,735 - cosac -INFO - User able to click on Purchase Order
+2021-03-26 06:55:35,017 - cosac -INFO - Page Title is Verified Successfully
+2021-03-26 06:55:54,651 - cosac -INFO - Requires Lable Checked
+2021-03-26 06:56:07,153 - cosac -INFO - Test Failed
+2021-03-26 06:56:55,020 - cosac -INFO - User able to click on Merchandising
+2021-03-26 06:56:55,300 - cosac -INFO - User able to click on Create
+2021-03-26 06:56:55,643 - cosac -INFO - User able to click on Purchase Order
+2021-03-26 06:56:57,917 - cosac -INFO - Page Title is Verified Successfully
+2021-03-26 06:57:26,966 - cosac -INFO - User entered data
+2021-03-26 06:57:27,040 - cosac -INFO - User able to click on Print Lables
+2021-03-26 06:57:30,135 - cosac -INFO - User able to click on Merchandising
+2021-03-26 06:57:30,374 - cosac -INFO - User able to click on Search
+2021-03-26 06:57:30,466 - cosac -INFO - User able to click on StockCount
+2021-03-26 06:57:36,820 - cosac -INFO - User able to select location
+2021-03-26 06:57:36,988 - cosac -INFO - User able to select date
+2021-03-26 06:57:40,289 - cosac -INFO - User able to select division
+2021-03-26 06:57:43,637 - cosac -INFO - User able to select department
+2021-03-26 06:57:47,189 - cosac -INFO - User able to select class
+2021-03-26 06:57:47,262 - cosac -INFO - User able to schedule
+2021-03-26 06:57:47,338 - cosac -INFO - User able to click on Merchandising
+2021-03-26 06:57:47,615 - cosac -INFO - User clicked on Search
+2021-03-26 06:57:47,748 - cosac -INFO - User able to click on Stock Counts
+2021-03-26 06:57:51,287 - cosac -INFO - User able to select location
+2021-03-26 06:57:51,473 - cosac -INFO - User able to from date
+2021-03-26 06:57:51,630 - cosac -INFO - User able select to date
+2021-03-26 06:57:51,701 - cosac -INFO - User able search
+2021-03-26 06:57:53,782 - cosac -INFO - User able click on stock count id
+2021-03-26 06:57:59,169 - cosac -INFO - User able click on start
+2021-03-26 06:57:59,518 - cosac -INFO - User able click on CollectionNotes
+2021-03-26 06:57:59,585 - cosac -INFO - User able click on DeliveryNotes
+2021-03-26 06:57:59,660 - cosac -INFO - User able click on GoodsReciept
+2021-03-26 06:57:59,726 - cosac -INFO - User able click on ReturnToVendor
+2021-03-26 06:57:59,792 - cosac -INFO - User able click on StartCount
+2021-03-26 06:58:00,326 - cosac -INFO - User able click on PrintStockcountsheet
+2021-03-26 06:59:08,931 - cosac -INFO - User is clicked on Merchandising
+2021-03-26 06:59:10,288 - cosac -INFO - User is clicked on Picking
+2021-03-26 06:59:10,696 - cosac -INFO - Page Title is Verified SuccessFully
+2021-03-26 06:59:16,304 - cosac -INFO - User is selcted Sending Location
+2021-03-26 06:59:21,608 - cosac -INFO - User is selcted Type
+2021-03-26 06:59:21,691 - cosac -INFO - Shipment is Searched Successfully
+2021-03-26 06:59:32,526 - cosac -INFO - Driver selected successfully
+2021-03-26 06:59:37,684 - cosac -INFO - Shipment is added to Truck Successfully
+2021-03-26 06:59:39,720 - cosac -INFO -   Shipment  4574867 added successfully to the truck SPR 
+2021-03-26 06:59:39,795 - cosac -INFO - User is clicked on Print Truck
+2021-03-26 06:59:41,934 - cosac -INFO - User is clicked on ExternalLink
+2021-03-26 06:59:42,805 - cosac -INFO - PickList Number is Generated Successfully
+2021-03-26 06:59:47,935 - cosac -INFO - Shipment Picking Successfully
+2021-03-26 06:59:48,244 - cosac -INFO - User clicked on Logistics
+2021-03-26 06:59:48,335 - cosac -INFO - User clicked on SearchPicklist
+2021-03-26 06:59:49,232 - cosac -INFO - User is able to search picklist
+2021-03-26 06:59:52,554 - cosac -INFO - User is able to select PickList
+2021-03-26 06:59:52,743 - cosac -INFO - User is able to select Picked Date
+2021-03-26 06:59:56,189 - cosac -INFO - Shipment is Picked Successfully
+2021-03-26 07:00:04,649 - cosac -INFO - Shipment is Checked Successfully
+2021-03-26 07:00:07,837 - cosac -INFO - User is commented
+2021-03-26 07:00:10,910 - cosac -INFO - Saved Successfully
+2021-03-26 07:00:13,949 - cosac -INFO - All Item(s) Picked Successfully
+2021-03-26 07:00:16,027 - cosac -INFO - User Clicked On Merchandising
+2021-03-26 07:00:16,103 - cosac -INFO - User Clicked On Scheduling
+2021-03-26 07:00:21,992 - cosac -INFO - User able to select DeliveryBranch
+2021-03-26 07:00:27,394 - cosac -INFO - User able to select Truck
+2021-03-26 07:00:27,607 - cosac -INFO - User selected  Type
+2021-03-26 07:00:27,705 - cosac -INFO - User able to click on CreateDeliverySchedule
+2021-03-26 07:00:27,783 - cosac -INFO - User able to Save
+2021-03-26 07:00:29,907 - cosac -INFO - User is clicked on ExternalLink
+2021-03-26 07:00:33,112 - cosac -INFO - Load and Delivery Schedule is Completed Successfully
+2021-03-26 07:00:33,475 - cosac -INFO - User able to click on Logistics
+2021-03-26 07:00:33,550 - cosac -INFO - User able to click on SearchDeliverySchedule
+2021-03-26 07:00:33,562 - cosac -INFO - Page Title is Verified Successfully
+2021-03-26 07:00:34,251 - cosac -INFO - User able to Search Shipment
+2021-03-26 07:00:36,722 - cosac -INFO - User Clicked On ScheduleNumber
+2021-03-26 07:00:36,912 - cosac -INFO - User Confirmed Date Successfully
+2021-03-26 07:00:37,247 - cosac -INFO - Delivery Confirmed Successfully
+2021-03-26 07:00:37,410 - cosac -INFO - User able to Click on Logistics
+2021-03-26 07:00:37,489 - cosac -INFO - User able to click on Search Shipments
+2021-03-26 07:00:39,501 - cosac -INFO - Page Title is Verified Successfully
+2021-03-26 07:00:39,800 - cosac -INFO - User able to Search Shipment
+2021-03-26 07:00:41,836 - cosac -INFO - Shipment is Delivered
+2021-03-26 07:02:01,882 - cosac -INFO - User Clicked on Service
+2021-03-26 07:02:02,226 - cosac -INFO - User clicked on TechnicianDairy
+2021-03-26 07:02:02,819 - cosac -INFO - Page Title is Verified Successfully
+2021-03-26 07:02:11,271 - cosac -INFO - User selected Technician Name
+2021-03-26 07:02:13,500 - cosac -INFO - User Selected Date of Start Week to View
+2021-03-26 07:02:13,860 - cosac -INFO - User entered visible weeks
+2021-03-26 07:02:21,119 - cosac -INFO - User Selected Technician Unavailable From Date
+2021-03-26 07:02:25,361 - cosac -INFO - User Selected Technician Unavailable To Date
+2021-03-26 07:02:26,745 - cosac -INFO - Technician Unavailablity Dates Submited Successfully
+2021-03-26 07:02:28,781 - cosac -INFO - Technician Not Available From 03/26/2021 To 03/26/2021
+2021-03-26 07:02:28,854 - cosac -INFO - User clicked on holiday approve date
+2021-03-26 07:02:29,039 - cosac -INFO - User deleted approved date
+2021-03-26 07:03:02,693 - cosac -INFO - User Clicked On Services
+2021-03-26 07:03:03,131 - cosac -INFO - User Clicked On Suppliers
+2021-03-26 07:03:03,564 - cosac -INFO - Page Title is Verified Successfully
+2021-03-26 07:03:11,925 - cosac -INFO - User Clicked On Add Icon
+2021-03-26 07:03:15,221 - cosac -INFO - Supplier Saved Successfully
+2021-03-26 07:03:15,270 - cosac -INFO - ServiceSuppliers added successfully
+2021-03-26 07:03:15,517 - cosac -INFO - Supplier Searched Successfully
+2021-03-26 07:03:17,589 - cosac -INFO - User Clicked on Edit Icon
+2021-03-26 07:03:20,773 - cosac -INFO - Supplier Edited Successfully
+2021-03-26 07:03:20,810 - cosac -INFO - ServiceSuppliers saved successfully
+2021-03-26 07:03:23,901 - cosac -INFO - User Clicked On Services
+2021-03-26 07:03:23,973 - cosac -INFO - User Clicked On Supplier COntractual Cost
+2021-03-26 07:03:28,984 - cosac -INFO - Page Title is Verified Successfully
+2021-03-26 07:03:32,318 - cosac -INFO - Supplier Selected Successfully
+2021-03-26 07:03:34,665 - cosac -INFO - Rows Added Successfully
+2021-03-26 07:03:34,842 - cosac -INFO - Product Added Successfully
+2021-03-26 07:03:35,008 - cosac -INFO - Part Type Added Successfully
+2021-03-26 07:03:35,177 - cosac -INFO - Part Percentage Added Successfully
+2021-03-26 07:03:35,337 - cosac -INFO - Part Value Added Successfully
+2021-03-26 07:03:35,505 - cosac -INFO - Labour Percentage Added Successfully
+2021-03-26 07:03:35,661 - cosac -INFO - Labour Value Added Successfully
+2021-03-26 07:03:35,825 - cosac -INFO - Addtional Percentage Added Successfully
+2021-03-26 07:03:35,981 - cosac -INFO - Addtional Value Added Successfully
+2021-03-26 07:03:36,055 - cosac -INFO - Saved Successfully
+2021-03-26 07:03:36,208 - cosac -INFO - Changes Saved Supplier Contractual Costs saved successfully

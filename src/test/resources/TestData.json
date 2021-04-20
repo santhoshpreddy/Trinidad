@@ -1,0 +1,90 @@
+{
+
+		"HomeDelivery": {
+		"ExpectedPageTitle": "Picking",
+		"ExpectedSearchPageTitle": "Search Pick Lists",
+		"PickedByEmp": "Sandra John",
+		"CheckedEmp": "Sandra John",
+		"comment": "Item Picked and Checked Successfully",
+		"SendingLocation": "561 COURTS MEGASTORE",
+		"ExpectedSearchShipmentPageTitle":"Search Shipments",
+		"DeleveryBranch":"561 COURTS MEGASTORE",
+		"ExpectedSchedulingPageTitle": "Load and Delivery Schedule",
+		"SrchDeliverySchdlExpectedTitle":"Load and Delivery Schedule",
+		"Type":"External",
+		"Truck":"SPR"
+		
+	},
+	
+	"TechnicianDairy": {
+		"ExpectedTitle": "Technician Diary",
+		"ExpectedColor": "rgba(236, 0, 140, 1)",
+		"AvailableTo": "03/26/2021",
+		"AvailableFrom": "03/26/2021",
+		"TechnicianName": "148",
+		"VisibleWeeks": "1"
+	},
+	"Purchaseorder": {
+		"POSKU": "40020F",
+		"POSKUValue": "40020F",
+		"PORequsetingDeliverDate": "03/26/2021",
+		"RequsetingDeliverDate": "03/26/2021",
+		"Qty": "1",
+		"RecivingLoc": "COURTS SAN FERNANDO",
+		"Vendor": "REGAL WORLDWIDE TRADE"
+	},
+	"StockCount":{
+	     "Location":"COURTS SAN FERNANDO",
+	     "Div":"COMPUTER AND OFFICE",
+	     "Dept":"COMPUTER AND ACCESSORIES ",
+	     "Cls":"LAPTOPS",
+	     "Date":"03/26/2021"
+
+	     
+	},
+	"Supplier":{
+	  "ExpectedTitle":"Service Suppliers",
+	  "companyname":"Realmi"
+	},
+	"Scontract":{
+		"ExpectedPageTitle":"Supplier Contractual Costs",
+		
+		"RowsNumber":"1",
+		"ProductName":"Jack",
+		"PartType":"Wire",
+		"PartPercentage":"20",
+		"PartValue":"100",
+		"LabourPercentage":"10",
+		"LabourValue":"110",
+		"AddtionalPercentage":"10",
+		"AddtionalValue":"120",
+		"Rownumber":"1"
+	},
+	"StockCountPermission": 
+		{
+		    
+	        "Div_Name"               :"SDA",
+	        "Location_Send"          :"RADIO SHACK MANDEVIL",
+	        "Location_Name"          :"RADIO SHACK MANDEVIL",
+	        "CountDate"              : "03/02/2021",
+	        "DivSend"                : "RADIO SHACK",
+	        "DivName"                :"RADIO SHACK",
+	        "DepSend"                :"BATTERIES",
+	        "DepName"                :"BATTERIES",
+	        "ClassSend"              :"LITHIUM BUTTON BATTERIES",
+	        "ClassName"              :"LITHIUM BUTTON BATTERIES",
+	        "LocSearchSend"          :"Sche",
+	        "LocSearchName"          :"Scheduled",
+	        "TypeSend"               :"Perpe",
+	        "TypeName"               :"Perpetual",
+	        "ScheduleFrom"           :"03/02/2021",
+	        "StockCount"             :"150",
+	        "Comment"                :"No Variance",
+	        "FindProductSend"        :"R2303C",
+	        "FindProductName"        :"R2303C"
+			
+			
+		}
+		
+
+}

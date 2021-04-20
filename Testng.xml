@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="COSACS">
+
+<listeners>
+ <listener class-name="com.cosacs.PageObject.TestListeners"> </listener>
+ </listeners>
+  
+<!--   <test name="COS01_LocationCreation Test" enabled="true">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.cosacs.TestCases.COS01_LocationCreation" />
+		</classes>	
+	</test>
+	
+	<test name="COS04_LocalVendorCreation Test" enabled="true">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.cosacs.TestCases.COS04_LocalVendorCreation" />
+		</classes>	
+	</test>
+	
+	<test name="COS100_TopSKUReports Test" enabled="true">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.cosacs.TestCases.COS100_TopSKUReports" />
+		</classes>	
+	</test> -->
+	
+	<test name="COS17_GoodsReceipt Test" enabled="true">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.cosacs.TestCases.COS17_GoodsReceipt" />
+		</classes>	
+	</test>
+	
+</suite> 

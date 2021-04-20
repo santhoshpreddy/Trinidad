@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="com.cosacs.PageObject.TestListeners"/>
+  </listeners>
+  <test thread-count="5" name="Test">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.cosacs.TestCases.COS65_Service_SuppliersAndCOS66_Service_SupplierContractualCosts"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Suite] -->
